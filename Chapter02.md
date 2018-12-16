@@ -504,6 +504,114 @@ This pre-generated template represents a keen-eyed archer and tracker. The templ
 | 14+   |                        6+ |             5+ |             7+ |             7+ |     8+ |           1+
 
 
+### Witch
+
+| Prime Requisite: | WIS and INT
+| :--------------- | :---
+| Requirements:    | WIS 13
+| Hit Dice:        | 1d4
+| Maximum Level:   | 14
+
+The ignorant will often refer to any female spellcaster as a witch. Actual witches, however, are practitioners of a distinct craft of
+magic. Like priestesses and shamans, witches invoke divine magic, but they do not organize into communities of faith nor do they dedicate themselves to the service of their gods or goddesses. Rather, the relationship of a witch to her divine patron is that of student to teacher, rooted in ancient pacts and secretive traditions. The witch seeks to gain personal knowledge and strength by accepting the guidance and patronage of ancient powers. This quest for knowledge and power often drives witches to become adventurers.
+
+Within the Auran Empire, witches are viewed with deep suspicion by the Empyrean priests, but many rural villages nevertheless have a wise woman with some skill in witchcraft. Witches are fairly common in Southern Argollë, Jutland, Rorn, Kemesh, and the Ivory Kingdoms, each of which has flourishing traditions of witchcraft.
+
+Witches receive little combat training. At first level, witches hit an unarmored foe (AC 0) with an attack throw of 10+. They advance in attack throws only two points every *six* levels of experience (i.e. the same as mages), but they advance in saving throws by two points every *four* levels of experience (i.e. as clerics). They may only fight with clubs, daggers, darts, or staffs. They are unable to use shields, fight with two weapons, or wear any kind of armor.
+
+Starting at 1st level, witches are able to cast **divine spells**, which are granted through esoteric nighttime rituals. The power and number of divine spells available to the character are determined by level according to the Witch Spell Progression table. See the Spells chapter for the witch’s spell lists. They may use any magic items usable by clerics.
+
+When a witch reaches 3rd level (Siren), she may begin to brew potions. When a witch reaches 5th level (Sibyl), she is able to research spells. Upon reaching 7th level (Sorceress), she may scribe magical scrolls. At 9th level (Witch), she is able to create more powerful magic items such as weapons, rings, and staffs. At 11th level, a witch may learn and cast ritual divine spells of great power (6th and 7th level) and craft magical constructs. Witches perform such magic research as clerics of their level.
+
+Every witch must belong to a **tradition**, which defines her approach to the magic and her relationship with the gods and spirits that are her source of power. When a witch is created, select a tradition for the character from the Tradition table below, and write down the powers of the tradition. Each provides a special ability at 1st, 3rd, 5th, and 7th level.
+
+The regions within the Auran Empire campaign setting associated with each tradition are noted below. The Judge may create other traditions for his own campaign setting where necessary.
+
+| Tradition           | Region      | Description
+| :------------------ | :---------- | :----------
+| Antiquarian         | Auran Empire, Jutland | Wise women who focus on healing and beneficial potions, they practice their traditional craft wherever rural human settlements may be found.
+| Chthonic            | Kemesh      | Malefic practitioners who consort with the darkest of powers, reveling in the seduction and corruption of the innocent.
+| Sylvan              | Rorn, Southern Argollë | Reclusive witches who travel the borderlands between human settlements and fey forests.
+
+#### Antiquarian Witch
+1st level: With simple herbs and medicinal folklore, the antiquarian witch learns to treat ailments and injuries. The witch gains one rank of the **Healing** proficiency.
+3rd level: The antiquarian witch knows much that has been lost about the healing arts. She gains the power to **cure moderate wounds** by touch once every 8 hours. Each use takes 1 turn (10 minutes).
+5th level: The antiquarian witch expands her knowledge of herbs and brews into truly arcane formulations. She gains one rank of **Alchemy** proficiency.
+7th level: Poisons are much studied and little feared by the antiquarian witch. She gains the power to **neutralize poison** once per day. Each use takes 1 turn (10 minutes).
+
+#### Chthonic Witch
+1st level: The chthonic witch learns depraved arts of pleasure from the dark powers. She gains the **Seduction** proficiency.
+3rd level: The mysteries of death are unlocked for the chthonic witch. She gains the **Black Lore of Zahar** proficiency.
+5th level: Few can resist the chthonic witch’s ravishing glamour. The witch gains the **Mystic Aura** proficiency.
+7th level: With dark whispers the chthonic witch can dominate the weak-willed. The witch gains the power to **charm person** once per day. Each use takes 1 round (10 seconds).
+
+#### Sylvan Witch
+1st level: From long years in the company of wild and fey things, the sylvan witch gains the **Beast Friendship** proficiency.
+3rd level: Through fey glamours and bewitching dweomers, the witch can appear however she desires. She gains the power to **change shape** (as a warlock) once per day. Each use takes 1 turn (10 minutes).
+5th level: The sylvan witch becomes one with the forests around her. She gains the **Passing Without Trace** proficiency.
+7th level: No longer bound by the humanoid form, the sylvan witch can take on fantastical shapes. The witch gains the power to **polymorph self** once per week. Each use takes 1 turn (10 minutes).
+
+Upon attaining 9th level (Witch), a witch of any tradition may establish a coven, usually in a remote and desolate location. If she does so, he will attract 1d6 apprentices of her tradition between 1st-3rd level plus 2d6 normal women seeking to become witches. Their Wisdom scores will be above average, but many will become fearful of the sacrifices involved and quit after 1d6 months. While in the witch’s service, apprentices must be provided food and lodging, but need not be paid wages. If the witch builds a dungeon beneath or near her coven, monsters will start to arrive to dwell within, followed shortly by adventurers seeking to fight them. Witches’ covens are otherwise identical to mages’ sanctums, as detailed in the Campaign chapter of the ACKS Rulebook.
+
+**Witch Proficiency List:** Alchemy, Apostasy, Arcane Dabbling, Beast Friendship, Black Lore of Zahar, Contemplation, Craft, Divine Blessing, Divine Health, Elementalism, Elven Bloodline, Familiar, Healing, Illusion Resistance, Laying on Hands, Loremastery, Magical Engineering, Magical Music, Mystic Aura, Naturalism, Prestidigitation, Prophecy, Quiet Magic, Seduction, Sensing Power, Theology, Transmogrification, Unflappable Casting
+
+
+
+| Template:           | Village Witch
+| :------------------ | :-----
+| Proficiencies:      | Laying on Hands, Healing, *Healing 2*
+| Starting Equipment: | Antiquarian implements, antiquarian talisman of healing, leather-bound codex with **purify food and water** and **salving rest**, slender oak staff, freeholder’s dress, leather belt, leather shoes, backpack, 1lb birthwort, 2lb comfrey, 1lb goldenrod, 1lb woundwort, 5 scented wax candles, flask of holy water, 2 weeks’ iron rations, 7gp
+
+
+**Village Witch Template:** This pre-generated template represents a rural witch from the antiquarian tradition. The template is ready for adventure. However, if your witch’s INT is 13 or greater, you may pick one or more additional general proficiencies before play if you’d like (see Starting Proficiencies in Chapter 4 of ACKS).
+
+
+#### Witch Level Progression
+
+| Experience | Title             | Level | Hit Dice 
+| ---------: | :---------------- | ----: | :------- 
+|          0 | Initiate          |     1 | 1d4      
+|      2,000 | Seeress           |     2 | 2d4      
+|      4,000 | Siren             |     3 | 3d4      
+|      8,000 | Pythoness         |     4 | 4d4      
+|     16,000 | Sibyl             |     5 | 5d4      
+|     32,000 | Enchantress       |     6 | 6d4      
+|     65,000 | Sorceress         |     7 | 7d4      
+|    130,000 | Incantrix         |     8 | 8d4      
+|    230,000 | Witch             |     9 | 9d4      
+|    330,000 | Witch, 10th lvl   |    10 | 9d4+1*   
+|    430,000 | Witch, 11th lvl   |    11 | 9d4+2*   
+|    530,000 | Witch, 12th lvl   |    12 | 9d4+3*   
+|    630,000 | Witch, 13th lvl   |    13 | 9d4+4*   
+|    730,000 | Witch Queen       |    14 | 9d4+5*  
+
+*Hit point modifiers from constitution are ignored
+
+
+#### Witch Saving Throws
+
+| Level | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells 
+| :---- | ------------------------: | -------------: | -------------: | -------------: | -----: 
+| 1-2   |                       13+ |            10+ |            16+ |            13+ |    15+ 
+| 3-4   |                       12+ |             9+ |            15+ |            12+ |    14+ 
+| 5-6   |                       11+ |             8+ |            14+ |            11+ |    13+ 
+| 7-8   |                       10+ |             7+ |            13+ |            10+ |    12+ 
+| 9-10  |                        9+ |             6+ |            12+ |             9+ |    11+ 
+| 11-12 |                        8+ |             5+ |            11+ |             8+ |    10+ 
+| 13-14 |                        7+ |             4+ |            10+ |             7+ |     9+ 
+
+#### Witch Attack Throws
+
+| Level | Attack Throw  |
+| :---- | :------------ |
+| 1-3   | 10+           |
+| 4-6   | 9+            |
+| 7-9   | 8+            |
+| 10-12 | 7+            |
+| 13-14 | 6+            |
+
+
+
 
 ## Alignment
 
