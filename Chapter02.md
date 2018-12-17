@@ -106,7 +106,7 @@ Each character class rolls a different kind of die to determine hit points, as n
 
 The classes described in these rules are the fighter, explorer, freebooter, bard, thief, runemaker, witch, and loremaster.
 
-Selecting equipment and proficiencies can be time-consuming, especially for new players. As a faster alternative, we offer a pre-generated template for each class, with weapons, armor, equipment, proficiencies, and spells ready for play. This default suggested template may always be taken, or a player may choose to roll for a template as described [above](#creating-characters-with-templates-(recommended)). 
+Selecting equipment and proficiencies can be time-consuming, especially for new players. As a faster alternative, we offer a pre-generated template for each class, with weapons, armor, equipment, proficiencies, and spells ready for play. This default suggested template may always be taken, or a player may choose to roll for a template as described [above](###creating-characters-with-templates-(recommended)). 
 
 
 ### Fighter
