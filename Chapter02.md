@@ -29,7 +29,7 @@ You've taken the first step on your adventure, but you are still a 0th level hum
 9. Give your character a name, and create a description of what your character looks like, his personality, and maybe even a brief note about the character's background. Then choose an appropriate Alignment for your character. Your Judge will have information on the setting of your character's world that can be helpful in naming your new character and developing his background.
 
 
-### Creating Characters with Templates (Recommended)
+### Creating Characters with Templates
 
 To speed up the character creation process, a player may opt to roll for a character's proficiencies and equipment using a template. To create a character this way, follow the above instruction through step 6, then follow the instructions below. 
 
@@ -106,7 +106,7 @@ Each character class rolls a different kind of die to determine hit points, as n
 
 The classes described in these rules are the fighter, explorer, freebooter, bard, thief, runemaker, witch, and loremaster.
 
-Selecting equipment and proficiencies can be time-consuming, especially for new players. As a faster alternative, we offer a pre-generated template for each class, with weapons, armor, equipment, proficiencies, and spells ready for play. This default suggested template may always be taken, or a player may choose to roll for a template as described [above](###creating-characters-with-templates-(recommended)). 
+Selecting equipment and proficiencies can be time-consuming, especially for new players. As a faster alternative, we offer a pre-generated template for each class, with weapons, armor, equipment, proficiencies, and spells ready for play. This default suggested template may always be taken, or a player may choose to roll for a template as described [above](chapter02.md#creating-characters-with-templates). 
 
 
 ### Fighter
