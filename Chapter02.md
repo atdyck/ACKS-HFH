@@ -975,7 +975,7 @@ Bard Notes: The Performance proficiency that each bard template begins with is n
 | 15-16 | Cat Burglar (Scoundrel Path) | *Cat Burglary, Climbing, Disguise, Eavesdropping, Lip Reading*, Skulking, Gambling | Short sword, shortbow (20 arrows), 2 throwing daggers, supple leather armor, black cloak with hood and bandana, black tunic and pants, padded sandals, backpack (2 large sacks, thieves' tools, crowbar, 100' rope, grappling hook, lantern, tinderbox, 2 flasks of common oil, small hammer, 12 iron spikes, 1 week's iron rations, wineskin, 5gp)
 | 17-18 | Spy | *Cat Burglary, Climbing, Disguise, Eavesdropping, Lip Reading*, Bribery, Diplomacy | Short sword and dagger, fine leather armor, embroidered traveling cloak, traveler's tunic and pants, leather belt, low boots, backpack (disguise kit, crowbar, 50' rope, 1 week's iron rations, 8gp), light riding horse, riding saddle and tack, saddlebags 
 
-* The freebooter's bonus path proficiencies are italicized. A francisca is a type of hand axe. Sea leather is a special type of leather armor.
+The freebooter's bonus path proficiencies are italicized. A francisca is a type of hand axe.
 
 
 #### Runemaker Templates
@@ -987,7 +987,7 @@ Bard Notes: The Performance proficiency that each bard template begins with is n
 | 11-13 |	Purifier |	Weapon Focus (flails/hammers/maces), Theology |	War hammer, francisca, polished chain hauberk, steel shield, blue wool tunic and pants, leather belt, low boots, backpack (runic implements 1st-level] 12 torches, tinder box, 1 week's iron rations, 5gp), belt pouch (runestones) 
 | 14-18 |	Watcher |	Second Sight, Craft (rune-carving) | Rune-etched spear, shortbow (20 arrows), sword, chain hauberk, wind-battered fur cloak, wool tunic and pants, leather belt, low boots, backpack (runic implements 1st-level, crafting tools, blanket, wineskin, 1 week’s iron rations), belt pouch (runestones)
 
-* A Dane axe is a type of battle axe and a francisca is a type of hand axe. A chain byrnie is equivalent to ring mail and a chain hauberk is equivalent to chain mail.
+A Dane axe is a type of battle axe and a francisca is a type of hand axe. A chain byrnie is equivalent to ring mail and a chain hauberk is equivalent to chain mail.
 
 
 #### Witch Templates
@@ -1008,8 +1008,8 @@ The death mistress’s stiletto is a type of dagger.
 
 
 #### Loremaster Templates
-| :------- | :------- | :------------ | :-----------------
 | 3d6 Roll | Template | Proficiencies | Starting Equipment
+| :------- | :------- | :------------ | :-----------------
 | 3-4 |	Village Wizard | Familiar (owl), Healing, Village Ceremonialism | Owl familiar, musty old codex with **slipperiness** and **ventriloquism**, theurgical implements 1st-level, theurgical talisman of enchantment & illusion, gnarled oaken staff, simple robe, leather shoes, medicine bag, 1lb comfrey, 2 weeks’ iron rations
 | 5-6 |	Soothsayer | Soothsaying, Performance (storytelling), Theology | Enameled codex with **protection from evil** and **magic mouth**, theurgical implements 1st-level, theurgical talisman of protection, smooth-worn staff, simple robe, leather belt, low boots, backpack, ornamental crystal ball (20gp value), quill and ink, 2 weeks’ iron rations
 | 7-8 | Necromancer | Black Lore of Zahar, Alchemy, Healing | Iron-bound snakeskin codex with **choking grip** and **unliving puppet**, theurgical implements 1st-level, theurgical talisman of death & necromancy, curved sacrificial dagger, grey robes, leather belt, leather gloves, high boots, backpack, 1lb birthwort, 1lb goldenrod, 1lb woundwort, quill and ink, 2 weeks’ iron rations, 5gp
@@ -1019,6 +1019,8 @@ The death mistress’s stiletto is a type of dagger.
 | 15-16 | Warmage | Battle Magic, Military Strategy, Siege Engineering | Sturdy codex with **sharpness** and **shatter blade**, theurgical implements 1st-level, theurgical talisman of transmogrification, iron-shod staff, ornate seax \[dagger], red armiger’s tunic and pants, leather belt, leather gloves, high boots, backpack, quill and ink, 2 weeks’ iron rations, 100gp
 | 17-18 | Court Magist | Prestidigitation, Diplomacy, Language | Bronze-framed codex with **detect evil** and **detect magic**, theurgical implements 1st-level, theurgical talisman of detection, quarterstaff tipped with glass gemstone (45gp value), 5 darts, silk mage’s cassock, extravagant hat, leather belt, leather gloves, high boots, backpack, quill and ink, medium riding horse, riding saddle and tack, saddlebags, 1 week’s iron rations, 22gp
 
+Loremaster Notes: Most characters of this class have above average Intelligence, and the templates above reflect that. Each template assumes that the character has an INT ability score of between 13 and 15, qualifying him for one bonus proficiency and one bonus spell. The bonus proficiency and bonus spell that each template begins with are noted last. For characters with INT of less than 13 or greater than 15, see the Intelligence Scores of Arcane Spellcasters section earlier in this Chapter. Also remember that INT of 13 or higher grants bonus languages. 
+\*The Elementalist can be changed to other elements by substituting the following spells and talisman for kindle flame and talisman of elemental fire: ice floe (water), sling stone (earth), thunderclap (air).
 
 
 
