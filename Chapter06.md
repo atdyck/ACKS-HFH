@@ -647,7 +647,50 @@ If a character suffers permanent damage, a restore life and limb spell, regenera
 
 ### Healing
 
-All beings recover hit points through rest. For each full day of complete rest in reasonably sanitary conditions, a character or monster will recover 1d3 hp. If the rest is interrupted, the character or monster will not heal that day. Healing also occurs through magic, such as potions or spells. This kind of healing is instantaneous. Magical healing and natural healing can be combined. Characters with the Healing proficiency can improve a creature's natural healing, as [described](Chapter04.md#proficiency-descriptions) in Chapter 4.
+All beings recover hit points through rest. For each full day of complete rest in reasonably sanitary conditions, a creature will recover its base healing rate (BHR). If its rest is interrupted, the creature will not heal that day. A creature’s base healing rate is based on its maximum hit points, as shown on the Base Healing Rate table. A character’s BHR should be recorded on its character sheet, and updated each time the character gains additional hit points.
+
+>EXAMPLE: Athelstan has 12 hp. His base healing rate is 1d4 hp per day. With a full day of complete rest in sanitary conditions, Athelstan will recover between 1 and 4 hp. If his rest is interrupted, he will not heal.
+
+| Max HP        | BHR (hp/day)
+| :------------ | ------------:
+| 1-3           |           1d2
+| 4-9           |           1d3
+| 10-16         |           1d4
+| 17-23         |           1d6
+| 24-29         |           1d8
+|30-36          |       	  1d10
+|37-49	        |           2d6
+|50-63	        |           2d8
+|64-76	        |           2d10
+|77-89	        |           2d12
+|90-110	        |           3d10
+|111-140	      |           4d10
+|141-170	      |           5d10
+|171+	          |           6d10, plus 1d10 per 30hp past 170
+
+Characters with the Healing proficiency can shorten their patient’s recovery time. A patient under treatment of Healing recovers twice his base healing rate in hp each day of rest.
+
+>EXAMPLE: If Athelstan were the patient of a character with Healing proficiency, he would recover twice his base healing rate of 1d4 hp per day of rest, i.e. 2d4 hp per day of rest.  
+
+Healing also occurs through magic, such as potions or spells. This kind of healing is instantaneous and will typically be equal to one or more days of rest, as shown on the Magical Healing table. Magical healing and natural healing can be combined.
+
+>EXAMPLE: Athelstan (with 12 hp and a base healing rate of 1d4 hp) has sustained 9 points of damage, leaving him with 3 hp. A cleric treats him with comfrey. Comfrey heals its target by half as much as if he had rested for one day, rounded up. Athelstan’s base healing rate is 1d4 hp per day, so he will heal 1d4/2 hp. The result of the roll is a 3, so Athelstan is healed (3 / 2) 1.5 hp, rounded up to 2 hp. The cleric then casts cure moderate wounds on Athelstan. Cure moderate wounds heals its target as if he had rested for two days, so Athelstan will heal 2d4 hp. The result of the roll is a 5, so Athelstan is healed 5 points. He now has 10 hp of his maximum of 12.
+
+|Spell/Magic Item	|   Effect*
+|:------------|------------:
+|Salving Rest   |	The target’s base healing rate is doubled for non-magical healing.
+|Cure Light Wounds  |	The target is healed as if he had rested for one day.
+|Cure Moderate Wounds   |	The target is healed as if he had rested for two days.
+|Cure Major Wounds  |	The target is healed as if he had rested for three days.
+|Cure Serious Wounds    |	The target is healed as if he had rested for four days.
+|Cure Critical Wounds   |	The target is healed as if he had rested for five days.
+|Spirit of Healing  |	Each round, the target is healed as if he had rested for one day.
+|Lay on Hands   |	The target is healed as if he had rested for one day per two levels of the healer (rounded up).
+|Comfrey    |	The target is healed by half as much as if he had rested for one day (rounded up).
+|Potion of Healing  |	The target is healed as if he had rested for one day.
+|Potion of Extra-Healing    |	The target is healed as if he had rested for three days.
+
+* These effects occur instead of the spell or magic item’s effect under the ACKS core rules.
 
 Some results on the [Mortal Wounds](Chapter06.md#mortal-wounds) or [Tampering with Mortality](Chapter06.md#tampering-with-mortality) tables will indicate that a character needs a period of bed rest to recover. During this time, the character does not regain hit points from natural or magical healing, and cannot take any action other than speaking and moving at half speed. If the character is killed again before he has had sufficient rest, he cannot be treated or restored to life by anything less than ritual magic. If the table indicates that the period of bed rest can be shortened with magical healing, then any form of healing magic, including cure spells, potions, Laying On Hands, or other means, will suffice. Otherwise, the period of bed rest cannot be shortened.
 
