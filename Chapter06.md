@@ -503,6 +503,25 @@ Whether or not an attack hits its target is determined with an attack throw. The
 
 *Example*: A 20 HD bronze golem (attack throw -3) attacks on an ogre (AC3). It will need a modified roll of 0 (-3+3) or more to hit. However, an modified roll of 1 is always a miss, so the golem will need to roll at least a 2 or more.
 
+### Attacks and Armor Penetration of Large Monsters
+
+All monsters larger than men suffer an attack throw penalty based on their size category. This penalty applies to all attacks by the monster. In exchange, the monster gains a commensurate amount of armor penetration. Armor penetration allows a monster to ignore a number of points of the target’s Armor Class from armor, shields, magical adjustments to armor and shields, Weapon & Shield proficiency, magical items "of armor", and spells that create magical armor or shields or render the subject invulnerable. However, armor penetration cannot ignore Armor Class from DEX, Graceful Fighting ability, Swashbuckling proficiency, magical items and spells "of protection", and spells that improve AC through luck, speed, or divine favor.
+
+In most cases, a monster will be attacking a foe with more armor than its armor penetration, and the attack throw penalty and armor penetration will cancel each other out. However, when a target is wearing less armor than the monster’s armor penetration, it will have a relatively harder time hitting the target. This is much to the benefit of heroic fantasy archetypes such as barbarians in loincloths, bladedancers in chainmail bikinis, and thieves in leather armor.
+
+| Size Category  |	Attack Throw Penalty  |	Armor Penetration
+| :- | :- | :-
+| Man-sized (399 lbs or less) |	0 |	0
+| Large (400 – 1,999 lbs) | 	-2 |	2
+| Huge (2,000 – 7,999 lbs)  |	-4  |	4
+| Gigantic (4 – 15 tons)  |	-6  |	6
+| Colossal (16 – 31 tons) |	-8  |	8
+| Colossal (32 – 63 tons) |	-10 |	10
+| Colossal (64 tons or more)  |	-12 |	12
+
+>EXAMPLE: An ogre, a large creature with an attack throw of 6+, is fighting a fighter and a thief. In the first round, it attacks the fighter. The fighter is wearing plate armor (AC 6). The ogre suffers a -2 penalty to its attack throw, but it ignores 2 points of armor. Its target value to hit the fighter is (6+2+6-2) 12+. In the second round, the ogre attacks the thief. The thief is wearing no armor but has DEX 18, so he has AC 3. The ogre suffers a -2 penalty to its attack throw because of its size. It could ignore 2 points of armor, but the thief is not wearing any. The ogre’s target value to hit the thief is (6+2+3) 11+. <br><br>
+Note that if this rule were not applied, the ogre’s target value to hit the fighter would still be (6+6) 12+, but the ogre’s target value to hit the thief would only be (6+3) 9+.  Nimble, lightly armored characters benefit from this rule.
+
 
 ### Critical Hits
 
