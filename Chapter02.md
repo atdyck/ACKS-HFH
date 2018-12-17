@@ -29,6 +29,17 @@ You've taken the first step on your adventure, but you are still a 0th level hum
 9. Give your character a name, and create a description of what your character looks like, his personality, and maybe even a brief note about the character's background. Then choose an appropriate Alignment for your character. Your Judge will have information on the setting of your character's world that can be helpful in naming your new character and developing his background.
 
 
+### Creating Characters with Templates (Recommended)
+
+To speed up the character creation process, a player may opt to roll for a character's proficiencies and equipment using a template. To create a character this way, follow the above instruction through step 6, then follow the instructions below. 
+
+7. Find the appropriate template table for your character’s class in Chapter XX, Character Class Templates. With the Judge’s permission, choose a template appropriate to the campaign. Otherwise, roll 3d6 on the table to determine your character’s starting template. Note down your character’s starting proficiencies from the table. All characters always begin with the Adventuring proficiency in addition to those listed. Apply any modifiers to your ability scores, hit points, attack throws, or saving throws from proficiencies. If you have chosen to play a magic-user, note down the starting ceremonies or spells from your template.
+
+8. Write your character’s starting equipment and gold pieces as listed for your template. You do not roll for starting wealth when using a template. Since you now know what armor your character is wearing, note your Armor Class (AC) on the character sheet based on the type of armor you choose. Calculate your character’s encumbrance based on how much weight he is carrying.
+
+9. Give your character a name, and create a description of what your character looks like, his personality, and maybe even a brief note about the character’s background. Then choose an appropriate Alignment for your character. Your Judge will have information on the setting of your character’s world that can be helpful in naming your new character and developing his background.
+
+
 ### Generating Multiple Characters (Optional)
 
 As an optional rule, at the start of play, each player generates five characters and select one primary and two back-up characters. The remaining two characters are given to the Judge to use as NPCs to populate the campaign setting. If the primary and back-ups are all killed, the player generates five additional characters, again picking three and giving the Judge two. This ensures that the player always has a variety of characters to choose from to find one he likes, and gives the Judge some additional NPCs to populate the world.
@@ -504,6 +515,246 @@ This pre-generated template represents a keen-eyed archer and tracker. The templ
 | 14+   |                        6+ |             5+ |             7+ |             7+ |     8+ |           1+
 
 
+### Freebooter
+
+*They lived by thievery, robbery, bodyguarding, brief commissions as couriers and agents—commissions they always, or almost always, fulfilled punctiliously—and by showmanship, the Mouser entertaining by legerdemain, juggling, and buffoonery, while Fafhrd with his gift for tongues and training as a singing skald excelled at minstrelsy. They never worked as cooks, clerks, carpenters, tree-fellers, or common servants...*  – The Circle Curse, in Swords Against Death (Fritz Leiber)
+
+| Prime Requisite: | DEX (plus one ability score determined by path)
+| :--------------- | :---
+| Requirements:    | None
+| Hit Dice:        | 1d4
+| Maximum Level:   | 14
+
+Freebooters are a motley assortment of adventurers who live and die for plunder. Some freebooters are dauntless expeditionaries who raid tombs for ancient treasures. Others may be brutal ruffians who rob and ravage the weak and foolish, cunning scoundrels with the charisma to convince their marks to hand over their wealth willingly, or hardy wayfarers who exact a toll on any who cross the roads and trails of their wilderness homes. Whatever their particular path to plunder, wayfarers share a lust for adventure, a taste for gold, and a willingness to resort to subterfuge and backhanded tactics without hesitation.  
+
+Like thieves, freebooters often belong to a criminal guild which offers shelter and information between heists. At the Judge’s discretion, a freebooter may have to forfeit a portion of his earnings to the guild in exchange for protection. In the Auran Empire, freebooters are everywhere, from the slums of the ports of Kushtu to the highest halls of the Senate in Aura.
+
+Freebooters are ruthless, dirty combatants. At first level, freebooters hit an unarmored foe (AC 0) with an attack throw of 10+. Like fighters, they advance in attack throws by two points every three levels of experience. However they advance in saving throws like thieves, by two points every four levels of experience.
+
+All freebooters may wear leather armor or lighter, and may wield crossbows, daggers, shortbows, short swords, and swords, as well as five other weapons determined by their path (see below). They may fight wielding a weapon two-handed and wielding a weapon in each hand, but may not use shields.  They may only use magic items usable by thieves.
+
+Lacking the staying power of fighters, freebooters prefer to strike from ambush and finish their foes quickly. A freebooter whose opponent is unaware of his presence can backstab him. When backstabbing, the freebooter receives an attack bonus of +4 and, if successful, deals additional damage for every four levels he has attained. A freebooter at 1st through 4th levels does double the normal damage, at 5th-8th levels does triple the normal damage, at 9th-12th levels does quadruple the normal damage, and at 13th level or higher does quintuple the normal damage.
+
+Freebooters increase their damage from their choice of either missile or melee attacks by +1 at 1st level, and by an additional +1 at 3rd, 6th, 9th, and 12th level. The freebooter must choose which type of attack will receive the damage bonus at 1st level, and may not change the choice as he advances (i.e. they may choose to be either melee or missile specialists).
+
+A freebooter’s plundering pursuits are shaped by his path to wealth. There are four paths to wealth available to a freebooter: Expeditionary, Ruffian, Scoundrel, and Wayfarer. Each path offers a different set of abilities reflecting that path’s preferred methods to accumulate wealth. When a freebooter is created, select a path for the character from the Paths to Wealth table below, and write down the proficiencies and powers of the path. Each path teaches the use of a selection of five additional weapons, trains the character in four thief skills, and grants five bonus proficiencies. Note that each path has its own prime requisite in addition to DEX.
+
+| Path | Description
+| :--- | :----------
+| Expeditionary	| A looter of tombs and a delver of dungeons, skilled in scouting, trap-finding, and lock-picking.
+| Ruffian | A cut-throat and killer, skilled in breaking and entering, robbery, and intimidation.
+| Scoundrel | A gentleman thief, skilled in subterfuge and disguise.
+| Wayfarer | A highwayman, outrider, or scout, skilled in hunting, trapping, and survival.
+
+At the Judge’s discretion, a freebooter may follow a unique path, outside of the four listed above. The player and Judge should collaborate to choose five weapons, four thief skills, and five bonus proficiencies that are appropriate to the freebooter.
+
+#### Path of Expeditionary
+
+Prime Requisite: WIS<br>
+Weapons:  hand axe, pole arm, spear, staff, war hammer<br>
+Thief Skills:  find traps, open locks, move silently, remove traps<br>
+Bonus Proficiencies:  Alertness, Climbing, Dungeon Bashing, Mapping, Trap Finding
+
+
+The expeditionary is a looter of tombs and a delver of dungeons. He often serves as point-man on dungeon delves due to his ability to find both secret doors and traps more effectively than almost any other adventurer. His ability to climb walls and move silently allows him to scout ahead undetected by listening guards, while his training in disarming traps, opening locks, and bashing doors enables him to penetrate almost any obstacle in his path to plunder. Expeditionaries are also excellent map-makers and most treasure maps are created by them.
+
+#### Path of Ruffian
+Prime Requisite: STR <br>
+Weapons: battle axe, club, morning star, sap, whip<br>
+Thief Skills: hide in shadows, move silently, open locks, pick pockets<br>
+Bonus Proficiencies: Dungeon Bashing, Fighting Style (ruffian’s choice), Intimidation, Skulking, Swashbuckling
+
+The ruffian is a cut-throat and killer. A ruffian can cut the purses of passersby, skulk in the shadows to waylay unsuspecting victims, break into homes and burglarize their valuables, or simply rely on his threatening demeanor and martial prowess to rob victims at sword-point. Most freebooters are ruffians, and they can be found in great numbers in any den of scum and villainy.
+
+#### Path of Scoundrel
+Prime Requisite: CHA<br>
+Weapons: arbalest, dart, mace, sap, whip<br>
+Thief Skills: hide in shadows, move silently, open locks, pick pockets<br>
+Bonus Proficiencies: Cat Burglary, Climbing, Disguise, Eavesdropping, Lip Reading
+
+The scoundrel is a gentleman thief. His ability to scale walls, open locks, hide in shadows, and move silently enables him to function as nigh-undetectable cat burglar, stealing his victims’ most precious treasures without need for violence. An expert in disguise, he can blend in to any crowd, where his graceful sleight-of-hand can relieve his marks of their important papers and burdensome purses. Skilled eavesdroppers and lip readers, scoundrels often work as spies and secret agents, uncovering secrets that the powerful wish to keep hidden.
+
+#### Path of Wayfarer
+Prime Requisite: CON<br>
+Weapons: bola, hand axe, longbow, net, staff<br>
+Thief Skills: climb walls, hear noise, hide in shadows, move silently<br>
+Bonus Proficiencies: Land Surveying, Running, Sniping, Skirmishing, Tracking
+
+The wayfarer is a highwayman, outrider, and scout. He excels at hit-and-run attacks, sniping from the cover of darkness and brush, then falling back swiftly and silently into the wilderness. He has the ability to move through the wilderness at great speed, and can navigate mountainous terrain, climb trees, and scale precipices that halt pursuers. If inclined to law, wayfarers may use their expertise in tracking and land surveying to discover monster lairs in the wilderness for adventuring parties or local garrisons.
+
+While each path of freebooter knows different thief skills, all follow the same progression of improvement, as shown on the Freebooter (Thief) Skill Progression table, below.
+
+When a freebooter attains 9th level (Freebooter Captain), he can establish a hideout, and 2d6 freebooter apprentices of 1st level will come to work with the character. The freebooters will be of the same path as their captain. If hired, they must be paid standard rates. Additional rules for hideouts are detailed in the Campaign chapter.
+
+Freebooter Proficiency List: Acrobatics, Alertness, Arcane Dabbling, Blind Fighting, Bribery, Cat Burglary, Ceremonial Magic, Combat Reflexes, Combat Trickery (disarm, incapacitate), Contortionism, Fighting Style, Lip Reading, Lockpicking, Loremastery, Magical Music, Martial Training, Mountaineering, Passing Without Trace, Precise Shooting, Running, Skirmishing, Skulking, Sniping, Swashbuckling, Trap Finding, Weapon Finesse, Weapon Focus*
+
+*Modified or new proficiency described in [New and Modified Proficiencies](#new-and-modified-proficiencies).
+
+
+| Template:           | Spelunker (Expeditionary path)
+| :------------------ | :--------
+| Proficiencies:      | Mountaineering, Caving
+| Starting Equipment: | Crossbow, case with 20 bolts, 10’ pole, short sword, 2 throwing daggers, sturdy leather armor, tanned brown cloak, thick tunic and pants, leather belt, low boots, backpack, 2 large treasure sacks, thieves’ tools, grappling hook, 50’ rope, tinderbox, lantern, small hammer, 12 iron spikes, 2 flasks of military oil, wineskin, 2 weeks’ iron rations
+
+
+#### Freebooter Level Progression
+
+| Experience | Title                          | Level | Hit Dice | Damage Bonus | Backstab
+| ---------: | :----------------------------- | ----: | :------- | :----        | -------:
+|          0 | Scrounger                      |     1 | 1d4      | +1 |      x2
+|      2,150 | Looter                         |     2 | 2d4      | +1 |      x2
+|      4,300 | Pilferer                       |     3 | 3d4      | +2 |      x2
+|      8,600 | Purloiner                      |     4 | 4d4      | +2 |      x2
+|     17,200 | Defalcator                     |     5 | 5d4      | +2 |      x3
+|     34,400 | Ransacker                      |     6 | 6d4      | +3 |      x3
+|     70,000 | Plunderer                      |     7 | 7d4      | +3 |      x3
+|    140,000 | Freebooter                     |     8 | 8d4      | +3 |      x3
+|    240,000 | Freebooter Captain             |     9 | 9d4      | +4 |      x4
+|    340,000 | Freebooter Captain, 10th level |    10 | 9d4+2*   | +4 |      x4
+|    440,000 | Freebooter Captain, 11th level |    11 | 9d4+4*   | +4 |      x4
+|    540,000 | Freebooter Captain, 12th level |    12 | 9d4+6*   | +5 |      x4
+|    640,000 | Freebooter Captain, 13th level |    13 | 9d4+8*   | +5 |      x5
+|    740,000 | Prince of Plunder              |    14 | 9d4+10*  | +5 |      x5
+
+*Hit point modifiers from constitution are ignored
+
+
+#### Freebooter Saving Throws
+
+| Level  | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells
+| :----- | ------------------------: | -------------: | -------------: | -------------: | -----:
+| 1-2    |                       13+ |            13+ |            16+ |            14+ |    15+
+| 3-4    |                       12+ |            12+ |            15+ |            13+ |    14+
+| 5-6    |                       11+ |            11+ |            14+ |            12+ |    13+
+| 7-8    |                       10+ |            10+ |            13+ |            11+ |    12+
+| 9-10   |                        9+ |             9+ |            12+ |            10+ |    11+
+| 11-12  |                        8+ |             8+ |            11+ |             9+ |    10+
+| 13-14+ |                        7+ |             7+ |            10+ |             8+ |     9+
+
+
+#### Freebooter Attack Throws
+
+| Level | Attack Throw
+| :---- |
+| 1     |	10+
+| 2-3   |	9+
+| 4     |	8+
+| 5-6   |	7+
+| 7     |	6+
+| 8-9   |	5+
+| 10    |	4+
+| 11-12 |	3+
+| 13    |	2+
+| 14    |	1+
+
+
+#### Freebooter (Thief) Skills
+
+| Level | Open Locks | Find and Remove Traps | Pick Pockets* | Move Silently | Climb Walls | Hide in Shadows | Hear Noise
+| :---- | ---------: | --------------------: | ------------: | ------------: | ----------: | --------------: | ---------:
+|     1 |        18+ |                   18+ |           17+ |           17+ |          6+ |             19+ |        14+
+|     2 |        17+ |                   17+ |           16+ |           16+ |          5+ |             18+ |        13+
+|     3 |        16+ |                   16+ |           15+ |           15+ |          5+ |             17+ |        12+
+|     4 |        15+ |                   15+ |           14+ |           14+ |          4+ |             16+ |        11+
+|     5 |        14+ |                   14+ |           13+ |           13+ |          4+ |             15+ |        10+
+|     6 |        12+ |                   13+ |           12+ |           12+ |          4+ |             14+ |         9+
+|     7 |        10+ |                   11+ |           10+ |           10+ |          3+ |             12+ |         8+
+|     8 |         8+ |                    9+ |            8+ |            8+ |          3+ |             10+ |         7+
+|     9 |         6+ |                    7+ |            6+ |            6+ |          3+ |              8+ |         6+
+|    10 |         4+ |                    5+ |            4+ |            4+ |          3+ |              6+ |         5+
+|    11 |         3+ |                    3+ |            2+ |            2+ |          2+ |              4+ |         4+
+|    12 |         2+ |                    2+ |           -1+ |            2+ |          2+ |              3+ |         3+
+|    13 |         1+ |                    2+ |           -3+ |            1+ |          1+ |              2+ |         2+
+|    14 |         1+ |                    1+ |           -5+ |            1+ |          1+ |              1+ |         1+
+
+*-1 penalty on the proficiency throw per each level the thief is lower than the victim.
+
+
+### Runemaker
+
+*“There are cure runes, and aid runes, and ale runes, and peerless power runes, for all to use unspoiled and unprofaned, to bring about good fortune. Enjoy them if you have learned them, until the gods perish.”* – Brynhild, in The Saga of the Volsungs (Chapter 21)
+
+| Prime Requisite: | STR and WIS
+| :--------------- | :---
+| Requirements:    | None
+| Hit Dice:        | 1d6
+| Maximum Level:   | 14
+
+Runemakers are warriors skilled in the lore of runes, magic sigils that contain eldritch power. Though unable to cast spells in the manner of a mage or wizard, runemakers can accomplish many of the same feats through their runes. Through rune-lore, runemakers can see the future, curse their enemies, and perform other miraculous deeds.  
+
+Runemakers are skilled combatants, albeit not as good as fighters. At first level, runemakers hit an unarmored foe (AC 0) with an attack throw of 10+. They advance in attack throws and saving throws by two points every four levels of experience (a progression mid-way between fighters and mages). Because runemakers lack the broad professional training of the fighter, they may only wear chain mail or lighter armor, and are limited to fighting with the following weapons: Great axe, battle axe, hand axe, shortbow, club, spear, javelin, dagger, sword, two-handed sword.
+
+Those who study runes known that gods and men alike are ruled by fate. At 1st level (Runelearner), a runemaker can cast the runes to receive an augury (as the spell) about what fate has in store. It takes one round to cast the runes. A runemaker must have access to his [runic implements](#traditional-implements) in order to cast the runes, and he can do so only once every 8 hours. (Note that “casting” in this context is analogous to the casting of dice, not the casting of spells).  
+
+Starting at 2nd level (Runecarver), a runemaker begins to learn and perform eldritch ceremonies in the runic tradition. The runemaker’s selection of ceremonies is limited to the ceremonies in his repertoire. The number and levels of ceremonies the runemaker can include in his repertoire is shown on the Runemaker Ceremony Progression table, but is increased by his Intelligence bonus. Runemakers can use any magic items usable by mages or clerics. More information on ceremonial magic, and individual spell descriptions, can be found in the [Heroic Magic](Chapter05.md#chapter-5-heroic-magic) chapter.
+
+At 3rd level (Runegiver), a runemaker can curse an enemy with ill fate once per day, by either chanting the curse or activating a curse-pole. Chanting a curse takes one round (10 seconds) and must be done when the target is nearby (within 30’) and in earshot. In combat, chanting a curse must be declared before initiative is rolled, and it fails if the runemaker’s concentration is interrupted before the process is completed (as with casting a spell). Chanting a curse can be a dangerous practice, since most targets take unkindly to being cursed!
+
+As a safer alternative, the runemaker can activate a curse-pole. A curse-pole is an 8’-10’ wooden staff carved with the target’s name and topped with an animal’s severed head or skull. Assuming materials are at hand, it takes 1 hour to carve a curse-pole, 1 turn (10 minutes) to raise it, and finally 1 round (10 seconds) to activate it. The runemaker can be freely interrupted while carving or raising the curse-pole without this affecting the success or failure of his efforts, but if he is interrupted while activating the curse-pole, the curse fails and the whole process must be begun again. A curse-pole can be carved anywhere, but it must be raised and activated within sight of the entrance to the target’s home. A curse-pole cannot be moved once raised, but it can be camouflaged or hidden with magic once placed.
+
+Once the curse is chanted or curse-pole is activated, the target must make a saving throw versus Spells. If the target fails the saving throw, he is cursed and immediately begins to suffer the runemaker’s choice of one of the following three ill fates:
+*	-4 decrease to an ability score (minimum 1)
+*	-4 penalty on attack and saving throws
+*	Prime requisite halved (minimum 1)
+
+A curse cannot be dispelled, but it can be removed with a remove curse spell. A curse caused by a curse-staff can also be removed if the curse-staff is moved or broken. A runemaker can have only one curse in effect at a time; if he curses an enemy while a prior curse is still in effect, the prior curse is immediately removed. Calling down a curse is considered grey magic for purposes of [corruption](Chapter05.md#corruption).
+
+When a runemaker reaches 5th level (Runecrafter), he may begin to research ceremonies, scribe scrolls, and brew potions. Runemakers may collect and use divine power as clerics in order to fuel their magical research. Also at 5th level, the runemaker’s widespread renown inspires his hirelings to strive for glory themselves. Any henchmen and mercenaries hired by the runemaker gain a +1 bonus to their morale score whenever he personally leads them. This bonus stacks with any modifiers from the runemaker’s Charisma or proficiencies.
+
+At 9th level (Runelord), he is able to create more powerful magic items such as weapons, rings, and staffs. A runemaker may also build or claim a chieftain’s hall when he reaches 9th level. When the runemaker establishes his hall, 1d4+1x10 0th level mercenaries and 1d6 runemakers of 1st-3rd level seeking the secrets of the runes will join his service. If hired, they must be paid standard rates for mercenaries. Runemakers’ halls are otherwise identical to fighters’ castles, as detailed in the Campaign chapter of the ACKS rulebook.
+
+At 11th level (Runelord), a runemaker may, learn and cast ritual spells of great power (7th, 8th, and 9th level), craft magical constructs, and create magical cross-breeds. If chaotic, the runemaker may create necromantic servants and become undead.
+
+Any time after reaching 11th level, the runemaker can choose to learn the wisdom of the ages. Learning the wisdom of the ages, however, requires a terrible sacrifice – the runemaker must either pluck out his own eye, chop off his own hand, slice off his own ears, or cut off his own nose. The injury must be self-inflicted, and if it is ever healed (through magic) the runemaker loses the wisdom of the ages irrevocably. A runemaker who learns the wisdom of the ages gains insight into secrets of the past, the present, and the future that are hidden from all except the gods. In game terms, the runemaker may cast commune once per week (note that commune is a ritual-level spell in Heroic Fantasy Handbook campaigns).
+ 
+Runemaker Proficiency List: Armor Training, Battle Magic, Beast Friendship, Ceremonial Magic*, Combat Reflexes, Combat Trickery (disarm, knock down), Command, Craft*, Divine Blessing, Divine Health, Endurance, Farseeing*, Fighting Style, Healing, Laying on Hands, Martial Training, Personal Talisman*, Prestidigitation, Prophecy*, Running, Second Sight*, Skirmishing, Swashbuckling, Theology, Unflappable Casting, Weapon Finesse, Weapon Focus
+
+*Modified or new proficiency described in [New and Modified Proficiencies](#new-and-modified-proficiencies).
+
+
+| Template:           | Watcher
+| :------------------ | :--------
+| Proficiencies:      | Second Sight, Craft (rune-carving)
+| Starting Equipment: | Shortbow, quiver with 20 arrows, spear, sword, chain mail armor, wind-battered fur cloak, wool tunic and pants, leather belt, low boots, backpack, runic implements (level 1), blanket, wineskin, 1 week’s iron rations
+
+Watcher Template: This pre-generated template represents a watcher who guards the world of man from intruders from the spirit world. The template is ready for adventure. However, if your runemaker’s INT is 13 or greater, you may pick one or more additional general proficiencies before play if you’d like (see Starting Proficiencies in Chapter 4).
+
+
+#### Runemaker Level Progression
+
+| Experience | Title             | Level | Hit Dice | Special Abilities | 1 | 2 | 3 | 4 | 5 | 6
+| ---------: | :---------------- | :---: | :------- | :-----------      | :-: |:-:|:-:|:-:|:-:|:-:|
+|          0 | Runelearner       |     1 | 1d6      | Cast runes        |  | | | | | |
+|      1,500 | Runecarver        |     2 | 2d6      | Ceremonial magic  | 1 | | | | | |
+|      3,000 | Runegiver         |     3 | 3d6      | Curse             | 2 |  | | | | |
+|      6,000 | Runebringer       |     4 | 4d6      | -                 | 2 | 1 | | | | |
+|     12,000 | Runecrafter       |     5 | 5d6      | Magic research (minor), renown  | 2 | 2 | | | | |
+|     24,000 | Runecaster        |     6 | 6d6      | -                 | 2 | 2 | 1 | | | |
+|     50,000 | Runeshaper        |     7 | 7d6      | -                 | 2 | 2 | 2 | | | |
+|    100,000 | Runemaker         |     8 | 8d6      | -                 | 3 | 2 | 2 | 1 | | |
+|    200,000 | Runelord          |     9 | 9d6      | Chieftain’s hall, magic research  | 3 | 2 | 2 | 1 | 1 | |
+|    300,000 | Runelord, 10th lvl |    10 | 9d6+1*   | -                | 3 | 3 | 2 | 2 | 1 | |
+|    400,000 | Runelord, 11th lvl |    11 | 9d6+2*   | Magic research (advanced), sacrifice for wisdom  | 3 | 3 | 3 | 2 | 2 | 1 |
+|    500,000 | Runelord, 12th lvl |    12 | 9d6+3*   | -                | 4 | 4 | 3 | 3 | 2 | 1 |
+|    600,000 | Runelord, 13th lvl |    13 | 9d6+4*   | -                | 4 | 4 | 3 | 3 | 3 | 2 |
+|    700,000 | Runemaster         |    14 | 9d6+5*   | -                | 4 | 4 | 4 | 3 | 3 | 2 |
+
+*Hit point modifiers from constitution are ignored
+
+
+| Level | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells | Attack Throw
+| :---- | ------------------------: | -------------: | -------------: | -------------: | -----: | -----------:
+| 1-2   |                       13+ |            10+ |            16+ |            13+ |    15+ |          10+
+| 3-4   |                       12+ |             9+ |            15+ |            15+ |    16+ |           9+
+| 5-6   |                       11+ |             8+ |            14+ |            14+ |    15+ |           8+
+| 7-8   |                       10+ |             7+ |            13+ |            13+ |    14+ |           7+
+| 9-10  |                        9+ |             6+ |            12+ |            12+ |    13+ |           6+
+| 11-12 |                        8+ |             5+ |            11+ |            11+ |    12+ |           5+
+| 13-14 |                        7+ |             4+ |            10+ |            10+ |    11+ |           4+
+
+
+
+
 ### Witch
 
 | Prime Requisite: | WIS and INT
@@ -615,6 +866,80 @@ Upon attaining 9th level (Witch), a witch of any tradition may establish a **cov
 | 13-14 | 6+            |
 
 
+### Loremaster
+
+| Prime Requisite: | INT and WIS
+| :--------------- | :---
+| Requirements:    | None
+| Hit Dice:        | 1d4
+| Maximum Level:   | 14
+
+Loremasters pursue knowledge and preserve ancient wisdom handed down from time immemorial. Most loremasters live ascetic lives devoted to annotating and studying the books and scrolls collected by their predecessors. But the boldest and most ambitious become adventurers, delving into the dungeons and tombs of past kingdoms in search of knowledge which has been lost. Wielding secrets forgotten for centuries, these loremasters become the most powerful of their kind, legends whose deeds will become the subject of study by the annalists of the future.
+
+Because of their devotion to study, loremasters receive limited combat training. At first level, loremasters hit an unarmored foe (AC 0) with an attack throw of 10+. They advance in attack throws only two points every six levels of experience (i.e. half as fast as fighters), though they advance in saving throws by two points every four levels (i.e. as clerics). They may only fight with quarterstaffs, clubs, daggers, and darts. They are unable to use shields, fight with two weapons, or wear any kind of armor. For these reasons, loremasters are quite vulnerable to physical danger, and in an adventuring group they should be protected.
+
+The books and scrolls of interest to the loremaster are virtually never written in the Common tongue so loremasters soon become familiar with even the most obscure scripts, codes, and languages. At 1st level, a loremaster may read languages unfamiliar to them (including ciphers, treasure maps, and dead languages, but not magical writings) with a proficiency throw of 5+ on 1d20. If the roll does not succeed, the loremaster may not try to read that particular piece of writing until he reaches a higher level of experience.
+
+From careful study of ancient annals and legends, loremasters can decipher occult mysteries, remember ancient history, identify historic artifacts, and similar tasks. At 1st level, a loremaster must make a proficiency throw of 18+ on 1d20 to succeed in loremastery. The proficiency throw for loremastery reduces by 1 per level.
+
+Most importantly, the scholarly pursuits of loremasters allow them to learn and perform eldritch ceremonies in the theurgical tradition. A loremaster’s selection of ceremonies is limited to the ceremonies in his repertoire. A loremaster’s repertoire can include a number of eldritch ceremonies up to the number and level of ceremonies listed for his level, increased by his Intelligence bonus. A loremaster can use any magic items usable by mages or clerics, and can make trinkets to aid his performance of ceremonies. More information on ceremonial magic, and individual spell descriptions, can be found in the [Heroic Magic chapter](Chapter05.md#ceremonial-magic).
+
+As they advance in level, loremasters may add new ceremonies to their repertoire by visiting an athenaeum or other place of learning (see below) and spending one game week per ceremony. Particular athenaeums may only offer particular ceremonies at each level, either due to the limitations of their libraries or doctrinal beliefs. Loremasters who wish to learn unavailable ceremonies must find or research them on their own. The specific ceremonies taught at any given athenaeum should be determined by the Judge based on his setting.
+
+As part of his training in ceremonial magic, every loremaster creates a personal talisman to aid him in performing ceremonies. The  loremaster’s personal talisman provides a +1 bonus to ceremony throws for ceremonies of one particular type. (The loremaster may choose from death & necromancy; detection; elemental air; elemental earth; elemental fire; elemental water; enchantment & illusion; healing; movement; protection; summoning; and transmogrification). When the loremaster advances to 3rd level, his personal talisman can increase its bonus by +1 for ceremonies of one particular type (e.g. increase the bonus to +2 for the current type or add a bonus of +1 with a new type). When the loremaster reaches 11th level, his personal talisman can increase its bonus by another +1 for ceremonies of one particular type (e.g. increase a +2 bonus to +3 for a current type, or increase a +1 bonus to +2 for a current type, or add a bonus of +1 with a new type). If desired, the loremaster may increase the bonus afforded by, or number of ceremony types covered by, his personal talisman by  selecting the [Personal Talisman proficiency](#personal-talisman). More information on talismans can be found in the [Ceremonial Talismans](Chapter05.md#ceremonial-talismans) section of the Heroic Magic chapter.
+
+When a loremaster reaches 5th level (Scholar), he may begin to research ceremonies, scribe scrolls, brew potions, and make talismans. Loremasters may collect and use divine power as clerics in order to fuel their magical research.
+
+When a loremaster reaches 9th level (Loremaster), he is able to create more powerful magic items such as weapons, rings, and staffs. A loremaster may also build an athenaeum, typically a great library, when he reaches 9th level. He will then attract 1d6 apprentices of 1st-3rd level plus 2d6 normal men seeking to become loremasters. Their intelligence scores will be above average, but many will become discouraged from the rigorous mental training and quit after 1d6 months. While in the loremaster’s service, apprentices must be provided food and lodging, but need not be paid wages. If the loremaster builds a menagerie beneath or near his athenaeum, monsters may be collected therein. Loremaster’s athenaeum and menageries are otherwise identical to mages’ sanctums and dungeons, as detailed in the Campaign chapter of the ACKS Rulebook.
+
+At 11th level, a loremaster may create learn and cast ritual eldritch spells of great power (7th, 8th, and 9th level), craft magical constructs, and create magical cross-breeds. If chaotic, the loremaster may create necromantic servants and become undead.
+
+Loremaster Proficiency List: Alchemy*, Battle Magic, Beast Friendship, Black Lore of Zahar, Bright Lore of Aura*, Ceremonial Magic*, Collegiate Wizardry, Contemplation*, Craft*, Diplomacy, Elementalism, Elven Bloodline, Engineering, Familiar, Farseeing*, Healing, Knowledge, Magical Engineering, Mystic Aura, Naturalism, Personal Talisman*, Prestidigitation, Prophecy*, Second Sight*, Sensing Power, Transmogrification, Soothsaying*, Unflappable Casting
+
+*Modified or new proficiency described in [New and Modified Proficiencies](#new-and-modified-proficiencies).
+
+
+| Template:           | Magical Scholar
+| :------------------ | :--------
+| Proficiencies:      | Magical Engineering, Collegiate Wizardry
+| Starting Equipment: | Well-kept ceremonial codex with **slumber**, rune-etched staff, blue mage’s cassock, leather belt, low boots, backpack, theurgical implements (level 1), quill and ink, 1 week’s iron rations, 55gp
+
+
+#### Loremaster Level and Ceremony Progression		
+
+| Experience |	Title |	Level |	Hit Dice |	Special Abilities |	1 |	2 |	3 |	4 |	5 |	6
+| ---------: | :---- | :---- | :------- | :--------------- | :- | :- | :- | :- | :- | :-
+| 0 |	Learner |	1 |	1d4 |	Loremastery, personal talisman, read languages | 2 | - | - | - |	- |	-
+| 2,000 |	Disciple |	2 |	2d4 | 	- | 	3 | - | - | - | - | -
+| 4,000 |	Scholastic |	3 |	3d4 |	Personal talisman 2 |	3 |	1 |	- |	- |	- |	-
+| 8,000 |	Archivist |	4 |	4d4 |	- |	3 |	2 |	- |	- |	- |	-
+| 16,000 |	Scholar |	5 |	5d4 |	Magic research (minor) |	3 |	2 |	1 |	- |	- |	-
+| 32,000 |	Antiquarian |	6 |	6d4 |	- |	3 |	3 |	2 |	- |	- |	-
+| 65,000 |	Annalist |	7 |	7d4 |	- |	4 |	3 |	2 |	1 |	- |	-
+| 130,000 |	Savant |	8 |	8d4 |	- |	4 |	3 |	3 |	2 |	- |	-
+| 230,000 |	Loremaster |	9 |	9d4 |	Athenaeum, magic research |	4 |	4 |	3 |	2 |	1 |	-
+| 330,000 |	Loremaster, 10th lvl |	10 |	9d4+1* |		4 |	4 |	3 |	3 |	2 |	-
+| 430,000 |	Loremaster, 11th lvl |	11 |	9d4+2* |	Magic research (advanced), personal talisman 3 |	5 |	4 |	4 |	3 |	2 |	1
+| 530,000 |	Loremaster, 12th lvl |	12 |	9d4+3* |	- |	5 |	4 |	4 |	3 |	3 |	2
+| 630,000 |	Loremaster, 13th lvl |	13 |	9d4+4* |	- |	5 |	5 |	4 |	4 |	3 |	2
+| 730,000 |	Sage |	14 |	9d4+5* |	- |	6 |	5 |	4 |	4 |	3 |	3
+
+*Hit point modifiers from constitution are ignored
+
+#### Loremaster Saving Throws
+
+| Level | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells | | Level | Attack Throw
+| :---- | ------------------------: | -------------: | -------------: | -------------: | -----: |:- | ----: | -----------:
+| 1-2   |                       13+ |            10+ |            16+ |            13+ |    15+ | | 1-3   |   10+
+| 3-4   |                       12+ |             9+ |            15+ |            12+ |    14+ | | 4-6   |    9+
+| 5-6   |                       11+ |             8+ |            14+ |            11+ |    13+ | | 7-9   |    8+
+| 7-8   |                       10+ |             7+ |            13+ |            10+ |    12+ | | 10-12 |    7+
+| 9-10  |                        9+ |             6+ |            12+ |             9+ |    11+ | | 13+   |    6+
+| 11-12 |                        8+ |             5+ |            11+ |             8+ |    10+
+| 13-14 |                        7+ |             4+ |            10+ |             7+ |     9+
+
+
+
 
 
 ## Alignment
@@ -638,6 +963,25 @@ The worlds of Adventurer Conqueror King are dangerous and hostile. For the sake 
 Occasionally, there are not enough party members to take on the challenges of an adventure. The party may hire NPCs, such as henchmen or mercenaries, for extra hands. The rules for hiring henchmen and mercenaries are discussed in [Chapter 3, Equipment](Chapter03.md#chapter-3-equipment).
 
 When there are only a small number of players, the Judge may allow them to each play more than one character. Nevertheless, in these cases characters belonging to the same player cannot offer each other special treatment, such as trading or giving away riches or magical items, unless the Judge rules it acceptable.
+
+
+## Templates
+
+### Fighter
+
+| 3d6 Roll | Template | Proficiencies | Starting Equipment 
+| :------- | :------- | :------------ | :-----------------
+| 3-4 |	Thug | 	Dungeon Bashing, Intimidation |	Shortbow, quiver with 20 arrows, morning star, scarred leather armor, wool tunic and pants, leather belt, low boots, backpack, 1 week’s iron rations
+| 5-6 | Militia Veteran | 	Skirmishing, Animal Husbandry | Shortbow, quiver with 20 arrows, spear, francisca, wooden shield, leather armor, wool tunic and pants, low boots, wineskin with strong ale, small sack, 1 week’s iron rations, looted ivory dice (worth 20gp)   
+| 7-8 | Ravager | Berserkergang, Endurance | Long bearded axe, 2 franciscas, mail hauberk, thick wool cloak, wool tunic and pants, leather belt, low boots, small sack, wineskin with strong ale, 1 week’s iron rations
+| 9-10 | Hired Guard | Alertness, Gambling | Ash spear, francisca, wooden shield, mail hauberk, armiger’s tunic and pants, low boots, backpack, lantern, 2 flasks of oil, 1 week’s iron rations, 25sp
+| 11-12 | Mercenary | Combat Reflexes, Bargaining | Weathered spear, well-oiled sword, 2 javelins, round wooden shield, slightly battered mail hauberk, armiger’s tunic and pants, low boots, backpack, tent, wool blanket, waterskin, 2 weeks' iron rations, 5gp  
+| 13-14 | Housecarl | Weapon Focus (axes), Endurance | Long bearded axe, francisca, mail hauberk, armiger's tunic and pants, low boots, medium riding horse, riding saddle and tack, saddlebags, 1 week's iron rations
+| 15-16 | Wealthy freeholder | Manual of Arms, Riding | Spear, sword, 2 javelins, shield, polished leather armor, armiger's tunic and pants, high boots, light riding horse, riding saddle and tack, saddlebags, 1 week iron rations, 10gp  
+| 17-18 | Unlanded Thegn | Command, Military Strategy | Spear, polished sword, colorful wooden shield, lamellar armor, armiger’s tunic, high boots, light riding horse, riding saddle and tack, saddlebags, 1 week’s iron rations
+Fighter Notes: The long bearded axe is a type of great axe. The francisca is a type of hand axe. A chain byrnie is equivalent to ring mail and a chain hauberk is equivalent to chain mail.
+
+
 
 * * *
 
