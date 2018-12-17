@@ -101,6 +101,31 @@ Hit points are a measure of a character's ability to survive in combat. When a c
 
 Each character class rolls a different kind of die to determine hit points, as noted in the [Character Classes](Chapter02.md#character-classes) section, based on their toughness in battle. One die is rolled at first level, and further dice are rolled and cumulatively added to the total hp for each level of experience, unless otherwise noted. One optional rule, to allow first level characters to be hardier, is for the Judge to allow all hp rolls for first level characters to be considered the maximum result (e.g. an 8 for fighters or a 6 for clerics.)
 
+**Proportional Healing**: All beings recover hit points through rest. For each full day of complete rest in reasonably sanitary conditions, a creature will recover its base healing rate (BHR). If its rest is interrupted, the creature will not heal that day. A creature’s base healing rate is based on its maximum hit points, as shown on the Base Healing Rate table. A character’s BHR should be recorded on its character sheet, and updated each time the character gains additional hit points.
+
+>EXAMPLE: Athelstan has 12 hp. His base healing rate is 1d4 hp per day. With a full day of complete rest in sanitary conditions, Athelstan will recover between 1 and 4 hp. If his rest is interrupted, he will not heal.
+
+| Max HP        | BHR (hp/day)
+| :------------ | ------------:
+| 1-3           |            -3
+| 4-9           |            -2
+| 10-16         |            -1
+| 17-23         |             0
+| 24-29         |            +1
+|30-36          |       	1d10
+|37-49	        |           2d6
+|50-63	        |           2d8
+|64-76	        |           2d10
+|77-89	        |           2d12
+|90-110	        |           3d10
+|111-140	    |           4d10
+|141-170	    |           5d10
+|171+	        |           6d10, plus 1d10 per 30hp past 170
+
+Characters with the Healing proficiency can shorten their patient’s recovery time. A patient under treatment of Healing recovers twice his base healing rate in hp each day of rest.
+
+For more information on healing, see Chapter 6 under [Healing](Chapter06.md#chapter-6-healing).
+
 
 ## Character Classes
 
