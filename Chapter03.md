@@ -615,6 +615,8 @@ For purposes of encumbrance, 1,000 coins are considered 1 stone. When a carrying
 
 A character's speed will be affected based on encumbrance, as shown on the [Character Movement and Encumbrance](Chapter03.md#character-movement-and-encumbrance) table, below. For additional information on movement, see the [Time and Movement](Chapter06.md#time-and-movement) section in the Adventures chapter. The maximum any character can carry is 20 stone, plus his Strength adjustment.
 
+Thieves, and other classes which use thief skills, benefit from being light on their feet. If the character’s encumbrance is 5 stones or less, he gains a +2 bonus on proficiency throws to climb walls, hide in shadows, and move silently. If the character’s encumbrance is 2 stones or less, the bonus is increased to +4. The bonuses do not apply to hijinks.
+
 
 #### Character Movement and Encumbrance
 
