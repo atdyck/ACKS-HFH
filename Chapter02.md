@@ -972,13 +972,14 @@ When there are only a small number of players, the Judge may allow them to each 
 | 3d6 Roll | Template | Proficiencies | Starting Equipment 
 | :------- | :------- | :------------ | :-----------------
 | 3-4 |	Thug | 	Dungeon Bashing, Intimidation |	Shortbow, quiver with 20 arrows, morning star, scarred leather armor, wool tunic and pants, leather belt, low boots, backpack, 1 week’s iron rations
-| 5-6 | Militia Veteran | 	Skirmishing, Animal Husbandry | Shortbow, quiver with 20 arrows, spear, francisca, wooden shield, leather armor, wool tunic and pants, low boots, wineskin with strong ale, small sack, 1 week’s iron rations, looted ivory dice (worth 20gp)   
-| 7-8 | Ravager | Berserkergang, Endurance | Long bearded axe, 2 franciscas, mail hauberk, thick wool cloak, wool tunic and pants, leather belt, low boots, small sack, wineskin with strong ale, 1 week’s iron rations
-| 9-10 | Hired Guard | Alertness, Gambling | Ash spear, francisca, wooden shield, mail hauberk, armiger’s tunic and pants, low boots, backpack, lantern, 2 flasks of oil, 1 week’s iron rations, 25sp
-| 11-12 | Mercenary | Combat Reflexes, Bargaining | Weathered spear, well-oiled sword, 2 javelins, round wooden shield, slightly battered mail hauberk, armiger’s tunic and pants, low boots, backpack, tent, wool blanket, waterskin, 2 weeks' iron rations, 5gp  
-| 13-14 | Housecarl | Weapon Focus (axes), Endurance | Long bearded axe, francisca, mail hauberk, armiger's tunic and pants, low boots, medium riding horse, riding saddle and tack, saddlebags, 1 week's iron rations
-| 15-16 | Wealthy freeholder | Manual of Arms, Riding | Spear, sword, 2 javelins, shield, polished leather armor, armiger's tunic and pants, high boots, light riding horse, riding saddle and tack, saddlebags, 1 week iron rations, 10gp  
+| 5-6 | Militia Veteran | 	Skirmishing, Animal Husbandry | Shortbow, quiver with 20 arrows, spear, francisca \[hand axe], wooden shield, leather armor, wool tunic and pants, low boots, wineskin with strong ale, small sack, 1 week’s iron rations, looted ivory dice (worth 20gp)   
+| 7-8 | Ravager | Berserkergang, Endurance | Long bearded axe \[great axe], 2 franciscas \[hand axes], chain byrnie \[ring mail], thick wool cloak, wool tunic and pants, leather belt, low boots, small sack, wineskin with strong ale, 1 week’s iron rations
+| 9-10 | Hired Guard | Alertness, Gambling | Ash spear, francisca \[hand axe], wooden shield, mail hauberk \[chain mail], armiger’s tunic and pants, low boots, backpack, lantern, 2 flasks of oil, 1 week’s iron rations, 25sp
+| 11-12 | Mercenary | Combat Reflexes, Bargaining | Weathered spear, well-oiled sword, 2 javelins, round wooden shield, slightly battered mail hauberk \[chain mail], armiger’s tunic and pants, low boots, backpack, tent, wool blanket, waterskin, 2 weeks' iron rations, 5gp  
+| 13-14 | Housecarl | Weapon Focus (axes), Endurance | Long bearded axe, francisca, 2 javelins, mail hauberk \[chain mail], armiger's tunic and pants, low boots, medium riding horse, riding saddle and tack, saddlebags, 1 week's iron rations
+| 15-16 | Wealthy freeholder | Manual of Arms, Riding | Spear, short sword, 5 javelins, shield, polished leather armor, armiger's tunic and pants, high boots, light riding horse, riding saddle and tack, saddlebags, 1 week iron rations, 10gp  
 | 17-18 | Unlanded Thegn | Command, Military Strategy | Spear, polished sword, colorful wooden shield, lamellar armor, armiger’s tunic, high boots, light riding horse, riding saddle and tack, saddlebags, 1 week’s iron rations
+
 Fighter Notes: The long bearded axe is a type of great axe. The francisca is a type of hand axe. A chain byrnie is equivalent to ring mail and a chain hauberk is equivalent to chain mail.
 
 
