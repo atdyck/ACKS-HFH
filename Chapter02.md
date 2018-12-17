@@ -519,7 +519,11 @@ Within the Auran Empire, witches are viewed with deep suspicion by the Empyrean 
 
 Witches receive little combat training. At first level, witches hit an unarmored foe (AC 0) with an attack throw of 10+. They advance in attack throws only two points every *six* levels of experience (i.e. the same as mages), but they advance in saving throws by two points every *four* levels of experience (i.e. as clerics). They may only fight with clubs, daggers, darts, or staffs. They are unable to use shields, fight with two weapons, or wear any kind of armor.
 
-Starting at 1st level, witches are able to cast **divine spells**, which are granted through esoteric nighttime rituals. The power and number of divine spells available to the character are determined by level according to the Witch Spell Progression table. See the Spells chapter for the witch’s spell lists. They may use any magic items usable by clerics.
+Starting at 1st level, witches are able to **learn and perform eldritch ceremonies** in their corresponding tradition. A witch’s selection of ceremonies is limited to the ceremonies in her **repertoire**. The number and levels of ceremonies the witch can include in her repertoire is summarized on the Witch Level and Ceremony Progression table, but is increased by her Intelligence bonus. A witch can use any magic items usable by mages or clerics, and can make trinkets to aid her performance of ceremonies. More information on ceremonial magic, and individual spell descriptions, can be found in the Heroic Magic chapter (p. XX).
+
+As they advance in level, witches may add new ceremonies to their repertoire by visiting a coven (see below) and spending one game week per ceremony. Particular covens may only offer particular ceremonies at each level, either due to the limitations of their libraries or doctrinal beliefs. Witches who wish to learn unavailable ceremonies must find or research them on their own. The specific ceremonies taught at any given coven should be determined by the Judge based on his setting.
+
+As part of her training in ceremonial magic, every witch creates a **personal talisman** to aid her in performing ceremonies. The witch’s personal talisman provides a +1 bonus to ceremony throws for ceremonies of one particular type. (The witch may choose from death & necromancy; detection; elemental air; elemental earth; elemental fire; elemental water; enchantment & illusion; healing; movement; protection; summoning; and transmogrification). When the witch advances to 3rd level, her personal talisman can increase its bonus by +1 for ceremonies of one particular type (e.g. increase the bonus to +2 for the current type or add a bonus of +1 with a new type). When the witch reaches 11th level, her personal talisman can increase its bonus by another +1 for ceremonies of one particular type (e.g. increase a +2 bonus to +3 for a current type, or increase a +1 bonus to +2 for a current type, or add a bonus of +1 with a new type). If desired, the witch may increase the bonus afforded by or number of ceremony types covered by her personal talisman by selecting the Personal Talisman proficiency (see p. XX). More information on talismans can be found in the Ceremonial Talismans section of the Heroic Magic chapter (p. XX).
 
 When a witch reaches 3rd level (Siren), she may begin to brew potions. When a witch reaches 5th level (Sibyl), she is able to research spells. Upon reaching 7th level (Sorceress), she may scribe magical scrolls. At 9th level (Witch), she is able to create more powerful magic items such as weapons, rings, and staffs. At 11th level, a witch may learn and cast ritual divine spells of great power (6th and 7th level) and craft magical constructs. Witches perform such magic research as clerics of their level.
 
@@ -551,7 +555,7 @@ The regions within the Auran Empire campaign setting associated with each tradit
 5th level: The sylvan witch becomes one with the forests around her. She gains the **Passing Without Trace** proficiency.
 7th level: No longer bound by the humanoid form, the sylvan witch can take on fantastical shapes. The witch gains the power to **polymorph self** once per week. Each use takes 1 turn (10 minutes).
 
-Upon attaining 9th level (Witch), a witch of any tradition may establish a coven, usually in a remote and desolate location. If she does so, he will attract 1d6 apprentices of her tradition between 1st-3rd level plus 2d6 normal women seeking to become witches. Their Wisdom scores will be above average, but many will become fearful of the sacrifices involved and quit after 1d6 months. While in the witch’s service, apprentices must be provided food and lodging, but need not be paid wages. If the witch builds a dungeon beneath or near her coven, monsters will start to arrive to dwell within, followed shortly by adventurers seeking to fight them. Witches’ covens are otherwise identical to mages’ sanctums, as detailed in the Campaign chapter of the ACKS Rulebook.
+Upon attaining 9th level (Witch), a witch of any tradition may establish a **coven**, usually in a remote and desolate location. If she does so, he will attract 1d6 apprentices of her tradition between 1st-3rd level plus 2d6 normal women seeking to become witches. Their Wisdom scores will be above average, but many will become fearful of the sacrifices involved and quit after 1d6 months. While in the witch’s service, apprentices must be provided food and lodging, but need not be paid wages. If the witch builds a **dungeon** beneath or near her coven, monsters will start to arrive to dwell within, followed shortly by adventurers seeking to fight them. Witches’ covens are otherwise identical to mages’ sanctums, as detailed in the Campaign chapter of the ACKS Rulebook.
 
 **Witch Proficiency List:** Alchemy, Apostasy, Arcane Dabbling, Beast Friendship, Black Lore of Zahar, Contemplation, Craft, Divine Blessing, Divine Health, Elementalism, Elven Bloodline, Familiar, Healing, Illusion Resistance, Laying on Hands, Loremastery, Magical Engineering, Magical Music, Mystic Aura, Naturalism, Prestidigitation, Prophecy, Quiet Magic, Seduction, Sensing Power, Theology, Transmogrification, Unflappable Casting
 
@@ -566,24 +570,24 @@ Upon attaining 9th level (Witch), a witch of any tradition may establish a coven
 **Village Witch Template:** This pre-generated template represents a rural witch from the antiquarian tradition. The template is ready for adventure. However, if your witch’s INT is 13 or greater, you may pick one or more additional general proficiencies before play if you’d like (see Starting Proficiencies in Chapter 4 of ACKS).
 
 
-#### Witch Level Progression
+#### Witch Level and Ceremony Progression
 
-| Experience | Title             | Level | Hit Dice 
-| ---------: | :---------------- | ----: | :------- 
-|          0 | Initiate          |     1 | 1d4      
-|      2,000 | Seeress           |     2 | 2d4      
-|      4,000 | Siren             |     3 | 3d4      
-|      8,000 | Pythoness         |     4 | 4d4      
-|     16,000 | Sibyl             |     5 | 5d4      
-|     32,000 | Enchantress       |     6 | 6d4      
-|     65,000 | Sorceress         |     7 | 7d4      
-|    130,000 | Incantrix         |     8 | 8d4      
-|    230,000 | Witch             |     9 | 9d4      
-|    330,000 | Witch, 10th lvl   |    10 | 9d4+1*   
-|    430,000 | Witch, 11th lvl   |    11 | 9d4+2*   
-|    530,000 | Witch, 12th lvl   |    12 | 9d4+3*   
-|    630,000 | Witch, 13th lvl   |    13 | 9d4+4*   
-|    730,000 | Witch Queen       |    14 | 9d4+5*  
+| Experience | Title             | Level | Hit Dice | 1  | 2  | 3  | 4  | 5  | 6 
+| ---------: | :---------------- | ----: | :------- | :- | :- | :- | :- | :- | :- 
+|          0 | Initiate          |     1 | 1d4      | 2  |    |    |    |    |   
+|      2,000 | Seeress           |     2 | 2d4      | 3  |    |    |    |    |    
+|      4,000 | Siren             |     3 | 3d4      | 3  | 1  |    |    |    |    
+|      8,000 | Pythoness         |     4 | 4d4      | 3  | 2  |    |    |    |    
+|     16,000 | Sibyl             |     5 | 5d4      | 3  | 2  | 1  |    |    |    
+|     32,000 | Enchantress       |     6 | 6d4      | 3  | 3  | 2  |    |    |    
+|     65,000 | Sorceress         |     7 | 7d4      | 4  | 3  | 2  | 1  |    |    
+|    130,000 | Incantrix         |     8 | 8d4      | 4  | 3  | 3  | 2  |    |    
+|    230,000 | Witch             |     9 | 9d4      | 4  | 4  | 3  | 2  | 1  |
+|    330,000 | Witch, 10th lvl   |    10 | 9d4+1*   | 4  | 4  | 3  | 3  | 2  |
+|    430,000 | Witch, 11th lvl   |    11 | 9d4+2*   | 5  | 4  | 4  | 3  | 2  | 1
+|    530,000 | Witch, 12th lvl   |    12 | 9d4+3*   | 5  | 4  | 4  | 3  | 3  | 2
+|    630,000 | Witch, 13th lvl   |    13 | 9d4+4*   | 5  | 5  | 4  | 4  | 3  | 2    
+|    730,000 | Witch Queen       |    14 | 9d4+5*   | 6  | 5  | 4  | 4  | 3  | 3
 
 *Hit point modifiers from constitution are ignored
 
