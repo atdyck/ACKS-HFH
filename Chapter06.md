@@ -467,7 +467,11 @@ Instead of moving (or running, charging, setting, withdrawing, or retreating), c
 
 If they are not already engaged, combatants may move and make a missile weapon attack (bows, crossbows, etc.), or move and make a melee attack (swords, axes, etc.), in one round. They may not move after attacking. Except where otherwise noted, characters may only make 1 attack per round; monsters may have multiple attacks.
 
-Whether or not an attack hits its target is determined with an attack throw. The player or Judge rolls 1d20 and applies any modifiers to the roll from high Strength or Dexterity, magic, or special circumstances. The result is compared to the Attack Throws table for either characters or monsters, as appropriate. A result that is greater than or equal to the attack throw value listed for the attacking character's level or monster's HD indicates a hit. An unmodified roll of 20 is always a hit, and an unmodified roll of 1 is always a miss. If a hit is scored, damage is rolled by weapon type or monster attack, taking into account any bonuses or penalties.
+Whether or not an attack hits its target is determined with an attack throw. The player or Judge rolls 1d20 and applies any modifiers to the roll from high Strength or Dexterity, magic, or special circumstances. The result is compared to the Attack Throws table for either characters or monsters, as appropriate. A result that is greater than or equal to the attack throw value listed for the attacking character's level or monster's HD indicates a hit. An unmodified roll of 1 is always a miss, and an unmodified roll of 20 **explodes** (see below). If a hit is scored, damage is rolled by weapon type or monster attack, taking into account any bonuses or penalties.
+
+**Exploding 20s** When a character who throws an unmodified (natural) 20, the d20 explodes: The character immediately rolls another 1d20 and adds the new result to 20. Subsequent rolls of 20 continue to explode without limit. 
+
+>EXAMPLE: A peasant archer with a base attack throw of 11+ fires an arrow at Marcus, a high-level fighter in magical armor with an AC of 15. The archer needs to throw an (11+15) 26+ to hit the fighter. He rolls a natural 20. He immediately rolls 1d20; the result is a 7. The peasant has therefore rolled a (20 + 7) 27 against Marcus, which is a hit. Had the peasant’s second d20 roll have been a 3, the peasant’s result would have been a (20 + 3) 23, and he’d have missed. Had the peasant’s second d20 roll have been an 18, result would have been a (20 + 18) 38 and the peasant would have dealt a critical hit (see below).
 
 **Armor Class**: Well-armored or highly dexterous targets are harder to hit than lightly-armored or sluggish ones. The target's Armor Class is added to the attack throw value necessary to hit it.
 
@@ -498,6 +502,63 @@ Whether or not an attack hits its target is determined with an attack throw. The
 *Example*: Marcus, a 10th level fighter (attack throw 4+) attacks a plate-armored target (AC7). He needs a modified roll of 11 (4+7) or more to hit. He rolls a 12, and lands a blow!
 
 *Example*: A 20 HD bronze golem (attack throw -3) attacks on an ogre (AC3). It will need a modified roll of 0 (-3+3) or more to hit. However, an modified roll of 1 is always a miss, so the golem will need to roll at least a 2 or more.
+
+
+### Critical Hits
+
+If the result of an attacker’s attack throw exceeds its target value by 10 or more, the attacker has dealt a critical hit to its target. When a critical hit is dealt, the target suffers double damage and must make an immediate saving throw v. Paralysis. If the save fails, the target suffers a critical effect in addition to double damage. The target’s saving throw should be modified by 4 points per category of size difference between the attacker and the target, as per ACKS p. 110.
+
+The attacker determines the critical effect dealt by rolling 1d10 on the appropriate column on the Critical Effects table. For purposes of the Critical Effects table, “characters” are combatants equipped with arms and armor, while “monsters” are combatants relying on natural weapons and toughness.  
+
+**Brawling:** After seeing the result rolled on the Critical Effects table, the attacker may opt to inflict a Brawling critical effect in lieu of the effect rolled. For instance, an attacker who fears being carried off by a flying creature could substitute a Brawling result for a Clamber result.
+
+**Combat Trickery:** After seeing the result rolled on the Critical Effects table, an attacker with Combat Trickery proficiency may substitute the special maneuver with which he has proficiency in lieu of the effect rolled. For instance, an attacker with Combat Trickery (Disarm) who deals a Force Back critical hit can inflict a Disarm instead.
+
+**Shields May Be Splintered:** If the target of a critical effect is equipped with a shield, he may choose to substitute a Damage Shield result in lieu of a Damage Armor, Force Back, Injure Hide, Impair Attack, Impair Move, Knockdown, or Stun effect dealt to him. This represents the character desperately absorbing the blow on his shield.
+
+
+| Die Roll |	Effect v. Character	| Effect v. Monster
+| :------- | :------ | :-
+| 1	| Brawling  |	Brawling
+| 2	| Damage Shield |	Fatigued
+| 3	| Damage Armor  |	Injure Hide
+| 4	| Disarm  |	Impair Move
+| 5	| Force Back  |	Force Back
+| 6	| Knockdown |	Knockdown
+| 7	| Sunder Weapon |	Impair Attack
+| 8	| Stun  |	Stun
+| 9	| Wrestle/Clamber	| Wrestle/Clamber
+| 10 | 	Attacker’s Choice |	Attacker’s Choice
+
+#### Critical Effects
+
+**Attacker’s Choice:** The attacker may choose any desired critical effect from the appropriate column (Character or Monster).
+
+**Brawling:** The target suffers an additional 1d4 damage from a strike from the attacker’s gauntlet, pommel, or shield rim. If the attacker has no metal weapons, the damage is nonlethal, but otherwise the brawling damage can be lethal or nonlethal, at his discretion.
+
+**Damage Armor:** The target’s armor is damaged, reducing its effectiveness by 1 point. Armor that loses all effectiveness is ruined. Damaged armor can be repaired at a cost of 10gp per point of effectiveness. Magic armor cannot be damaged except by magic weapons or monsters of 5 HD or more.
+
+**Damage Shield:** The target’s shield is damaged, reducing its effectiveness by 1. If the shield is non-magical, this will destroy it. Damaged shields can be repaired at a cost of 10gp per point of effectiveness. Magic shields cannot be damaged except by magic weapons or monsters of 5 HD or more.
+
+**Disarm:** The target is disarmed of its weapon (as the special maneuver). The weapon drops to a point chosen by the attacker who dealt the critical hit, up to 5’ distant from the target.
+
+**Fatigued:** The target is wearied by the flurry of blows. The target suffers a -1 penalty to attack throws and damage throws until it rests. If additional fatigue effects are rolled, the effects are cumulative.
+
+**Force Back:** The target is forced back (as the special number). It must withdraw a number of feet equal to the attacker’s damage roll. If this would push the opponent into a wall or obstacle, the opponent is knocked down, and takes 1d6 points of damage per 10’ he has traveled.
+
+**Knockdown:** The target is immediately knocked down (as the special maneuver).  Once prone, the creature can move, but only to crawl at a movement rate of 5’, to take an action in lieu of moving, or to end the condition by using an action in lieu of moving to stand up. If engaged, the prone creature remains subject to the movement restrictions of being engaged, so it can only crawl if using defensive movement, and cannot stand up in lieu of moving. The prone creature can attack, but suffers a -4 penalty on its attack throws. Alternatively the prone creature can stand up in lieu of attacking. The prone creature can be backstabbed by creatures capable of doing so. Attack throws against the prone creatures gain a +2 bonus, or a +4 bonus if the attacker backstabs the stunned creature. The conditions is ended immediately when the creature stands up.
+
+**Impair Attack:** One of the target’s natural attacks (determined randomly) is somehow impaired – muscles sprained, claws ripped, etc. The target suffers a -4 to attack throws with the impaired natural attack until it rests.
+
+**Impair Move:** The movement rate of the target’s primary movement is reduced by 25% or 30’ (whichever is less) until the target rests. This represents a leg being wrenched, an ankle twisted, and so on.
+
+**Injure Hide:** The target’s hide is bruised, cut, or broken open such that its AC is reduced by 1 until it rests.
+
+**Stun:** The target is stunned until the end of its next initiative. A stunned creature cannot attack, cast spells, or move. It gains no benefit to its AC from its shield (if any), and can be ambushed or backstabbed by creatures capable of doing so. All attack throws against stunned creatures gain a +2 bonus, or a +4 bonus if the attacker ambushes or backstabs the stunned creature.
+
+**Sunder Weapon:** The target’s weapon is sundered (as the special maneuver). If the target’s weapon is a non-magical spear, staff, or pole arm, it shatters into splinters when sundered, dealing an additional 1d4 nonlethal damage to the target. Swords cannot be sundered by non-metal weapons or natural attacks by creatures of less than 5 HD. Magic weapons cannot be sundered except by other magic weapons or monsters of 5 HD or more.
+
+**Wrestle/Clamber:** The results of this critical effect depend on the difference in size between the attacker and target. If the target is the same size category or smaller than the attacker, the attacker has grabbed the target in a wrestling hold (as the special maneuver). If the target is one or more size categories larger than the attacker, the attacker has clambered on top of or mounted the target (as the special maneuver, see below).
 
 
 ### Melee Combat
@@ -852,6 +913,19 @@ Sometimes a combatant will attack without a weapon, striking with a fist or foot
 
 However, a character in light or no armor cannot successfully punch or kick a character in metal armor - if this is attempted, the damage is applied to the attacker instead of the defender. The Judge must decide which monsters can be successfully brawled with based on their AC and physical make-up. Monsters do not themselves brawl, as they have natural attacks that are as good as weapons.
 
+### Clamber
+
+Instead of making a melee attack, a combatant may attempt to clamber on top of a creature that is one or more size categories larger than him. To clamber onto a creature, a combatant must succeed on a melee attack throw with a -4 penalty. If the combatant is a thief or other class with the ability to Climb Walls, the -4 penalty may be waived if the character makes a successful proficiency throw.  
+
+The creature must then make a saving throw versus Paralysis. The creature suffers a -2 penalty to its saving throw if of huge size, -4 if of gigantic size, and -6 if of colossal size. If the creature succeeds on its saving throw, it has shrugged off the combatant’s attempt. If it fails, the combatant has clambered onto the creature, and is now mounted on its back, perched on its shoulders, etc.
+
+A clambering combatant gains a +4 attack bonus against the creature he has clambered onto. If capable of backstabbing, the clambering combatant may do so, gaining a +6 attack bonus and extra damage. A clambering combatant also gains a measure of protection against the creature’s own attacks. If the creature lack arms, tails, or other appendages capable of reaching its own back, it may not directly attack the clambering combatant. Even if the creature does have such appendages, it attacks the clambering combatant with a -4 penalty to attack throws.
+
+In lieu of attacking, a creature with one or more combatants clambering on it may attempt to unseat the clambering combatants by bucking, rearing, colliding with walls, and similar tactics. This forces every combatant clambering on the creature to make a saving throw v. Paralysis. Combatants who succeed on the saving throw continue clambering on the creature. Combatants who fail the saving throw slip off the creature. If the creature is more than 10’ tall at the shoulder, or is flying, the unseated combatants will suffer falling damage (1d6 points of damage per 10’ fallen).
+
+>EXAMPLE: Viktir, a 9th level thief (attack throw 6+), is fighting a purple worm (AC 3). On his initiative, he attempts to clamber onto the worm. Normally he would incur a -4 penalty to his attack throw for attempting a clamber, but Viktir makes a proficiency throw against Climb Walls and avoids this penalty. He needs a (6+3) 9+ to succeed in his clamber; his roll is an 11, so he succeeds.  Now the purple worm may make a saving throw v. Paralysis to shrug him off.  As a 15 HD monster, it needs a 6+, but it suffers a -6 penalty due to its colossal size. It only rolls a 3, so Viktir has clambered onto the purple worm!  The purple worm’s initiative is next. The Judge rules that the purple worm can only reach its own back with its stinger, but not with its bite. Rather than risk missing, he decides that the purple worm will attempt to unseat Viktir by rotating itself violently back and forth. Viktir must make a saving throw v. Paralysis. As a 9th level thief, Viktir needs 9+; he rolls a 17 and succeeds easily. <br><br>
+In the next combat round, Viktir attacks the purple worm with his sword (1d6). Since he is clambering, the attack counts as backstabbing. He gains a +6 attack bonus, so he hits on (6+3-6) 3+. He rolls a 17 and lands a critical hit. As a 9th level thief, his backstab deals quadruple damage, increased to quintuple damage because he landed a critical hit, so Viktir deals 5d6 points of damage to the worm. Even better, the worm fails its saving throw against the critical hit. Viktir rolls a 7 on the Critical Hit table, an “Impair Attack” result; the Judge rules that Viktir has sliced off the purple worm’s stinger tip, imposing a -4 penalty to its attacks with that natural weapon. The party’s grizzled old loremaster complains about thieves being too powerful these days.
+
 
 ### Disarm
 
@@ -885,6 +959,12 @@ If a combatant wants to move through an opponent without stopping to fight him, 
 ### Sunder
 
 In lieu of a melee attack, a combatant may try to break his opponent's weapon or shield with a forceful blow. To sunder a weapon or shield, a combatant must succeed on a melee attack throw. There is a -4 penalty on the attack throw to sunder staffs, spears, and polearms, and a -6 penalty on the attack throw to sunder any other weapons or shields. If the attack throw succeeds, the opponent must then make a successful saving throw versus Paralysis. Subtract any magic bonus from the sundering weapon from the save, and add any magic bonus from the targeted weapon or shield. Daggers, swords, and shields gain a +4 bonus on the save, while staffs, spears and pole arms suffer a -4 penalty. If the saving throw is successful, the opponent's weapon or shield is unharmed. If the saving throw is unsuccessful, the opponent's weapon or shield is broken. Regardless of the attack and saving throw result, magic weapons and shields can only be sundered by weapons with a magic bonus equal to or greater than their own.
+
+### Sweeping Attack
+
+A combatant may perform a sweeping attack in order to simultaneously attack one or more engaged opponents, up to his number of eligible cleaves. The combatant must be using a medium or large weapon (such as a battle axe, sword, or two-handed sword) or be at least one size category larger than all his engaged opponents, in order to perform a sweeping attack. Each opponent targeted by the sweeping attack may immediately withdraw 5’ away from the attacking combatant if desired. The attacking combatant may then make one attack throw at a -4 penalty against each opponent who did not withdraw. If all of the opponents withdraw from or are slain by the sweeping attack, the combatant may either (i) immediately advance 5’ and cleave or (ii) conduct a fighting withdrawal himself.  When performing a sweeping attack and any subsequent cleaves, a combatant’s total number of attacks may never exceed the usual maximum (e.g. his attack routine plus his number of cleave attacks by level).
+
+>EXAMPLE: Athelstan, a 6th level fighter with a two-handed sword, finds himself surrounded by six orcs. He declares a sweeping attack against all six orcs. Choosing discretion over valor, four of the orcs withdraw 5’, but two boldly stand their ground. Athelstan immediately makes an attack throw against the two orcs, suffering a -4 penalty. He hits and slays both orcs. Athelstan can now choose to advance 5’ and cleave against the remaining orcs, or perform a fighting withdrawal. He chooses the latter, slipping around the corner to where his friends have formed up.
 
 
 ### Wrestling
