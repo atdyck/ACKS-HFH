@@ -289,71 +289,6 @@ This pre-generated template represents a bold tomb raider. The template is ready
 ## Campaign Classes
 
 
-### Assassin
-
-| Prime Requisite: | STR and DEX
-| :--------------- | :----------
-| Requirements:    | None
-| Hit Dice:        | 1d6
-| Maximum Level:   | 14
-
-Assassins are humans who train to kill by ambush and treachery. Assassins may be back-alley brawlers, violent thugs, or members of an organized guild. Some assassins are members of an order of Assassins, a religious brotherhood of trained killers, or are simply murders-for-hire or rogues with a taste for violence.
-
-Assassins are expert combatants, though lacking somewhat in toughness (hit points). At first level, assassins hit an unarmored foe (AC 0) with an attack throw of 10+. They advance in attack throws and saving throws as fighters, by two points every three levels of experience. Assassins increase their base damage roll from successful missile and melee attacks by +1 at 1st level and by an additional +1 at 3rd, 6th, 9th, and 12th level.
-
-Assassins may use any weapon without limitation. Although assassins generally prefer fast, concealable, or quiet weapons, killing can occur under many circumstances. They may fight using a weapon two-handed, a weapon in each hand, or a weapon and shield.
-
-Assassins may wear any type of armor, but most favor stealth over steel. When wearing leather armor or lighter garb, an assassin may move silently, hide in shadows, and backstab as a thief of the same level. If wear armor heavier than leather, these abilities are not available.
-
-Upon reaching 9th level (Assassin), an assassin may construct a hideout. When an assassin builds a hideout, he will gain 2d6 1st level assassin apprentices, come to learn under a master. If hired, they must be paid standard rates for ruffians. These thugs will serve the character with some loyalty, though at least one will be an infiltrator working for the assassin's local rivals, sent to keep an eye on the character. Additional rules for hideouts are detailed in the [Campaigns](Chapter07.md#chapter-7-campaigns) chapter.
-
-
-| Template:           | Bravo
-| :------------------ | :----
-| Proficiencies:      | Fighting Style (Two-Weapon Fighting), Intimidation
-| Starting Equipment: | Serrated sword, left-hand dagger, black leather armor, armiger's tunic, duelist's cloak, high boots, belt pouch with bone dice made from last foe, backpack, 2 week's iron rations, 36gp
-
-This pre-generated template represents a swaggering killer-for-hire. The template is ready for adventure. However, if your assassin's INT is 13 or greater, you may pick one or more additional general proficiencies before play if you'd like (see [Starting Proficiencies](Chapter04.md#starting-proficiencies) in Chapter 4).
-
-
-#### Assassin Level Progression
-
-| Experience | Title                       | Level | Hit Dice | Damage Bonus | Backstab
-| ---------: | :-------------------------- | ----: | :------- | -----------: | -------:
-|          0 | Thug                        |     1 | 1d6      |           +1 |       x2
-|      1,700 | Enforcer                    |     2 | 2d6      |           +1 |       x2
-|      3,400 | Torturer                    |     3 | 3d6      |           +2 |       x2
-|      6,800 | Slayer                      |     4 | 4d6      |           +2 |       x2
-|     14,000 | Destroyer                   |     5 | 5d6      |           +2 |       x3
-|     28,000 | Executioner                 |     6 | 6d6      |           +3 |       x3
-|     55,000 | Blackguard                  |     7 | 7d6      |           +3 |       x3
-|    110,000 | Assassin                    |     8 | 8d6      |           +3 |       x3
-|    230,000 | Master Assassin             |     9 | 9d6      |           +4 |       x4
-|    350,000 | Master Assassin, 10th level |    10 | 9d6+2*   |           +4 |       x4
-|    470,000 | Master Assassin, 11th level |    11 | 9d6+4*   |           +4 |       x4
-|    590,000 | Master Assassin, 12th level |    12 | 9d6+6*   |           +5 |       x4
-|    710,000 | Master Assassin, 13th level |    13 | 9d6+8*   |           +5 |       x5
-|    830,000 | Grandfather of Assassins    |    14 | 9d6+10*  |           +5 |       x5
-
-*Hit point modifiers from constitution are ignored
-
-
-#### Assassin (Fighter) Attack and Saving Throws
-
-| Level | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells | Attack Throw
-| :---- | ------------------------: | -------------: | -------------: | -------------: | -----: | -----------:
-| 1     |                       15+ |            14+ |            16+ |            16+ |    17+ |          10+
-| 2-3   |                       14+ |            13+ |            15+ |            15+ |    16+ |           9+
-| 4     |                       13+ |            12+ |            14+ |            14+ |    15+ |           8+
-| 5-6   |                       12+ |            11+ |            13+ |            13+ |    14+ |           7+
-| 7     |                       11+ |            10+ |            12+ |            12+ |    13+ |           6+
-| 8-9   |                       10+ |             9+ |            11+ |            11+ |    12+ |           5+
-| 10    |                        9+ |             8+ |            10+ |            10+ |    11+ |           4+
-| 11-12 |                        8+ |             7+ |             9+ |             9+ |    10+ |           3+
-| 13    |                        7+ |             6+ |             8+ |             8+ |     9+ |           2+
-| 14    |                        6+ |             5+ |             7+ |             7+ |     8+ |           1+
-
-
 ### Bard
 
 | Prime Requisite: | DEX and CHA
@@ -967,7 +902,7 @@ When there are only a small number of players, the Judge may allow them to each 
 
 ## Templates
 
-### Fighter
+### Fighter Templates
 
 | 3d6 Roll | Template | Proficiencies | Starting Equipment 
 | :------- | :------- | :------------ | :-----------------
@@ -981,6 +916,109 @@ When there are only a small number of players, the Judge may allow them to each 
 | 17-18 | Unlanded Thegn | Command, Military Strategy | Spear, polished sword, colorful wooden shield, lamellar armor, armiger’s tunic, high boots, light riding horse, riding saddle and tack, saddlebags, 1 week’s iron rations
 
 Fighter Notes: The long bearded axe is a type of great axe. The francisca is a type of hand axe. A chain byrnie is equivalent to ring mail and a chain hauberk is equivalent to chain mail.
+
+
+### Thief Templates
+
+| 3d6 Roll | Template | Proficiencies | Starting Equipment
+| :------- | :------- | :------------ | :-----------------
+| 3-4 | Outlaw | Skulking, Survival | Handmade shortbow, quiver with 20 arrows, hand axe, leather armor, tattered cloak, old freeholder’s tunic and pants, leather belt, well-worn low boots, backpack, 50' rope, 1 week’s iron rations
+| 5-6 | Thief-Acrobat | Acrobatics, Endurance | Bola, quarterstaff, supple leather armor, cloak, tunic and pants, leather belt, low boots, 50' rope, grappling hook, backpack, 2 weeks’ iron rations
+| 7-8 | Sea Wolf | Swashbuckling, Seafaring | Shortbow, quiver with 20 arrows, battle axe, 2 well-balanced daggers with boot-sheathes, leather armor, colorful tunic and pants, high boots, wineskin with good wine, small sack, 50' rope, thieves’ tools, 1 week’s iron rations, 7gp
+| 9-10 | Tomb Raider | Trap Finding, Mapping | Shortbow, quiver with 20 arrows, 10' pole, battle axe, 2 throwing daggers, sturdy leather armor, tanned brown cloak, thick tunic and pants, leather belt, low boots, backpack, 2 large treasure sacks, thieves’ tools, 50' rope, tinderbox, lantern, small hammer, 12 iron spikes, 2 looted flasks of military oil, wineskin, 2 weeks’ iron rations, 30gp	 
+| 11-12 | Cat Burglar | Cat Burglary, Gambling | Shortbow, quiver with 20 arrows, short sword, 2 throwing daggers, supple leather armor, black cloak with hood and bandana, black tunic and pants, padded sandals, backpack, 2 large sacks, thieves’ tools, crowbar, 100' rope, grappling hook, lantern, tinderbox, 2 flasks of common oil, small hammer, 12 iron spikes, wineskin, 1 week’s iron rations, 5gp
+| 13-14 | Lockbreaker | Lockpicking, Craft (locksmithing) | Shortbow, quiver with 20 arrows, battle axe, 2 throwing daggers, leather armor, hooded cloak, freeholder’s tunic and pants, leather belt, low boots, backpack, thieves’ tools, 50' rope, grappling hook, tinderbox, lantern, 2 flasks of common oil, small hammer, 12 iron spikes, wineskin, 1 week’s iron rations, 28gp 
+| 15-16 | Failed Apprentice | Arcane Dabbling, Collegiate Wizardry | Shortbow, quiver with 20 arrows, quarterstaff, 2 throwing daggers, leather armor under blue mage’s cassock, high boots, backpack, thieves’ tools, 50' rope, spellbook (blank), lantern, tinderbox, 4 flasks of alchemist's fire, 2 flasks of common oil, small hammer, 12 iron spikes, 1lb garlic, 1lb wolfsbane, wineskin, 1 week’s iron rations, 20gp
+| 17-18 | Traveler | Skirmishing, Riding | Shortbow, quiver with 20 arrows, sword, leather armor, traveler’s tunic and pants, riding boots, light riding horse, riding saddle and tack, leather saddlebags, thieves’ tools, 1 week’s iron rations, 15gp
+
+
+### Bard Templates
+
+| 3d6 Roll | Template | Proficiencies | Starting Equipment
+| :------- | :------- | :------------ | :-----------------
+| 3-4 | Hermit Sage | Beast Friendship, Naturalism, *Performance (woodwind instruments)* | Spear, 2 javelins, hide armor, leather shoes, leather belt, belt pouch, pan pipes, 1 week’s iron rations, 7sp
+| 5-6 | Wandering poet | Skirmishing, Alchemy, *Performance (epic poetry)* | Quarterstaff, hunting shortbow, quiver with 20 arrows, leather armor, fur-linedtraveling cloak, traveling tunic and pants, low boots, backpack, 50' rope, blanket, tinderbox, 2 week’s iron rations, 30sp
+| 7-8 | Village Lore-Keeper | Prestidigitation, Profession (Teacher), *Performance (stringed instruments)* | Shortbow, quiver with 20 arrows, sword, simple leather armor, simple tunic and pants, low boots, wineskin with good wine, backpack, lyre, 4 tallow candles, tinderbox, 1 week’s iron rations, 7gp
+| 9-10 | Myth Seeker | Elven Bloodline, Diplomacy, *Performance (singing)* | Elven longbow, quiver with 20 arrows, short sword, slender elven dagger, well-maintained leather armor, traveler’s tunic and pants, fur-lined cloak, sturdy high boots, silk sash, backpack, lute, wineskin with 2 pints of rare wine, 2 weeks’ iron rations, 10gp
+| 11-12 | Chronicler | Magical Engineering, Knowledge (history), *Performance (epic poetry)* | Shortbow, quiver with 20 arrows, sword, dagger, well-maintained leather armor, traveler’s tunic and pants, sturdy low boots, backpack, lantern, 2 flasks of common oil, tinderbox, parchment journal half-filled with entries, quill and ink, 50' rope, 1 week’s iron rations, 20gp
+| 13-14 | Orator | Mystic Aura, Diplomacy, *Performance (stringed instruments)* | Shortbow, quiver with 20 arrows, sword, polished leather armor, silk cloak, fine tunic and pants, high boots, belt pouch, harp, 2 weeks’ iron rations, 15gp
+| 15-16 | Court Skald | Eavesdropping, Lip Reading, *Performance (epic poetry)* | Shortbow, quiver with 20 arrows, sword, dagger, fine leather armor, embroidered hooded cloak, armiger’s tunic and pants, leather belt, silk sash, high boots, backpack, lute, 1 weeks’ iron rations, silver ring worth 60gp
+| 17-18 | Protégé of Heroes | Command, Leadership, *Performance (oration)* | Shortbow, quiver with 20 arrows, matching sword and dagger with lacquered hilts, exquisitely stitched leather armor, fine traveling cloak, armiger’s tunic and pants, embossed leather belt, high boots, light riding horse, riding saddle and tack, saddlebags, 1 week’s iron rations, 25gp
+
+Bard Notes: The Performance proficiency that each bard template begins with is noted in italics.
+
+
+### Explorer Templates
+
+| 3d6 Roll | Template | Proficiencies | Starting Equipment
+| :------- | :------- | :------------ | :-----------------
+| 3-4 	Wanderer |	Running, Endurance |	Shortbow, quiver with 20 arrows, old spear, hand axe, battered leather armor, deep cowled traveler’s cloak, wool tunic and pants, leather belt, well-worn low boots, backpack, tinderbox, 12 torches, 2 weeks’ iron rations	 
+| 5-6 	Cartographer | 	Land Surveying, Mapping | 	Shortbow, quiver with 20 arrows, spear, hand axe, leather armor, hooded cloak, wool tunic and pants, leather belt, sturdy low boots, backpack (tattered cartographic journal, quill and ink, tinderbox, 12 torches, 2 weeks’ iron rations)  
+| 7-8 | Voyager	| Swashbuckling, Seafaring | Shortbow, quiver with 20 arrows, hand axe, leather armor, mariner’s tunic and pants, weathered red sash, crusty high boots, backpack (50' rope, grappling hook, tinderbox, 12 torches, wineskin, 2 weeks’ iron rations, 10gp)
+| 9-10 | Pathfinder | Precise Shooting, Tracking | Daoine longbow, quiver with 20 arrows, spear, short sword, dagger, chain mail armor, wind-battered fur cloak, wool tunic and pants, leather belt, low boots, backpack, lantern, tinderbox, 2 flasks of common oil, blanket, 50' rope, 12 iron spikes, small hammer, wineskin, 1 week’s iron rations
+| 11-12 | Waylayer | Ambushing, Intimidation | Shortbow, quiver with 30 arrows, net, battle axe, hand axe, chain mail armor, shield, hooded cloak, dark tunic and pants, high boots, backpack, 4 stakes and mallet, 12 iron spikes, 50' rope, 2 flasks of military oil, tinder box, 12 torches, 2 weeks’ iron rations, 15gp
+| 13-14 | Scout | Passing without Trace, Survival | Shortbow, quiver with 20 arrows, 2 hand axes, chain mail armor, grey-green traveler’s cloak, wool tunic and pants, high boots, backpack, 50' rope, grappling hook, blanket, tinder box, 12 torches, 1 week’s iron rations, Dog (Bloodhound), 1 week's dog rations, 15gp
+| 15-16 | Monster Hunter | Skirmishing, Trapping | Exotic composite bow, quiver with 20 arrows, spear, short sword, net, shield, chain mail armor, hunter green cloak, tunic, and pants, high boots, backpack, 1lb garlic, 1lb wolfsbane, 1 vial of holy water, 50' rope, 12 torches, tinderbox, 2 weeks’ iron rations, 4gp
+| 17-18 | Outrider | Weapon Focus (bows), Riding | Exotic composite bow, quiver with 20 arrows, scimitar, dagger, leather scale armor, traveler’s tunic and pants, riding boots, light riding horse, riding saddle and tack, leather saddlebags, 2 weeks’ iron rations
+
+
+#### Freebooter Templates
+
+| 3d6 Roll | Template | Proficiencies | Starting Equipment
+| :------- | :------- | :------------ | :-----------------
+| 3-4 | Survivalist (Wayfarer Path) | *Land Surveying, Running, Sniping, Skirmishing, Tracking*, Combat Reflexes, Survival | Pair of hand axes, handcrafted shortbow (20 arrows), battered hide armor, tattered fur cloak, threadbare tunic and pants, leather belt, scuffed low boots, backpack (tinderbox, 12 torches, 1 week's iron rations)
+| 5-6 | Kidnapper (Wayfarer Path) | *Land Surveying, Running, Sniping, Skirmishing, Tracking*, Combat Trickery (incapacitate), Bargaining | Dagger and net, bola, dark leather armor, black cloak, traveler's tunic and pants, high boots, backpack (crowbar, 50' rope, manacles, 12 iron spikes, small hammer, 2 week's iron rations, 2gp)
+| 7-8 | Cutthroat (Ruffian Path) | *Dungeon Bashing, Fighting Style (two weapons), Intimidation, Skulking, Swashbuckling,* Combat Reflexes, Endurance | Hand axe and dagger, dirty leather armor, cheap tunic and pants, leather belt, low boots, backpack (12 iron spikes, small hammer, 1 flask of military oil, tinderbox, 12 torches, 2 week's iron rations), ill-gotten silver bracelet (15gp)	
+| 9-10 | Enforcer (Ruffian Path) | *Dungeon Bashing, Fighting Style (two weapons), Intimidation, Skulking, Swashbuckling,* Blind Fighting, Intimidation | Morning star, pair of franciscas, shoddy leather armor, rough spun wool tunic and pants, leather belt, low boots, silver earring (10gp value), wineskin with strong ale, small sack (6 torches, tinderbox, thieves’ tools, 50' rope, crowbar, 1 week's iron rations, 20gp)
+| 11-12 | Spelunker	(Expeditionary Path) | *Alertness, Climbing, Dungeon Bashing, Mapping, Trap Finding*, Mountaineering, Caving | Short sword, shortbow (20 arrow), 2 throwing daggers, sturdy leather armor, tanned brown fur-lined cloak, thick tunic and pants, leather belt, low boots, 10’ pole, backpack (2 large treasure sacks, thieves’ tools, grappling hook, 50’ rope, tinderbox, lantern, small hammer, 12 iron spikes, 2 flasks of military oil, 2 weeks’ iron rations, wineskin)
+| 13-14 | Ruin Runner (Expeditionary Path) | *Alertness, Climbing, Dungeon Bashing, Mapping, Trap Finding*, Running, Navigation | Short sword, 2 daggers, quarterstaff, strappy leather armor, tanned brown cloak, thick tunic and pants, leather belt, low boots, backpack (2 large sacks, 50' rope, grappling hook, tinderbox, lantern, small hammer, 12 iron spikes, 2 flasks of military oil, 2 week's iron rations, wineskin, looted onyx statuette (worth 30gp)
+| 15-16 | Cat Burglar (Scoundrel Path) | *Cat Burglary, Climbing, Disguise, Eavesdropping, Lip Reading*, Skulking, Gambling | Short sword, shortbow (20 arrows), 2 throwing daggers, supple leather armor, black cloak with hood and bandana, black tunic and pants, padded sandals, backpack (2 large sacks, thieves' tools, crowbar, 100' rope, grappling hook, lantern, tinderbox, 2 flasks of common oil, small hammer, 12 iron spikes, 1 week's iron rations, wineskin, 5gp)
+| 17-18 | Spy | *Cat Burglary, Climbing, Disguise, Eavesdropping, Lip Reading*, Bribery, Diplomacy | Short sword and dagger, fine leather armor, embroidered traveling cloak, traveler's tunic and pants, leather belt, low boots, backpack (disguise kit, crowbar, 50' rope, 1 week's iron rations, 8gp), light riding horse, riding saddle and tack, saddlebags 
+
+* The freebooter's bonus path proficiencies are italicized. A francisca is a type of hand axe. Sea leather is a special type of leather armor.
+
+
+#### Runemaker Templates
+
+| 3d6 Roll | Template | Proficiencies | Starting Equipment
+| :------- | :------- | :------------ | :-----------------
+| 3-7 | Fury | Berserkergang, Intimidation | Rune-carved Dane axe, dagger, round wooden shield, sturdy leather armour, wool tunic and pants, leather belt, low boots, backpack (runic implements 1st-level, tinderbox, 12 torches, 1 week's iron rations, 3gp), belt pouch (runestones)
+| 8-10 | Galdr | Prophesy, Performance (chanting) | Iron sword, yew shortbow (20 arrows), dagger, chain byrnie, round wooden shield, stone-grey wool tunic and pants, leather belt, low boots, backpack (runic implements 1st-level, 2 week's iron rations, 1gp), belt pouch (runestones)
+| 11-13 |	Purifier |	Weapon Focus (flails/hammers/maces), Theology |	War hammer, francisca, polished chain hauberk, steel shield, blue wool tunic and pants, leather belt, low boots, backpack (runic implements 1st-level] 12 torches, tinder box, 1 week's iron rations, 5gp), belt pouch (runestones) 
+| 14-18 |	Watcher |	Second Sight, Craft (rune-carving) | Rune-etched spear, shortbow (20 arrows), sword, chain hauberk, wind-battered fur cloak, wool tunic and pants, leather belt, low boots, backpack (runic implements 1st-level, crafting tools, blanket, wineskin, 1 week’s iron rations), belt pouch (runestones)
+
+* A Dane axe is a type of battle axe and a francisca is a type of hand axe. A chain byrnie is equivalent to ring mail and a chain hauberk is equivalent to chain mail.
+
+
+#### Witch Templates
+
+| 3d6 Roll | Template | Proficiencies | Starting Equipment	
+| :------- | :------- | :------------ | :-----------------
+| 3-4 | Crone (Antiquarian) |	Contemplation, Survival, *Healing* | Antiquarian implements 1st-level, antiquarian talisman of transmogrification, loosely bound codex with **chameleon** and **kindle flame**, rusty dagger, tattered cloak, patched wool dress, leather shoes, leather pouch, 1 week’s iron rations, 5gp
+| 5-6 | Folk Seer (Antiquarian) | Prophecy, Performance (storytelling), *Healing* | Antiquarian implements 1st-level, antiquarian talisman of detection, leather-bound codex with **trance** and **detect magic**, rune-etched oak staff, sandals, purse, flask of holy water, 2 weeks' iron rations, 20sp
+| 7-8 | Wandering Magic-Worker (Antiquarian) | Familiar (raven), Naturalism, *Healing* | Raven familiar, antiquarian implements 1st-level, antiquarian talisman of transmogrification, codex wrapped in oil cloth with **shatter blade** and **protection from evil**, blackthorn staff, fur-lined cloak, freeholder's dress, low boots, purse, flask of holy water, 2 weeks' iron rations, 20sp 
+| 9-10 | Village Witch (Antiquarian) | Laying on Hands, Naturalism, *Healing* | Antiquarian implements 1st-level, antiquarian talisman of healing, leather-bound codex with **detect evil** and **detect animal or plant**, slender oak staff, freeholder’s dress, leather belt, leather shoes, backpack, 1lb birthwort, 2lb comfrey, 1lb goldenrod, 1lb woundwort, 5 scented wax candles, flask of holy water, 2 weeks’ iron rations, 7gp
+| 11-12 | Village Witch (Antiquarian) | Hedge Ceremonialism, Healing, *Healing 2* | Antiquarian implements 1st-level, antiquarian talisman of healing, leather-bound codex with **delay disease** and **salving rest**, slender oak staff, freeholder’s dress, leather belt, leather shoes, backpack, 1lb birthwort, 2lb comfrey, 1lb goldenrod, 1lb woundwort, 5 scented wax candles, flask of holy water, 2 weeks’ iron rations, 7gp  
+| 13-14 | Lorelei (Sylvan) | Magical Music, Performance (singing), *Beast Friendship* | Sylvan implements 1st-level, sylvan talisman of protection, silk-wrapped codex with **command word** and **pass without trace**, slender whitewood staff, elaborate bronze choker necklace (20gp value), green silk dress, autumn-hued silk sash, high boots, backpack, flask of holy water, 2 weeks’ iron rations, 1gp
+| 15-16 | Death Mistress (Chthonic) | Familiar (python), Knowledge (occult), *Seduction* | Python familiar, Chthonic implements 1st-level, chthonic talisman of death & necromancy, snake skin bound codex with **slicing blow** and **blinding flash**, stiletto, black silk cloak, veil, and sash, black silk chiton, long leather gloves, silver bangles (20gp value), silver earrings (20gp), high boots, backpack, 5 black wax candles, 2 weeks’ iron rations, 14gp 
+| 17-18 | Deceiver (Chthonic) | Mystic Aura, Mimicry, *Seduction* | Chthonic implements 1st-level, chthonic talisman of enchantment & illusion, black silk-bound codex with slumber and ensorcellement, onyx-hilted dagger, black silk cloak, purple and black chiton, high boots, disguise kit, flask of unholy water, 1 week's iron rations, 10gp
+
+Witch Notes: The tradition to which each template belongs is noted in parentheses in the Template column. Any bonus proficiencies from the tradition are noted in italics in the Proficiencies column. 
+The death mistress’s stiletto is a type of dagger.
+
+
+#### Loremaster Templates
+| :------- | :------- | :------------ | :-----------------
+| 3d6 Roll | Template | Proficiencies | Starting Equipment
+| 3-4 |	Village Wizard | Familiar (owl), Healing, Village Ceremonialism | Owl familiar, musty old codex with **slipperiness** and **ventriloquism**, theurgical implements 1st-level, theurgical talisman of enchantment & illusion, gnarled oaken staff, simple robe, leather shoes, medicine bag, 1lb comfrey, 2 weeks’ iron rations
+| 5-6 |	Soothsayer | Soothsaying, Performance (storytelling), Theology | Enameled codex with **protection from evil** and **magic mouth**, theurgical implements 1st-level, theurgical talisman of protection, smooth-worn staff, simple robe, leather belt, low boots, backpack, ornamental crystal ball (20gp value), quill and ink, 2 weeks’ iron rations
+| 7-8 | Necromancer | Black Lore of Zahar, Alchemy, Healing | Iron-bound snakeskin codex with **choking grip** and **unliving puppet**, theurgical implements 1st-level, theurgical talisman of death & necromancy, curved sacrificial dagger, grey robes, leather belt, leather gloves, high boots, backpack, 1lb birthwort, 1lb goldenrod, 1lb woundwort, quill and ink, 2 weeks’ iron rations, 5gp
+| 9-10 | Elementalist* | Elementalism (fire), Naturalism, Alchemy | Wood-paneled codex with **kindle flame** and **counterspell**, theurgical implements 1st-level, theurgical talisman of elemental fire, gnarled oaken quarterstaff, 5 darts, four-colored cassock with hood, leather belt, low boots, backpack, quill and ink, 2 weeks’ iron rations, 57gp
+| 11-12 | Magical Scholar | Magical Engineering, Collegiate Wizardry, Knowledge (astrology) | Well-kept codex with **slumber** and **detect magic**, theurgical implements 1st-level, theurgical talisman of detection, rune-etched staff, blue mage’s cassock, leather belt, low boots, backpack, quill and ink, 1 week’s iron rations, 80gp
+| 13-14 | Roving Sorcerer | Mystic Aura, Intimidation, Leadership | Black leather-bound codex with **display of power** and **remove fear**, theurgical implements 1st-level, theurgical talisman of enchantment & illusion, engraved quarterstaff, embroidered robes, leather belt, low boots, backpack, quill and ink, 2 weeks’ iron rations, 95gp
+| 15-16 | Warmage | Battle Magic, Military Strategy, Siege Engineering | Sturdy codex with **sharpness** and **shatter blade**, theurgical implements 1st-level, theurgical talisman of transmogrification, iron-shod staff, ornate seax \[dagger], red armiger’s tunic and pants, leather belt, leather gloves, high boots, backpack, quill and ink, 2 weeks’ iron rations, 100gp
+| 17-18 | Court Magist | Prestidigitation, Diplomacy, Language | Bronze-framed codex with **detect evil** and **detect magic**, theurgical implements 1st-level, theurgical talisman of detection, quarterstaff tipped with glass gemstone (45gp value), 5 darts, silk mage’s cassock, extravagant hat, leather belt, leather gloves, high boots, backpack, quill and ink, medium riding horse, riding saddle and tack, saddlebags, 1 week’s iron rations, 22gp
+
 
 
 
