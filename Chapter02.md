@@ -124,7 +124,7 @@ Each character class rolls a different kind of die to determine hit points, as n
 
 Characters with the Healing proficiency can shorten their patient’s recovery time. A patient under treatment of Healing recovers twice his base healing rate in hp each day of rest.
 
-For more information on healing, see Chapter 6 under [Healing](Chapter06.md#chapter-6-healing).
+For more information on healing, see Chapter 6 under [Healing](Chapter06.md#healing).
 
 
 ## Character Classes
