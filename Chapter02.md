@@ -33,7 +33,7 @@ You've taken the first step on your adventure, but you are still a 0th level hum
 
 To speed up the character creation process, a player may opt to roll for a character's proficiencies and equipment using a template. To create a character this way, follow the above instruction through step 6, then follow the instructions below. 
 
-7. Find the appropriate template table for your character’s class in Chapter XX, Character Class Templates. With the Judge’s permission, choose a template appropriate to the campaign. Otherwise, roll 3d6 on the table to determine your character’s starting template. Note down your character’s starting proficiencies from the table. All characters always begin with the Adventuring proficiency in addition to those listed. Apply any modifiers to your ability scores, hit points, attack throws, or saving throws from proficiencies. If you have chosen to play a magic-user, note down the starting ceremonies or spells from your template.
+7. Find the appropriate template table for your character’s class at the end of this chapter. With the Judge’s permission, choose a template appropriate to the campaign. Otherwise, roll 3d6 on the table to determine your character’s starting template. Note down your character’s starting proficiencies from the table. All characters always begin with the Adventuring proficiency in addition to those listed. Apply any modifiers to your ability scores, hit points, attack throws, or saving throws from proficiencies. If you have chosen to play a magic-user, note down the starting ceremonies or spells from your template.
 
 8. Write your character’s starting equipment and gold pieces as listed for your template. You do not roll for starting wealth when using a template. Since you now know what armor your character is wearing, note your Armor Class (AC) on the character sheet based on the type of armor you choose. Calculate your character’s encumbrance based on how much weight he is carrying.
 
@@ -63,19 +63,15 @@ When complete, your character will have a score ranging from 3 to 18 in each of 
 | 16-17         |            +2
 | 18            |            +3
 
-**Strength**: As the name implies, this ability measures the character's raw physical power. Strength is a prime requisite for assassins, explorers, dwarven vaultguards, elven spellswords, and fighters. Apply the ability bonus or penalty for Strength to all attack throws and damage rolls in melee (hand-to-hand) combat. Note that a penalty here will not reduce damage from a successful attack below one point, unless the target is otherwise invulnerable to the attack (see the [Adventures](Chapter06.md#chapter-6-adventures) chapter for details).
+**Strength**: As the name implies, this ability measures the character's raw physical power. Strength is a prime requisite for assassins, explorers, and fighters. Apply the ability bonus or penalty for Strength to all attack throws and damage rolls in melee (hand-to-hand) combat. Note that a penalty here will not reduce damage from a successful attack below one point, unless the target is otherwise invulnerable to the attack (see the [Adventures](Chapter06.md#chapter-6-adventures) chapter for details).
 
-**Intelligence**: This is the ability to learn and apply knowledge. Intelligence is a prime requisite for elven nightblades, elven spellswords, and mages. The ability bonus for Intelligence is added to the number of proficiencies the character begins play with (see the [Proficiencies](Chapter04.md#chapter-4-proficiencies) chapter for details) and the number of languages the character is able to learn to read and write, as described below. Mages, elven nightblades, and elven spellswords increase the number of spells of each level in their repertoire by their Intelligence bonus (see the [Spells](Chapter05.md#chapter-5-spells) chapter for details).
+**Intelligence**: This is the ability to learn and apply knowledge. Intelligence is a prime requisite for witches and loremasters. The ability bonus for Intelligence is added to the number of proficiencies the character begins play with (see the [Proficiencies](Chapter04.md#chapter-4-proficiencies) chapter for details) and the number of languages the character is able to learn to read and write, as described below. Magic-users increase the number of ceremonies or spells of each level in their repertoire by their Intelligence bonus (see the [Spells](Chapter05.md#chapter-5-spells) chapter for details).
 
-All characters begin the game knowing their native language. In most campaign worlds, the majority of humans speak a common language, often called "Common."  The demi-human races (elves and dwarves) have their own languages, and members of these  races normally begin play knowing their racial language, Common (or the local human language if it isn't called Common), and certain other languages based on the race.
+All characters begin the game knowing their native language. A character with an Intelligence penalty will only know his native language, and cannot read more than a word or two. Characters with at least average Intelligence (9-12) will be literate in any languages they can speak. Characters with an Intelligence bonus may begin the game knowing one or more languages other than those given above; the number of additional languages that may be learned is equal to the Intelligence bonus (+1, +2, or +3). The player may also choose to leave one or more bonus language "slots" open, to be filled during play.
 
-A character with an Intelligence penalty will only know his native language, and cannot read more than a word or two. Characters with at least average Intelligence (9-12) will be literate in any languages they can speak. Characters with an Intelligence bonus may begin the game knowing one or more languages other than those given above; the number of additional languages that may be learned is equal to the Intelligence bonus (+1, +2, or +3). The player may also choose to leave one or more bonus language "slots" open, to be filled during play.
+**Wisdom**: A combination of intuition, willpower and common sense. Wisdom is a prime requisite for runemakers, witches, and loremasters. The Wisdom bonus or penalty applies to all saving throws.
 
-The languages available to characters include the demi-human languages (Elven, Dwarven, Gnomish, and Halfling) and the various beastmen dialects (e.g. Orc, Goblin). At the Judge's discretion, player characters may also begin play knowing ancient or archaic tongues, or exotic languages such as Draconic (the language of dragons). The specific languages available will depend on the campaign setting.
-
-**Wisdom**: A combination of intuition, willpower and common sense. Wisdom is a prime requisite for bladedancers, clerics, and dwarven craftpriests. The Wisdom bonus or penalty applies to saving throws caused by spells or magic items. This would include, e.g., a save versus Blast against a fireball or a save versus Death from a finger of death, but not a save versus Petrification against a medusa's gaze.
-
-**Dexterity**: This ability measures the character's quickness and balance as well as his aptitude with tools. Dexterity is a prime requisite for assassins, bards, bladedancers, elven nightblades, explorers, and thieves. A character's Dexterity bonus or penalty is applied to his attack throws with missile weapons, Armor Class value, and Initiative die rolls.
+**Dexterity**: This ability measures the character's quickness and balance as well as his aptitude with tools. Dexterity is a prime requisite for assassins, bards, explorers, and thieves. A character's Dexterity bonus or penalty is applied to his attack throws with missile weapons, Armor Class value, and Initiative die rolls.
 
 **Constitution**: Constitution is a combination of general health and vitality. Apply the Constitution bonus or penalty to each Hit Die rolled by the character. Note that a penalty here cannot reduce any Hit Die roll to less than 1 point.
 
@@ -96,7 +92,7 @@ If a character's prime requisite ability is high enough, the character will rece
 | 13-15 |                   +5%
 | 16-18 |                  +10%
 
-Once a player has selected his character class, he may raise the class's prime requisite ability or abilities if desired by sacrificing points in other abilities. 2 ability points may be sacrificed from an ability to raise a prime requisite ability 1 point. This may be done more than once, but no ability can be lowered below 9, and no ability may be lowered if it is also a prime requisite for the class, even if there are a few points to spare above the minimum required score.
+~~Once a player has selected his character class, he may raise the class's prime requisite ability or abilities if desired by sacrificing points in other abilities. 2 ability points may be sacrificed from an ability to raise a prime requisite ability 1 point. This may be done more than once, but no ability can be lowered below 9, and no ability may be lowered if it is also a prime requisite for the class, even if there are a few points to spare above the minimum required score.~~
 
 
 ## Hit Points
@@ -108,16 +104,11 @@ Each character class rolls a different kind of die to determine hit points, as n
 
 ## Character Classes
 
-In the Adventurer Conqueror King System, there are two types of classes: human classes and demi-human classes. Humans are the most widespread of all races. Their ambition, cunning, and courage have led them to settle most of the known world, so most characters in the game will belong to one of the human classes.
-
-The core human classes described in these rules are the fighter, mage, cleric, and thief. Four additional human classes, the assassin, bard, bladedancer, and explorer, are provided to show how the core classes can be customized for specific archetypes within a campaign setting.
+The classes described in these rules are the fighter, thief. Four additional human classes, the assassin, bard, bladedancer, and explorer, are provided to show how the core classes can be customized for specific archetypes within a campaign setting.
 
 Compared to humans, demi-humans are rare, and generally more specialized. Demi-human classes are defined by their race, with different classes available for dwarves, elves, and other demi-humans. The demi-human classes described in these rules are the dwarven vaultguard, dwarven craftpriest, elven spellsword, and elven nightblade.
 
 Selecting equipment and proficiencies can be time-consuming, especially for new players. As a faster alternative, we offer a pre-generated template for each class, with weapons, armor, equipment, proficiencies, and spells ready for play. If you want to use these templates, you can skip step 8 (picking proficiencies and spells) and 9 (rolling for starting wealth and purchasing equipment) of character generation and simply use the template. A variety of additional templates, new classes, and rules for creating customized classes are available in the Adventurer Conqueror King System Player's Companion, available separately from Autarch.
-
-
-## Core Classes
 
 
 ### Fighter
@@ -182,204 +173,6 @@ This pre-generated template represents a wary sellsword. The template is ready f
 | 13    |                        7+ |             6+ |             8+ |             8+ |     9+ |           2+
 | 14    |                        6+ |             5+ |             7+ |             7+ |     8+ |           1+
 
-
-
-### Thief
-
-| Prime Requisite: | DEX
-| :--------------- | :---
-| Requirements:    | None
-| Hit Dice:        | 1d4
-| Maximum Level:   | 14
-
-Thieves have a range of unique skills associated with their profession that make them very handy companions in adventures. However, thieves can be a bit shady and they sometimes are not as trustworthy as other classes. A thief will usually belong to a Thieves' Guild from the character's local town, where he can seek shelter and information between adventures. At the Judge's discretion, a thief may have to forfeit a portion of his earnings to the guild in exchange for protection. Thieves are everywhere, from the slums to the highest halls of the government.
-
-Thieves are trained combatants, although not as skilled as fighters. At first level, thieves hit an unarmored foe (AC 0) with an attack throw of 10+. They advance in attack throws and saving throws by two points every four levels of experience. Because of their need for stealth and free movement, thieves cannot wear armor heavier than leather, and cannot use shields or exclusively two-handed melee weapons such as great axes or polearms. They may use any missile weapons and any one-handed melee weapons. They may fight with a one-handed weapon in each hand, or wielding a one-handed weapon with two hands.
-
-A thief also has the ability to backstab. He must catch an opponent unaware of his presence, either by surprise or by moving silently and/or hiding in shadows to sneak up on his opponent. When backstabbing, the thief will receive an attack bonus of +4 and, if successful, deal additional damage for every four levels he has attained. A thief at 1st through 4th levels does double the normal damage, at 5th-8th levels does triple the normal damage, at 9th-12th levels does quadruple the normal damage, and at 13th level or higher does quintuple the normal damage.
-
-Thieves have the following range of skills, which improve as the thief gains levels according to the progression on the [Thief Skills](Chapter02.md#thief-skills) table. When a thief attempts to make use of one of his skills, the character or Judge will make a proficiency throw of 1d20. (Usually the Judge will make rolls for these abilities, because a thief is not always aware when he has failed.) After applying any relevant modifiers (e.g. due to the complexity of a lock), the result is compared to the target value listed on the [Thief Skills](Chapter02.md#thief-skills) table below for the appropriate skill. A result that is greater than or equal to the value listed for the proficiency throw that corresponds to the thief's level is a success. A roll of 20 is always a success, and a roll of 1 is always a failure.
-
-**Opening Locks**: With the aid of thieves' tools, a thief may pick mechanical locks. He may only try to pick a particular lock once, and if he fails, he may not try the same lock again until he reaches a higher experience level. The Judge may apply bonuses or penalties to the roll, depending on the complexity of the lock.
-
-**Finding and Removing Traps**: Through careful inspection and probing, a thief may find hidden traps and then attempt to disable or discharge the trap harmlessly. A thief may only try to find or remove a trap once in any given area. The Judge may apply bonuses or penalties to the roll, depending on the complexity of the trap. If the thief fails, he may not try again until he reaches a higher experience level. Note that these are separate skills, for a thief must find a trap before he can remove it.
-
-**Picking Pockets**: This skill is the bread and butter of non-adventuring thieves for it is a quick source of income - though not without peril. A throw that is less than half the target value means that the intended target notices the thieving attempt. The Judge will then make a reaction roll with a -3 penalty to determine the intended victim's reaction.
-
-**Moving Silently**: Thieves may move with total silence. When successful, even keen eared guards will not hear the movements of a thief. However, the thief always thinks he is successful in this skill, and will not know otherwise unless and until others react to his presence. Thieves may move silently at  1/2  their standard combat movement rate without penalty. If they move greater than  1/2  speed, they take a -5 penalty to the proficiency throw. If they run, they take a -10 penalty.
-
-**Climbing Walls**: Thieves are adept at scaling sheer surfaces, including walls or steep cliffs. They require a proficiency throw for each 100' they intend to climb. If the roll fails, they fall a distance equal to half the attempted distance, plus the distance covered by any previous throws, taking 1d6 points of damage per 10 feet. Thieves climb at  1/4  their standard combat movement rate.
-
-**Hiding in Shadows**: A thief may attempt to skulk unseen in the cover of darkness. A thief will always think he is successful in this skill, and will not know otherwise until others react to his presence. A thief will remain hidden so long as he stays motionless. If he moves, he must make a new proficiency throw to hide.
-
-**Hearing Noises**: Thieves can attempt to listen for noises in a cave or hallway and at a door or other locations. The thief must be quiet and in a quiet environment.
-
-Upon attaining 4th level, a thief gains the ability to read languages (including ciphers, treasure maps, and dead languages, but not magical writings) with a proficiency throw of 5+ on 1d20. If the roll does not succeed, the thief may not try to read that particular piece of writing until he reaches a higher level of experience.
-
-When a thief attains 9th level (Master Thief), he can establish a hideout, and 2d6 thief apprentices of 1st level will come to work with the character. If hired, they must be paid standard rates for ruffians. A successful character might use these followers to start a Thieves' Guild. Additional rules for hideouts are detailed in the [Campaigns](Chapter07.md#chapter-7-campaigns) chapter.
-
-At 10th level, a thief can read and cast magic from arcane scrolls with a proficiency throw of 3+ on 1d20. However, a failed throw means the spell does not function as expected, and can create a horrible effect at the Judge's discretion.
-
-
-| Template:           | Tomb Raider
-| :------------------ | :----------
-| Proficiencies:      | Trap Finding, Mapping
-| Starting Equipment: | 10' pole, short sword, 2 throwing daggers,  crossbow, case with 20 quarrels, sturdy leather armor, tanned brown cloak, thick tunic and leggings, high boots, backpack, 2 large treasure sacks, thieves' tools, 50' rope, tinderbox, lantern, hammer and 12 iron spikes, 2 flasks of military oil, wineskin, 2 week's iron rations, 20sp
-
-This pre-generated template represents a bold tomb raider. The template is ready for adventure. However, if your thief's INT is 13 or greater, you may pick one or more additional general proficiencies before play if you'd like (see [Starting Proficiencies](Chapter04.md#starting-proficiencies) in Chapter 4).
-
-
-#### Thief Level Progression
-
-| Experience | Title                    | Level | Hit Dice | Backstab
-| ---------: | :----------------------- | ----: | :------- | -------:
-|          0 | Footpad                  |     1 | 1d4      |       x2
-|      1,250 | Hood                     |     2 | 2d4      |       x2
-|      2,500 | Robber                   |     3 | 3d4      |       x2
-|      5,000 | Burglar                  |     4 | 4d4      |       x2
-|     10,000 | Rogue                    |     5 | 5d4      |       x3
-|     20,000 | Scoundrel                |     6 | 6d4      |       x3
-|     40,000 | Pilferer                 |     7 | 7d4      |       x3
-|     80,000 | Thief                    |     8 | 8d4      |       x3
-|    180,000 | Master Thief             |     9 | 9d4      |       x4
-|    280,000 | Master Thief, 10th level |    10 | 9d4+2*   |       x4
-|    380,000 | Master Thief, 11th level |    11 | 9d4+4*   |       x4
-|    480,000 | Master Thief, 12th level |    12 | 9d4+6*   |       x4
-|    580,000 | Master Thief, 13th level |    13 | 9d4+8*   |       x5
-|    680,000 | Prince of Thieves        |    14 | 9d4+10*  |       x5
-
-*Hit point modifiers from constitution are ignored
-
-
-#### Thief Attack and Saving Throws
-
-| Level  | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells | Attack Throw
-| :----- | ------------------------: | -------------: | -------------: | -------------: | -----: | -----------:
-| 1-2    |                       13+ |            13+ |            16+ |            14+ |    15+ |          10+
-| 3-4    |                       12+ |            12+ |            15+ |            13+ |    14+ |           9+
-| 5-6    |                       11+ |            11+ |            14+ |            12+ |    13+ |           8+
-| 7-8    |                       10+ |            10+ |            13+ |            11+ |    12+ |           7+
-| 9-10   |                        9+ |             9+ |            12+ |            10+ |    11+ |           6+
-| 11-12  |                        8+ |             8+ |            11+ |             9+ |    10+ |           5+
-| 13-14+ |                        7+ |             7+ |            10+ |             8+ |     9+ |           4+
-
-
-#### Thief Skills
-
-| Level | Open Locks | Find and Remove Traps | Pick Pockets* | Move Silently | Climb Walls | Hide in Shadows | Hear Noise
-| :---- | ---------: | --------------------: | ------------: | ------------: | ----------: | --------------: | ---------:
-|     1 |        18+ |                   18+ |           17+ |           17+ |          6+ |             19+ |        14+
-|     2 |        17+ |                   17+ |           16+ |           16+ |          5+ |             18+ |        13+
-|     3 |        16+ |                   16+ |           15+ |           15+ |          5+ |             17+ |        12+
-|     4 |        15+ |                   15+ |           14+ |           14+ |          4+ |             16+ |        11+
-|     5 |        14+ |                   14+ |           13+ |           13+ |          4+ |             15+ |        10+
-|     6 |        12+ |                   13+ |           12+ |           12+ |          4+ |             14+ |         9+
-|     7 |        10+ |                   11+ |           10+ |           10+ |          3+ |             12+ |         8+
-|     8 |         8+ |                    9+ |            8+ |            8+ |          3+ |             10+ |         7+
-|     9 |         6+ |                    7+ |            6+ |            6+ |          3+ |              8+ |         6+
-|    10 |         4+ |                    5+ |            4+ |            4+ |          3+ |              6+ |         5+
-|    11 |         3+ |                    3+ |            2+ |            2+ |          2+ |              4+ |         4+
-|    12 |         2+ |                    2+ |           -1+ |            2+ |          2+ |              3+ |         3+
-|    13 |         1+ |                    2+ |           -3+ |            1+ |          1+ |              2+ |         2+
-|    14 |         1+ |                    1+ |           -5+ |            1+ |          1+ |              1+ |         1+
-
-*-1 penalty on the proficiency throw per each level the thief is lower than the victim.
-
-
-## Campaign Classes
-
-
-### Bard
-
-| Prime Requisite: | DEX and CHA
-| :--------------- | :----------
-| Requirements:    | None
-| Hit Dice:        | 1d6
-| Maximum Level:   | 14
-
-Successful adventurers live forever in the sagas and songs about their deeds. Remembering and recounting these sagas is the profession of bards. Most bards are content to recite the deeds of others, but some bold few participate in the dangers themselves and become inspiring heroes in their own right. A bard might be an adventuring minstrel with a sword in his hand and a song at his lips, a warrior-skald, or haughty aristocrat.
-
-Bards advance in attack throws and saving throws as a thief, by two points every four levels of experience. At first level, bards hit an unarmored foe (AC 0) with an attack throw of 10+. They may fight with any missile weapons and any one-handed melee weapons, and may wield a weapon in each hand if desired. They cannot wear armor heavier than leather, and cannot use shields.
-
-All bards can sing, recite poetry, or play a group of instruments in a skilled manner. The bard chooses the type of performance that his character knows. A bard may take the Perform proficiency to learn other types of performances (see [Chapter 4, Proficiencies](Chapter04.md#chapter-4-proficiencies)).
-
-By reciting heroic lays and epic poems, bards can inspire courage. Inspiring courage requires  a few moments of oration before a battle (one round), and grants the bard's allies within a 50' radius a +1 bonus to attack throws, damage rolls, morale rolls (for monsters or NPCs allied with the caster), and saving throws against magical fear. The bonus lasts for 10 minutes (1 turn). A bard can inspire courage in any given character once per day per class level. (Even the most inspiring epic gets old if you hear it twice in the same day.) A bard cannot inspire courage on characters who are already engaged in combat.
-
-Because of their study of ancient annals and legends, bards possess loremastery. This knowledge allows them to decipher occult runes, remember ancient history, identify historic artifacts, and similar tasks. At 1st level, a bard must make a proficiency throw of 18+ on 1d20 to succeed in these tasks. The proficiency throw required reduces by 1 per level.
-
-This same knowledge allows bards to dabble in the arcane. They may attempt to use wands, staffs, and other magic Items only useable by mages. At 1st level, the character must make a proficiency throw of 18+ on 1d20 or the attempt backfires in some desultory way (Judge's discretion). The proficiency throw required reduces by 2 per level, to a minimum of 3+.
-
-Upon attaining 4th level (Annalist), the bard gains the ability to read languages, including ciphers, treasure maps, and dead languages, but not magical writings. A proficiency throw of 5+ on 1d20 is required. If the roll does not succeed, the bard may not try to read that particular piece of writing until he reaches a higher level of experience.
-
-When a bard reaches 5th level (Chronicler), his chronicles of battle inspire his hirelings to strive for glory. Any henchmen and mercenaries hired by the bard gain a +1 bonus to their morale score if the bard is there to witness and record their deeds. This bonus stacks with any modifiers from the bard's Charisma or proficiencies.
-
-Upon reaching 9th level (Bard), a bard can build a hall and become a ruler. When he does so, up 1d4+1 x10 0th level mercenaries and 1d6 bards of 1st-3rd level will come to apply for jobs and training. If hired, they must be paid standard rates for mercenaries. Additional rules for halls are detailed in the [Campaigns](Chapter07.md#chapter-7-campaigns) chapter.
-
-At 10th level, the bard can read and cast magic from arcane scrolls with a proficiency throw of 3+ on 1d20. However, a failed throw means the spell does not function as expected, and can create a horrible effect at the Judge's discretion.
-
-
-| Template:           | Wandering Minstrel
-| :------------------ | :-----------------
-| Proficiencies:      | Magical Music, Diplomacy
-| Starting Equipment: | Crossbow, quiver with 20 bolts, short sword, dagger, well-maintained leather armor, traveler's tunic and sturdy boots, backpack, musical instrument, 2 week's iron rations
-
-This pre-generated template represents a wandering minstrel with magic in his song. The template is ready for adventure. However, if your bard's INT is 13 or greater, you may pick one or more additional general proficiencies before play if you'd like (see [Starting Proficiencies](Chapter04.md#starting-proficiencies) in Chapter 4).
-
-
-#### Bard Level Progression
-
-| Experience | Title            | Level | Hit Dice | Arcane Dabbling | Loremastery
-| ---------: | :--------------- | ----: | :------- | --------------: | ----------:
-|          0 | Reciter          |     1 | 1d6      |             18+ |         18+
-|      1,400 | Versifier        |     2 | 2d6      |             16+ |         17+
-|      2,800 | Archivist        |     3 | 3d6      |             14+ |         16+
-|      5,600 | Annalist         |     4 | 4d6      |             12+ |         15+
-|     11,200 | Chronicler       |     5 | 5d6      |             10+ |         14+
-|     22,400 | Panegyrist       |     6 | 6d6      |              8+ |         13+
-|     45,000 | Skald            |     7 | 7d6      |              6+ |         12+
-|     90,000 | Rhapsodist       |     8 | 8d6      |              4+ |         11+
-|    190,000 | Bard             |     9 | 9d6      |              3+ |         10+
-|    290,000 | Bard, 10th level |    10 | 9d6+2*   |              3+ |          9+
-|    390,000 | Bard, 11th level |    11 | 9d6+4*   |              3+ |          8+
-|    490,000 | Bard, 12th level |    12 | 9d6+6*   |              3+ |          7+
-|    590,000 | Bard, 13th level |    13 | 9d6+8*   |              3+ |          6+
-|    690,000 | Master Bard      |    14 | 9d6+10*  |              3+ |          5+
-
-*Hit point modifiers from constitution are ignored
-
-
-#### Bard (Thief) Attack and Saving Throws
-
-| Level  | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells | Attack Throw
-| :----- | ------------------------: | -------------: | -------------: | -------------: | -----: | -----------:
-| 1-2    |                       13+ |            13+ |            16+ |            14+ |    15+ |          10+
-| 3-4    |                       12+ |            12+ |            15+ |            13+ |    14+ |           9+
-| 5-6    |                       11+ |            11+ |            14+ |            12+ |    13+ |           8+
-| 7-8    |                       10+ |            10+ |            13+ |            11+ |    12+ |           7+
-| 9-10   |                        9+ |             9+ |            12+ |            10+ |    11+ |           6+
-| 11-12  |                        8+ |             8+ |            11+ |             9+ |    10+ |           5+
-| 13-14+ |                        7+ |             7+ |            10+ |             8+ |     9+ |           4+
-
-
-#### Bard Skills
-
-| Level | Arcane Dabbling | Loremastery
-| ----: | --------------: | ----------:
-|     1 |             18+ |         18+
-|     2 |             16+ |         17+
-|     3 |             14+ |         16+
-|     4 |             12+ |         15+
-|     5 |             10+ |         14+
-|     6 |              8+ |         13+
-|     7 |              6+ |         12+
-|     8 |              4+ |         11+
-|     9 |              3+ |         10+
-|    10 |              3+ |          9+
-|    11 |              3+ |          8+
-|    12 |              3+ |          7+
-|    13 |              3+ |          6+
-|    14 |              3+ |          5+
-    
 
 ### Explorer
 
@@ -605,6 +398,202 @@ Freebooter Proficiency List: Acrobatics, Alertness, Arcane Dabbling, Blind Fight
 *-1 penalty on the proficiency throw per each level the thief is lower than the victim.
 
 
+### Bard
+
+| Prime Requisite: | DEX and CHA
+| :--------------- | :----------
+| Requirements:    | None
+| Hit Dice:        | 1d6
+| Maximum Level:   | 14
+
+Successful adventurers live forever in the sagas and songs about their deeds. Remembering and recounting these sagas is the profession of bards. Most bards are content to recite the deeds of others, but some bold few participate in the dangers themselves and become inspiring heroes in their own right. A bard might be an adventuring minstrel with a sword in his hand and a song at his lips, a warrior-skald, or haughty aristocrat.
+
+Bards advance in attack throws and saving throws as a thief, by two points every four levels of experience. At first level, bards hit an unarmored foe (AC 0) with an attack throw of 10+. They may fight with any missile weapons and any one-handed melee weapons, and may wield a weapon in each hand if desired. They cannot wear armor heavier than leather, and cannot use shields.
+
+All bards can sing, recite poetry, or play a group of instruments in a skilled manner. The bard chooses the type of performance that his character knows. A bard may take the Perform proficiency to learn other types of performances (see [Chapter 4, Proficiencies](Chapter04.md#chapter-4-proficiencies)).
+
+By reciting heroic lays and epic poems, bards can inspire courage. Inspiring courage requires  a few moments of oration before a battle (one round), and grants the bard's allies within a 50' radius a +1 bonus to attack throws, damage rolls, morale rolls (for monsters or NPCs allied with the caster), and saving throws against magical fear. The bonus lasts for 10 minutes (1 turn). A bard can inspire courage in any given character once per day per class level. (Even the most inspiring epic gets old if you hear it twice in the same day.) A bard cannot inspire courage on characters who are already engaged in combat.
+
+Because of their study of ancient annals and legends, bards possess loremastery. This knowledge allows them to decipher occult runes, remember ancient history, identify historic artifacts, and similar tasks. At 1st level, a bard must make a proficiency throw of 18+ on 1d20 to succeed in these tasks. The proficiency throw required reduces by 1 per level.
+
+This same knowledge allows bards to dabble in the arcane. They may attempt to use wands, staffs, and other magic Items only useable by mages. At 1st level, the character must make a proficiency throw of 18+ on 1d20 or the attempt backfires in some desultory way (Judge's discretion). The proficiency throw required reduces by 2 per level, to a minimum of 3+.
+
+Upon attaining 4th level (Annalist), the bard gains the ability to read languages, including ciphers, treasure maps, and dead languages, but not magical writings. A proficiency throw of 5+ on 1d20 is required. If the roll does not succeed, the bard may not try to read that particular piece of writing until he reaches a higher level of experience.
+
+When a bard reaches 5th level (Chronicler), his chronicles of battle inspire his hirelings to strive for glory. Any henchmen and mercenaries hired by the bard gain a +1 bonus to their morale score if the bard is there to witness and record their deeds. This bonus stacks with any modifiers from the bard's Charisma or proficiencies.
+
+Upon reaching 9th level (Bard), a bard can build a hall and become a ruler. When he does so, up 1d4+1 x10 0th level mercenaries and 1d6 bards of 1st-3rd level will come to apply for jobs and training. If hired, they must be paid standard rates for mercenaries. Additional rules for halls are detailed in the [Campaigns](Chapter07.md#chapter-7-campaigns) chapter.
+
+At 10th level, the bard can read and cast magic from arcane scrolls with a proficiency throw of 3+ on 1d20. However, a failed throw means the spell does not function as expected, and can create a horrible effect at the Judge's discretion.
+
+
+| Template:           | Wandering Minstrel
+| :------------------ | :-----------------
+| Proficiencies:      | Magical Music, Diplomacy
+| Starting Equipment: | Crossbow, quiver with 20 bolts, short sword, dagger, well-maintained leather armor, traveler's tunic and sturdy boots, backpack, musical instrument, 2 week's iron rations
+
+This pre-generated template represents a wandering minstrel with magic in his song. The template is ready for adventure. However, if your bard's INT is 13 or greater, you may pick one or more additional general proficiencies before play if you'd like (see [Starting Proficiencies](Chapter04.md#starting-proficiencies) in Chapter 4).
+
+
+#### Bard Level Progression
+
+| Experience | Title            | Level | Hit Dice | Arcane Dabbling | Loremastery
+| ---------: | :--------------- | ----: | :------- | --------------: | ----------:
+|          0 | Reciter          |     1 | 1d6      |             18+ |         18+
+|      1,400 | Versifier        |     2 | 2d6      |             16+ |         17+
+|      2,800 | Archivist        |     3 | 3d6      |             14+ |         16+
+|      5,600 | Annalist         |     4 | 4d6      |             12+ |         15+
+|     11,200 | Chronicler       |     5 | 5d6      |             10+ |         14+
+|     22,400 | Panegyrist       |     6 | 6d6      |              8+ |         13+
+|     45,000 | Skald            |     7 | 7d6      |              6+ |         12+
+|     90,000 | Rhapsodist       |     8 | 8d6      |              4+ |         11+
+|    190,000 | Bard             |     9 | 9d6      |              3+ |         10+
+|    290,000 | Bard, 10th level |    10 | 9d6+2*   |              3+ |          9+
+|    390,000 | Bard, 11th level |    11 | 9d6+4*   |              3+ |          8+
+|    490,000 | Bard, 12th level |    12 | 9d6+6*   |              3+ |          7+
+|    590,000 | Bard, 13th level |    13 | 9d6+8*   |              3+ |          6+
+|    690,000 | Master Bard      |    14 | 9d6+10*  |              3+ |          5+
+
+*Hit point modifiers from constitution are ignored
+
+
+#### Bard (Thief) Attack and Saving Throws
+
+| Level  | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells | Attack Throw
+| :----- | ------------------------: | -------------: | -------------: | -------------: | -----: | -----------:
+| 1-2    |                       13+ |            13+ |            16+ |            14+ |    15+ |          10+
+| 3-4    |                       12+ |            12+ |            15+ |            13+ |    14+ |           9+
+| 5-6    |                       11+ |            11+ |            14+ |            12+ |    13+ |           8+
+| 7-8    |                       10+ |            10+ |            13+ |            11+ |    12+ |           7+
+| 9-10   |                        9+ |             9+ |            12+ |            10+ |    11+ |           6+
+| 11-12  |                        8+ |             8+ |            11+ |             9+ |    10+ |           5+
+| 13-14+ |                        7+ |             7+ |            10+ |             8+ |     9+ |           4+
+
+
+#### Bard Skills
+
+| Level | Arcane Dabbling | Loremastery
+| ----: | --------------: | ----------:
+|     1 |             18+ |         18+
+|     2 |             16+ |         17+
+|     3 |             14+ |         16+
+|     4 |             12+ |         15+
+|     5 |             10+ |         14+
+|     6 |              8+ |         13+
+|     7 |              6+ |         12+
+|     8 |              4+ |         11+
+|     9 |              3+ |         10+
+|    10 |              3+ |          9+
+|    11 |              3+ |          8+
+|    12 |              3+ |          7+
+|    13 |              3+ |          6+
+|    14 |              3+ |          5+
+    
+
+### Thief
+
+| Prime Requisite: | DEX
+| :--------------- | :---
+| Requirements:    | None
+| Hit Dice:        | 1d4
+| Maximum Level:   | 14
+
+Thieves have a range of unique skills associated with their profession that make them very handy companions in adventures. However, thieves can be a bit shady and they sometimes are not as trustworthy as other classes. A thief will usually belong to a Thieves' Guild from the character's local town, where he can seek shelter and information between adventures. At the Judge's discretion, a thief may have to forfeit a portion of his earnings to the guild in exchange for protection. Thieves are everywhere, from the slums to the highest halls of the government.
+
+Thieves are trained combatants, although not as skilled as fighters. At first level, thieves hit an unarmored foe (AC 0) with an attack throw of 10+. They advance in attack throws and saving throws by two points every four levels of experience. Because of their need for stealth and free movement, thieves cannot wear armor heavier than leather, and cannot use shields or exclusively two-handed melee weapons such as great axes or polearms. They may use any missile weapons and any one-handed melee weapons. They may fight with a one-handed weapon in each hand, or wielding a one-handed weapon with two hands.
+
+A thief also has the ability to backstab. He must catch an opponent unaware of his presence, either by surprise or by moving silently and/or hiding in shadows to sneak up on his opponent. When backstabbing, the thief will receive an attack bonus of +4 and, if successful, deal additional damage for every four levels he has attained. A thief at 1st through 4th levels does double the normal damage, at 5th-8th levels does triple the normal damage, at 9th-12th levels does quadruple the normal damage, and at 13th level or higher does quintuple the normal damage.
+
+Thieves have the following range of skills, which improve as the thief gains levels according to the progression on the [Thief Skills](Chapter02.md#thief-skills) table. When a thief attempts to make use of one of his skills, the character or Judge will make a proficiency throw of 1d20. (Usually the Judge will make rolls for these abilities, because a thief is not always aware when he has failed.) After applying any relevant modifiers (e.g. due to the complexity of a lock), the result is compared to the target value listed on the [Thief Skills](Chapter02.md#thief-skills) table below for the appropriate skill. A result that is greater than or equal to the value listed for the proficiency throw that corresponds to the thief's level is a success. A roll of 20 is always a success, and a roll of 1 is always a failure.
+
+**Opening Locks**: With the aid of thieves' tools, a thief may pick mechanical locks. He may only try to pick a particular lock once, and if he fails, he may not try the same lock again until he reaches a higher experience level. The Judge may apply bonuses or penalties to the roll, depending on the complexity of the lock.
+
+**Finding and Removing Traps**: Through careful inspection and probing, a thief may find hidden traps and then attempt to disable or discharge the trap harmlessly. A thief may only try to find or remove a trap once in any given area. The Judge may apply bonuses or penalties to the roll, depending on the complexity of the trap. If the thief fails, he may not try again until he reaches a higher experience level. Note that these are separate skills, for a thief must find a trap before he can remove it.
+
+**Picking Pockets**: This skill is the bread and butter of non-adventuring thieves for it is a quick source of income - though not without peril. A throw that is less than half the target value means that the intended target notices the thieving attempt. The Judge will then make a reaction roll with a -3 penalty to determine the intended victim's reaction.
+
+**Moving Silently**: Thieves may move with total silence. When successful, even keen eared guards will not hear the movements of a thief. However, the thief always thinks he is successful in this skill, and will not know otherwise unless and until others react to his presence. Thieves may move silently at  1/2  their standard combat movement rate without penalty. If they move greater than  1/2  speed, they take a -5 penalty to the proficiency throw. If they run, they take a -10 penalty.
+
+**Climbing Walls**: Thieves are adept at scaling sheer surfaces, including walls or steep cliffs. They require a proficiency throw for each 100' they intend to climb. If the roll fails, they fall a distance equal to half the attempted distance, plus the distance covered by any previous throws, taking 1d6 points of damage per 10 feet. Thieves climb at  1/4  their standard combat movement rate.
+
+**Hiding in Shadows**: A thief may attempt to skulk unseen in the cover of darkness. A thief will always think he is successful in this skill, and will not know otherwise until others react to his presence. A thief will remain hidden so long as he stays motionless. If he moves, he must make a new proficiency throw to hide.
+
+**Hearing Noises**: Thieves can attempt to listen for noises in a cave or hallway and at a door or other locations. The thief must be quiet and in a quiet environment.
+
+Upon attaining 4th level, a thief gains the ability to read languages (including ciphers, treasure maps, and dead languages, but not magical writings) with a proficiency throw of 5+ on 1d20. If the roll does not succeed, the thief may not try to read that particular piece of writing until he reaches a higher level of experience.
+
+When a thief attains 9th level (Master Thief), he can establish a hideout, and 2d6 thief apprentices of 1st level will come to work with the character. If hired, they must be paid standard rates for ruffians. A successful character might use these followers to start a Thieves' Guild. Additional rules for hideouts are detailed in the [Campaigns](Chapter07.md#chapter-7-campaigns) chapter.
+
+At 10th level, a thief can read and cast magic from arcane scrolls with a proficiency throw of 3+ on 1d20. However, a failed throw means the spell does not function as expected, and can create a horrible effect at the Judge's discretion.
+
+
+| Template:           | Tomb Raider
+| :------------------ | :----------
+| Proficiencies:      | Trap Finding, Mapping
+| Starting Equipment: | 10' pole, short sword, 2 throwing daggers,  crossbow, case with 20 quarrels, sturdy leather armor, tanned brown cloak, thick tunic and leggings, high boots, backpack, 2 large treasure sacks, thieves' tools, 50' rope, tinderbox, lantern, hammer and 12 iron spikes, 2 flasks of military oil, wineskin, 2 week's iron rations, 20sp
+
+This pre-generated template represents a bold tomb raider. The template is ready for adventure. However, if your thief's INT is 13 or greater, you may pick one or more additional general proficiencies before play if you'd like (see [Starting Proficiencies](Chapter04.md#starting-proficiencies) in Chapter 4).
+
+
+#### Thief Level Progression
+
+| Experience | Title                    | Level | Hit Dice | Backstab
+| ---------: | :----------------------- | ----: | :------- | -------:
+|          0 | Footpad                  |     1 | 1d4      |       x2
+|      1,250 | Hood                     |     2 | 2d4      |       x2
+|      2,500 | Robber                   |     3 | 3d4      |       x2
+|      5,000 | Burglar                  |     4 | 4d4      |       x2
+|     10,000 | Rogue                    |     5 | 5d4      |       x3
+|     20,000 | Scoundrel                |     6 | 6d4      |       x3
+|     40,000 | Pilferer                 |     7 | 7d4      |       x3
+|     80,000 | Thief                    |     8 | 8d4      |       x3
+|    180,000 | Master Thief             |     9 | 9d4      |       x4
+|    280,000 | Master Thief, 10th level |    10 | 9d4+2*   |       x4
+|    380,000 | Master Thief, 11th level |    11 | 9d4+4*   |       x4
+|    480,000 | Master Thief, 12th level |    12 | 9d4+6*   |       x4
+|    580,000 | Master Thief, 13th level |    13 | 9d4+8*   |       x5
+|    680,000 | Prince of Thieves        |    14 | 9d4+10*  |       x5
+
+*Hit point modifiers from constitution are ignored
+
+
+#### Thief Attack and Saving Throws
+
+| Level  | Petrification & Paralysis | Poison & Death | Blast & Breath | Staffs & Wands | Spells | Attack Throw
+| :----- | ------------------------: | -------------: | -------------: | -------------: | -----: | -----------:
+| 1-2    |                       13+ |            13+ |            16+ |            14+ |    15+ |          10+
+| 3-4    |                       12+ |            12+ |            15+ |            13+ |    14+ |           9+
+| 5-6    |                       11+ |            11+ |            14+ |            12+ |    13+ |           8+
+| 7-8    |                       10+ |            10+ |            13+ |            11+ |    12+ |           7+
+| 9-10   |                        9+ |             9+ |            12+ |            10+ |    11+ |           6+
+| 11-12  |                        8+ |             8+ |            11+ |             9+ |    10+ |           5+
+| 13-14+ |                        7+ |             7+ |            10+ |             8+ |     9+ |           4+
+
+
+#### Thief Skills
+
+| Level | Open Locks | Find and Remove Traps | Pick Pockets* | Move Silently | Climb Walls | Hide in Shadows | Hear Noise
+| :---- | ---------: | --------------------: | ------------: | ------------: | ----------: | --------------: | ---------:
+|     1 |        18+ |                   18+ |           17+ |           17+ |          6+ |             19+ |        14+
+|     2 |        17+ |                   17+ |           16+ |           16+ |          5+ |             18+ |        13+
+|     3 |        16+ |                   16+ |           15+ |           15+ |          5+ |             17+ |        12+
+|     4 |        15+ |                   15+ |           14+ |           14+ |          4+ |             16+ |        11+
+|     5 |        14+ |                   14+ |           13+ |           13+ |          4+ |             15+ |        10+
+|     6 |        12+ |                   13+ |           12+ |           12+ |          4+ |             14+ |         9+
+|     7 |        10+ |                   11+ |           10+ |           10+ |          3+ |             12+ |         8+
+|     8 |         8+ |                    9+ |            8+ |            8+ |          3+ |             10+ |         7+
+|     9 |         6+ |                    7+ |            6+ |            6+ |          3+ |              8+ |         6+
+|    10 |         4+ |                    5+ |            4+ |            4+ |          3+ |              6+ |         5+
+|    11 |         3+ |                    3+ |            2+ |            2+ |          2+ |              4+ |         4+
+|    12 |         2+ |                    2+ |           -1+ |            2+ |          2+ |              3+ |         3+
+|    13 |         1+ |                    2+ |           -3+ |            1+ |          1+ |              2+ |         2+
+|    14 |         1+ |                    1+ |           -5+ |            1+ |          1+ |              1+ |         1+
+
+*-1 penalty on the proficiency throw per each level the thief is lower than the victim.
+
+
+
+
 ### Runemaker
 
 *“There are cure runes, and aid runes, and ale runes, and peerless power runes, for all to use unspoiled and unprofaned, to bring about good fortune. Enjoy them if you have learned them, until the gods perish.”* – Brynhild, in The Saga of the Volsungs (Chapter 21)
@@ -805,7 +794,7 @@ Upon attaining 9th level (Witch), a witch of any tradition may establish a **cov
 
 | Prime Requisite: | INT and WIS
 | :--------------- | :---
-| Requirements:    | None
+| Requirements:    | INT 14
 | Hit Dice:        | 1d4
 | Maximum Level:   | 14
 
