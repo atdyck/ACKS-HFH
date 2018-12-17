@@ -8,7 +8,7 @@
 
 ## The Basics of Proficiencies
 
-\\ Proficiencies represent particular areas of expertise that your character has developed due to his background, homeland, and training. Each class has a class list of proficiencies, representing training that is particularly useful to the particular profession. In addition, there is a general list of proficiencies, which represent trade skills and knowledge that is widely available to all. Characters will learn proficiencies from both lists over time.
+Proficiencies represent particular areas of expertise that your character has developed due to his background, homeland, and training. Each class has a class list of proficiencies, representing training that is particularly useful to the particular profession. In addition, there is a general list of proficiencies, which represent trade skills and knowledge that is widely available to all. Characters will learn proficiencies from both lists over time.
 
 
 ## Starting Proficiencies
@@ -33,47 +33,35 @@ The Judge may impose limitations on the selection of certain proficiencies depen
 
 | Class               | 1    | 2    | 3    | 4    | 5    | 6    | 7    | 8    | 9    | 10   | 11   | 12   | 13   | 14
 | :------------------ | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- 
-| Assassin            | C+G  | -    | C    | -    | G    | C    | -    | -    | C+G  | -    | -    | C    | G    | -
 | Bard                | C+G  | -    | -    | C    | G    | -    | -    | C    | G    | -    | -    | C    | G    | -
-| Blade Dancer        | C+G  | -    | -    | C    | G    | -    | -    | C    | G    | -    | -    | C    | G    | -
-| Cleric              | C+G  | -    | -    | C    | G    | -    | -    | C    | G    | -    | -    | C    | G    | -
-| Dwarven Craftpriest | C+G  | -    | -    | C    | G    | -    | -    | C    | G    | -    | *    | *    | *    | *
-| Dwarven Vaultguard  | C+G  | -    | C    | -    | G    | C    | -    | -    | C+G  | -    | -    | C    | G    | *
-| Elven Nightblade    | C+G  | -    | -    | C    | G    | -    | -    | C    | G    | -    | -    | *    | *    | *
-| Elven Spellsword    | C+G  | -    | C    | -    | G    | C    | -    | -    | C+G  | -    | *    | *    | *    | *
 | Explorer            | C+G  | -    | C    | -    | G    | C    | -    | -    | C+G  | -    | -    | C    | G    | -
 | Fighter             | C+G  | -    | C    | -    | G    | C    | -    | -    | C+G  | -    | -    | C    | G    | -
-| Mage                | C+G  | -    | -    | -    | G    | C    | -    | -    | G    | -    | -    | C    | G    | -
+| Freebooter          |	C+G  | -    |	-    | C    |	G    | -	  |	-    | C    | G    | -    | -    | C    |	G    | -
+| Loremaster          |	C+G  | -    |	-    | C	  |	G    | -	  |	-    | C    | G    | -    | -    | C    |	G    | -
+| Runemaker           |	C+G  | -    |	-    | C	  |	G    | -	  |	-    | C    | G    | -    | -    | C    |	G    | -
 | Thief               | C+G  | -    | -    | C    | G    | -    | -    | C    | G    | -    | -    | C    | G    | -
+| Witch               | C+G  | -    | -    | C    | G    | -    | -    | C    | G    | -    | -    | C    | G    | -
 
 
 ## Proficiency Lists
 
 **General Proficiency List**: Adventuring, Alchemy, Animal Husbandry, Animal Training, Art, Bargaining, Caving, Collegiate Wizardry, Craft, Diplomacy, Disguise, Endurance, Engineering, Gambling, Healing, Intimidation, Knowledge, Labor, Language, Leadership, Lip Reading, Manual of Arms, Mapping, Military Strategy, Mimicry, Naturalism, Navigation, Performance, Profession, Riding, Seafaring, Seduction, Siege Engineering, Signaling, Survival, Theology, Tracking, Trapping
 
-**Assassin Proficiency List**: Acrobatics, Alchemy, Alertness, Arcane Dabbling, Blind Fighting, Bribery, Cat Burglary, Climbing, Combat Reflexes, Combat Trickery (disarm, incapacitate), Contortionism, Disguise, Eavesdropping, Fighting Style, Gambling, Intimidation, Mimicry, Precise Shooting, Running, Seduction, Skirmishing, Skulking, Sniping, Swashbuckling, Trap Finding, Weapon Finesse, Weapon Focus
-
 **Bard Proficiency List**: Acrobatics, Art, Bargaining, Beast Friendship, Combat Trickery (disarm), Command, Diplomacy, Eavesdropping, Elven Bloodline, Fighting Style, Healing, Knowledge, Language, Leadership, Lip Reading, Magical Engineering, Magical Music, Mimicry, Mystic Aura, Performance, Precise Shooting, Prestidigitation, Running, Seduction, Skirmishing, Swashbuckling, Weapon Finesse, Weapon Focus
-
-**Bladedancer Proficiency List**: Acrobatics, Apostasy, Battle Magic, Beast Friendship, Combat Reflexes, Combat Trickery (knock down), Contemplation, Diplomacy, Divine Blessing, Divine Health, Fighting Style, Laying on Hands, Magical Music, Martial Training, Performance, Prestidigitation, Prophecy, Quiet Magic, Righteous Turning, Running, Seduction, Skirmishing, Swashbuckling, Theology, Unflappable Casting, Weapon Finesse, Weapon Focus
-
-**Cleric Proficiency List**: Apostasy, Battle Magic, Beast Friendship, Combat Trickery (force back, overrun, sunder), Command, Contemplation, Diplomacy, Divine Blessing, Divine Health, Fighting Style, Healing, Knowledge (history), Laying on Hands, Leadership, Loremastery, Magical Engineering, Martial Training, Prestidigitation, Profession (judge), Prophecy, Quiet Magic, Righteous Turning, Sensing Evil, Sensing Power, Theology, Unflappable Casting, Weapon Focus
-
-**Dwarven Craftpriest Proficiency List**: Alchemy, Art, Battle Magic, Caving, Collegiate Wizardry, Contemplation, Craft, Diplomacy, Divine Blessing, Divine Health, Dwarven Brewing, Endurance, Engineering, Fighting Style, Goblin-Slaying, Healing, Illusion Resistance, Knowledge, Laying on Hands, Loremastery, Magical Engineering, Mapping, Performance (chanting), Prestidigitation, Profession (judge), Prophecy, Quiet Magic, Righteous Turning, Sensing Evil, Siege Engineering, Theology, Unflappable Casting, Weapon Focus
-
-**Dwarven Vaultguard Proficiency List**: Alertness, Berserkergang, Blind Fighting, Caving, Combat Reflexes, Combat Trickery (force back, knock down, overrun, sunder, wrestle), Command, Craft, Dungeon Bashing, Dwarven Brewing, Endurance, Engineering, Fighting Style, Gambling, Goblin-Slaying, Illusion Resistance, Intimidation, Land Surveying, Leadership, Mapping, Manual of Arms, Military Strategy, Mountaineering, Siege Engineering, Weapon Focus
-
-**Elven Nightblade Proficiency List**: Alchemy, Alertness, Battle Magic, Beast Friendship, Black Lore, Blind Fighting, Combat Reflexes, Combat Trickery (disarm, incapacitate), Contortionism, Elementalism, Familiar, Fighting Style, Intimidation, Magical Engineering, Mystic Aura, Passing Without Trace, Precise Shooting, Prestidigitation, Quiet Magic, Running, Sensing Power, Skirmishing, Skulking, Sniping, Swashbuckling, Unflappable Casting, Trap Finding, Wakefulness, Weapon Focus, Weapon Finesse
-
-**Elven Spellsword Proficiency List**: Acrobatics, Alertness, Battle Magic, Beast Friendship, Black Lore, Blind Fighting, Combat Reflexes, Combat Trickery (disarm, knock down), Command, Elementalism, Familiar, Fighting Style, Leadership, Loremastery, Magical Engineering, Magical Music, Mystic Aura, Naturalism, Passing Without Trace, Quiet Magic, Precise Shooting, Prestidigitation, Running, Sensing Power, Skirmishing, Soothsaying, Swashbuckler, Unflappable Casting, Wakefulness, Weapon Focus, Weapon Finesse
 
 **Explorer Proficiency List**: Alertness, Ambushing, Beast Friendship, Blind Fighting, Climbing, Combat Reflexes, Combat Trickery (disarm, knock down), Eavesdropping, Endurance, Fighting Style, Land Surveying, Mapping, Mountaineering, Naturalism, Navigation, Passing Without Trace, Precise Shooting, Riding, Running, Seafaring, Skirmishing, Sniping, Survival, Swashbuckling, Trapping, Weapon Finesse, Weapon Focus
 
 **Fighter Proficiency List**: Acrobatics, Alertness, Berserkergang, Blind Fighting, Combat Reflexes, Combat Trickery (disarm, force back, knock down, overrun, sunder), Command, Dungeon Bashing, Endurance, Fighting Style, Gambling, Intimidation, Leadership, Manual of Arms, Military Strategy, Precise Shooting, Riding, Running, Siege Engineering, Skirmishing, Survival, Swashbuckling, Weapon Finesse, Weapon Focus
 
-**Mage Proficiency List**: Alchemy, Battle Magic, Beast Friendship, Black Lore, Collegiate Wizardry, Craft, Diplomacy, Elementalism, Elven Bloodline, Engineering, Familiar, Healing, Illusion Resistance, Knowledge, Language, Loremastery, Magical Engineering, Mapping, Mystic Aura, Naturalism, Quiet Magic, Performance, Prestidigitation, Profession, Sensing Power, Transmogrification, Soothsaying, Unflappable Casting
+**Freebooter Proficiency List**: Acrobatics, Alertness, Arcane Dabbling, Blind Fighting, Bribery, Cat Burglary, Ceremonial Magic, Combat Reflexes, Combat Trickery (disarm, incapacitate), Contortionism, Fighting Style, Lip Reading, Lockpicking, Loremastery, Magical Music, Martial Training, Mountaineering, Passing Without Trace, Precise Shooting, Running, Skirmishing, Skulking, Sniping, Swashbuckling, Trap Finding, Weapon Finesse, Weapon Focus
+
+**Loremaster Proficiency List**: Alchemy, Battle Magic, Beast Friendship, Black Lore of Zahar, Bright Lore of Aura, Ceremonial Magic, Collegiate Wizardry, Contemplation, Craft, Diplomacy, Elementalism, Elven Bloodline, Engineering, Familiar, Farseeing, Healing, Knowledge, Magical Engineering, Mystic Aura, Naturalism, Personal Talisman, Prestidigitation, Prophecy*, Second Sight, Sensing Power, Transmogrification, Soothsaying, Unflappable Casting
+
+**Runemaker Proficiency List**: Armor Training, Battle Magic, Beast Friendship, Ceremonial Magic, Combat Reflexes, Combat Trickery (disarm, knock down), Command, Craft, Divine Blessing, Divine Health, Endurance, Farseeing, Fighting Style, Healing, Laying on Hands, Martial Training, Personal Talisman, Prestidigitation, Prophecy, Running, Second Sight, Skirmishing, Swashbuckling, Theology, Unflappable Casting, Weapon Finesse, Weapon Focus
 
 **Thief Proficiency List**: Acrobatics, Alertness, Arcane Dabbling, Blind Fighting, Bribery, Cat Burglary, Combat Reflexes, Combat Trickery (disarm, incapacitate), Contortionism, Diplomacy, Fighting Style, Gambling, Intimidation, Lip Reading, Lockpicking, Mapping, Precise Shooting, Riding, Running, Seafaring, Skirmishing, Skulking, Sniping, Swashbuckling, Trap Finding, Weapon Finesse, Weapon Focus
+
+**Witch Proficiency List:** Alchemy, Apostasy, Arcane Dabbling, Beast Friendship, Black Lore of Zahar, Contemplation, Craft, Divine Blessing, Divine Health, Elementalism, Elven Bloodline, Familiar, Healing, Illusion Resistance, Laying on Hands, Loremastery, Magical Engineering, Magical Music, Mystic Aura, Naturalism, Prestidigitation, Prophecy, Quiet Magic, Seduction, Sensing Power, Theology, Transmogrification, Unflappable Casting
 
 
 ## Proficiency Descriptions
@@ -84,49 +72,99 @@ For ease of reference, proficiencies that appear on the general list are marked 
 
 **Adventuring (G)**: The character is well-equipped for a life of adventure. He knows how to clean and sharpen weapons, saddle and ride a horse, set up a camp, and search for a secret door. He has a rough idea of the value of common coins, trade goods, gems, and jewelry. All player characters are assumed to have Adventuring for purposes of the proficiency throws of standard adventuring tasks.
 
-**Alchemy (G)**: The character can identify common alchemical substances, potions, and poisons with a proficiency throw of 11+. If the character takes this proficiency twice, he can work as an apothecary or alchemical assistant. If the character takes this proficiency three times, he is an alchemist himself, as described under [Hiring Specialists](Chapter03.md#specialists).
+**Alchemy (G)**: The character can identify common alchemical substances, potions, and poisons with a proficiency throw of 11+. If the character takes this proficiency twice, he can work as an apothecary or alchemical assistant. If the character takes this proficiency three times, he is an alchemist himself, and may brew potions as if he were a 5th level mage, but at twice the base time and cost. A character already capable of brewing potions because of his class level may add his Alchemy ranks to his Magic Research throws when brewing potions, and if he has selected the proficiency three times, he can brew potions at half the usual base time and cost.
 
 **Alertness**: The character gains a +4 bonus on any proficiency throws to hear noises and detect secret doors. With a proficiency throw of 18+ he can notice secret doors with just casual observation. He gains a +1 bonus to avoid surprise.
 
 **Ambushing**: When the character attacks with surprise, he gets a +4 bonus on his attack throws and deals double damage on the attack. This proficiency does not stack with the ability of thieves (or related classes) to backstab.
 
-**Animal Husbandry (G)**: The character has the ability to treat wounds and diagnose illnesses in animals. A proficiency throw of 11+ enables the character to identify whether a disease is magical or mundane, and if mundane, diagnose it. With clean, sanitary conditions and bed rest, an animal under treatment of the character automatically regains an extra 1d3 hit points perday. If the character selects Animal Husbandry twice, he can neutralize poison or cure disease, or cure light wounds with a proficiency throw of 18+, attempting once per day per animal. If the character selects Animal Husbandry three times, he can neutralize poison, cure disease, or cure serious wounds with a proficiency throw of 14+, once per day per animal, and can cure mortal wounds with a proficiency throw of 18+, once per day per animal. At any one time, a character can treat three animals, plus an additional one each time Animal Husbandry is selected.
+**Animal Husbandry / Healing (G):** The character is especially skilled at treating wounds and diagnosing illnesses among animals (Animal Husbandry) or among humans and demi-humans (Healing). If the character makes a proficiency throw of 11+, he can identify whether a disease is magical or mundane, and if mundane, diagnose it. A patient under treatment of a character with Animal Husbandry or Healing recovers twice his base healing rate in hp each day of rest.
+
+If the character selects Animal Husbandry or Healing twice, his proficiency throw to identify and diagnose diseases is reduced to 7+. He can attempt to **neutralize poison**, **cure diseas**e, or **cure light wounds** with a proficiency throw of 18+, once per day per patient.
+
+If the character selects Animal Husbandry or Healing three times, his proficiency throw to identify and diagnose diseases is reduced to 3+. He can attempt to **neutralize poison**, **cure disease**, or **cure serious wounds** with a proficiency throw of 14+, once per day per patient.
+
+Any character with Animal Husbandry Healing proficiency can use healing herbs (e.g. blackwort, comfrey, goldenrod, and woundwort) to heal additional damage or gain a bonus on his proficiency throws.  In any one day, a character can supervise three different patients, plus an additional one each time Animal Husbandry or Healing is selected.
+
+A character with two or more ranks of Animal Husbandry may treat humans and demi-humans as if he had the Healing proficiency at one rank less than his Animal Husbandry proficiency. A character with two or more ranks of Healing may treat animals as if he had the Animal Husbandry proficiency at one rank less than his Healing proficiency.
+
+#### Healing Proficiency Progression
+
+| Title |	Rank (# of times taken) | 	Gp Earned/Month |	Patients/Day |	Skills |
+| :---- | :---- | :------ | :--- | :------------------------- |
+| Healer |	1	| 25gp |	3	| Identify 11+
+| Physicker |	2 |	50gp |	4 |	Identify 7+, neutralize poison, cure disease, cure light wounds 18+
+| Chirugeon |	3 |	100gp |	5 |	Identify 3+, neutralize poison, cure disease, cure serious wounds 14+
 
 **Animal Training (G)**: The character knows how to breed, groom, and train a particular type of animal. The animal can be taught simple tricks or orders. A character who wants to train two or more different animal types must choose this proficiency more than once. A character with proficiency in training an animal may choose a fantastic creature of a similar type with this proficiency. For example, a bear trainer could learn to train owlbears, or a horse trainer learn to train pegasi. Regardless of the type, animals must begin their training while still young. It take a minimum of one month to tame a wild animal. It takes a minimum of one month to teach a tame animal one trick. Thereafter additional tricks can be taught at half the time per trick. An animal can be taught a maximum of 2d4 different tasks or tricks. The animal trainer will only learn the animal's limit when he reaches it.
 
-**Apostasy**: The character has learned knowledge forbidden to his order. He may select 4 divine spells not normally available to worshippers of his god and add them to his repertoire.
+**Apostasy**: If a ceremonialist, the character may select 4 eldritch ceremonies and add them to his repertoire of ceremonies known. If an eldritch spellcaster, the character may select 3 eldritch spells and add them to his repertoire of spells known. If the ceremonies or spells selected with this proficiency are above the level that the character is permitted to know, he will add them to his repertoire when he reaches the appropriate level.  
 
-**Arcane Dabbling**: The character may attempt to use wands, staffs, and other magic items only useable by mages. At level 1, the character must make a proficiency throw of 18+ or the attempt backfires. The proficiency throw required reduces by 2 per level, to a minimum of 3+. Note that bards automatically begin play with this ability as part of their class.
+**Arcane Dabbling**: The character may attempt to use magic items created with arcane or eldritch magic. At level 1, the character must make a proficiency throw of 18+ or the attempt backfires. The proficiency throw required reduces by 2 per level, to a minimum of 3+. Note that bards automatically begin play with this ability as part of their class.
 
-**Art (G)**: The character can create a particular type of art (e.g., painting, sculpture, mosaic). The character must choose the type of art at the time he chooses the proficiency. He can spend more proficiency selections to have several types of art proficiencies. The character is considered an apprentice in his field. He can create 10gp per month of artwork, and can identify masterwork items, rare materials, and famous artisans with a proficiency throw of 11+. If a character selects the same field of art twice, he is considered a journeyman in his trade. He can create 20gp per month of artwork, and supervise up to 3 apprentices, increasing their productivity by 50%. If he selects the same craft three times, he is considered a master of his field. He can create 40gp per month of artwork, and supervise up to 2 journeymen and 4 apprentices, increasing their productivity by 50%. He could work as a specialist in this field of art (as described in the [Hiring Specialists](Chapter03.md#specialists) section).
+**Art/Craft (G):** The character has studied a fine art (e.g., painting, sculpture, mosaic) or guild craft (e.g. armorer, bowyer, jeweler, leatherworker, smith, shipwright, or weaponsmith). The character is considered an apprentice in his trade. He can manufacture 10gp per month of goods, and can identify masterwork items, rare materials, and famous artisans with a proficiency throw of 11+.  The character must choose the art or craft at the time he chooses the proficiency. He can spend more proficiency selections to have several types of art or craft proficiencies.
 
+If a character selects the same art or craft twice, he is considered a journeyman in his trade. He can manufacture 20gp per month of goods, and supervise up to 3 apprentices, increasing their productivity by 50%. If he selects the same craft three times, he is considered a master craftsman. He can manufacture 40gp per month, and supervise up to 2 journeymen and 4 apprentices, increasing their productivity by 50%. He could work as a specialist in this art or craft.
 
-#### Art Proficiency Progression
+If a character selects the same art or craft four times, he is considered a grand master artist or craftsman. He can manufacture 80gp per month, and supervise up to 2 masters, 4 journeymen, and 8 apprentices, increasing their productivity by 50% (for a total construction rate of 440gp per month). Working alone or with his subordinates, a grand master can create masterwork items appropriate to his art or craft:
 
-| Title         | Rank (# of times taken) | Gp Earned/Month | Number of Workers Allowed
-| :------------ | ----------------------: | --------------: | :--------------------------
-| Apprentice    | 1                       | 10gp            | N.A.
-| Journeyman    | 2                       | 20gp            | 3 Apprentices
-| Master Artist | 3                       | 40gp            | 2 Journeymen, 4 Apprentices
+* A masterwork weapon costing 80gp extra may provide +1 to hit or +1 to damage. A masterwork weapon costing 650gp extra provides both +1 to hit and damage. In neither case does the weapon provide the ability to hit magical monsters, unless forged of a material otherwise capable of doing so (e.g. silver). Additional ornaments or engraving can add to the weapon’s value without necessarily increasing the weapon’s characteristics.
+* A masterwork set of armor costing 80gp extra weighs one less stone (armor or shields weighing one stone counts as one item instead) while providing normal AC. A masterwork set of armor costing 650gp extra provides +1 AC while weighing the same as normal. Additional ornaments or engraving can add to the value without necessarily improving the armor’s characteristics.
+* A masterwork structure costing 2 times normal gains +1 to AC or +10% to structural hit points. A masterwork structure costing 4 times normal gains both +1 to AC and +10% to structural hit points.
+* A masterwork ship costing 2 times normal gains +1 to AC, +10% to structural hit points, or +10% to movement rate. A masterwork ship costing 4 times normal gains any two such benefits. A masterwork ship costing 8 times normal gains all three such benefits.
+* A miscellaneous piece of masterwork art or craftsmanship may be of such beauty and quality as to be worth anywhere from 2 to 100 times normal value.
+
+>EXAMPLE: Ragnar, a 6th level dwarven craftpriest, has four ranks in Craft (weapon-smithing), giving him a construction rate of 80gp per month. He decides to craft a masterwork war hammer with +1 to hit and damage. The base cost of a war hammer is 5gp, so Ragnar’s masterwork war hammer will cost (650gp + 5gp) 655gp. It will take Ragnar (655gp / 80gp) 8.2 months to craft his masterpiece.
+
+The process of making a weapon, shield or set of armor into a +1 or greater item automatically transforms it into a masterwork, so the bonuses do not stack. However, enchanting masterworks is easier than enchanting mundane items. Apply the value of the masterwork item towards the cost of precious materials used to enchant the item.
+
+A grand master artist or craftsman who is able to create magic items due to his class level can imbue magical effects into items he personally crafts at half the usual base time and cost. If he has a sample or formula for the item as well, he can imbue magical effects at one-quarter the usual base time and cost. When doing so, he may add his ranks in his Art/Craft proficiency to the magical research throw to create the item.
+
+>EXAMPLE: Ragnar, now 9th level, has gained the ability to create permanent magical items. He decides to enchant his masterwork war hammer to +2. He has a sample war hammer +2.  The base cost to create a war hammer +2 is 30,000 gp. The base time is (2 month x 5gp / 10gp) 1 month. Because Ragnar is a grand master craftsman, the base cost is halved to 15,000gp and the base time to 2 weeks. Because Ragnar has a sample to work from, the base cost is halved again to 7,500 gp and the base time to 1 week.  He gains a +4 bonus on the magic research throw to enchant the war hammer, and the value of the war hammer, 600gp, counts towards the cost of precious materials used to enchant the item.
+
+When items made by grand masters or above are discovered, their mark or style will be apparent to characters who make the appropriate Art, Craft, Knowledge, or Loremastery roll.
+
+#### Art/Craft Proficiency Progression
+
+| Title |	Rank (# of times taken) | 	Gp Earned/Month |	Number of Workers Allowed
+| :---- | :---- | :---- | :----
+| Apprentice |	1 |	10gp |	N.A.
+| Journeyman| 	2 |	20gp |	3 Apprentices
+| Master | 	3 |	40gp |	2 Journeymen, 4 Apprentices
+| Grand Master |	4 |	80gp |	2 Masters, 4 Journeymen, 8 Apprentices
 
 
 **Bargaining (G)**: The character gets the best deals available for goods, services, and information. Any items the character purchases costs 10% less than the listed price and any items he sells go for 10% more than the listed price. If both the buyer and seller have the Bargaining proficiency, the opposed Bargainers should make reaction rolls. Whichever character scores the higher result gets the discount. A character may select Bargaining multiple times if desired. Each time the proficiency is selected, the character receives a +2 bonus on his reaction roll when negotiating with other bargainers.
 
 **Battle Magic**: The character gains a +1 initiative bonus when casting spells. He is considered 2 class levels higher than his actual level of experience for purposes of dispelling magic or penetrating a target's magic resistance.
 
-**Beast Friendship**: The character is well-schooled in the natural world. He can identify plants and fauna with a proficiency throw of 11+, and understands the subtle body language and moods of birds and beasts (though they may not understand the character). He gains +2 to all reaction rolls when encountering normal animals, and can take animals as henchmen.
+**<a name="beast-friendship"></a>Beast Friendship:**: The character is well-schooled in the natural world. He can identify plants and fauna with a proficiency throw of 11+, and understands the subtle body language and moods of birds and beasts (though they may not understand the character). He gains +2 to all reaction rolls when encountering normal animals, and can take animals as henchmen. If the character has this proficiency and the friends of birds and beasts class power, he can identify plants and fauna with a throw of 7+ and can take one more henchman than his Charisma would otherwise permit, as long as at least one is an animal.  
 
 **Berserkergang**: The character may enter a berserker rage. While enraged, he gains a +2 bonus to attack throws and becomes immune to fear. However, the character has a -2 penalty to AC and cannot retreat from combat. Once it has begun, a berserker rage cannot be ended until combat ends.
 
-**Black Lore**: The character has studied the terrible necromancies of ancient sorcerers. He can control undead as a Chaotic cleric of one half his class level. If the character casts spells that require a saving throw versus Death, his targets suffer a -2 penalty on the save. When the character casts necromantic spells (such as animate dead), the spell effects are calculated as if he were two class levels higher than his actual level of experience. He may also conduct necromantic research (see [Necromancy](Chapter07.md#necromancy) in Chapter 7) as if he were two class levels higher than actual.
+**<a name="black-lore-of-zahar"></a>Black Lore of Zahar:** The character has studied the terrible necromancies of ancient Zahar. He can control undead as a Chaotic cleric of one half his class level (rounded up). If the character casts spells that require a saving throw versus Death, his targets suffer a -2 penalty on the save. When the character casts necromantic spells (such as animate dead), the spell effects are calculated as if he were two class levels higher than his actual level of experience. He may also conduct necromantic research (see Necromancy in Chapter 7) as if he were two class levels higher than actual. If the character has this proficiency and the secrets of the dark arts class power, the character can control undead as a cleric of two-thirds his class level (rounded up), and his necromantic spells and research are calculated as if he were three (rather than two) caster levels higher than his actual caster level.
+
+>EXAMPLE: Ra-Ramses is a 9th level occultist with both secrets of the dark arts class power and Black Lore of Zahar proficiency. Therefore he controls undead as if he were a Chaotic cleric of (9 x 2/3) 6th level. He casts necromantic spells and performs necromantic research as if he were 12th level.
 
 **Blind Fighting**: The character can fight a target without being able to see it. Blind Fighting is typically used when the character is in darkness or when the target is outside the range of his sight. A character with this proficiency suffers only a -2 penalty on attack throws when blinded or fighting invisible enemies instead of the base -4 penalty.
 
 **Bribery**: The character is exceptionally skilled at bribing officials with gifts of money or merchandise. Offering a bribe permits an additional reaction roll during encounters, with the throw modified by the size of the bribe. As a general rule, a bribe equal to one day's pay for the target provides a +1 bonus, a week's pay provides a +2 bonus, and a month's pay provides a +3 bonus. Only one bribe can be attempted per target in any given situation.
 
+**<a name="bright-lore-of-aura"></a>Bright Lore of Aura:** The character has studied the white magic of the Empyreans. The character can turn undead as a cleric of one half his class level (rounded up). If the character casts spells that require a saving throw versus Paralysis, his targets suffer a -2 penalty on the save. When the character casts protection spells, the spell effects are calculated as if he were two caster levels higher than his actual caster level. If the character has this proficiency and the bright lore class power, the character can turn undead as a cleric of two-thirds his class level (rounded up), and his protection spells are calculated as if he were three (rather than two) caster levels higher than his actual caster level.
+
 **Caving (G)**: The character has learned to keep a map in his head of where he is when exploring underground caves, cavern complexes, and rivers. On a proficiency throw of 11+, the character with this proficiency will be able to automatically know the route he has taken to get where he is, if he was conscious at the time.
 
 **Cat Burglary**: The thief knows how to deftly move across narrow and precarious surfaces. He may balance on thin ledges or tight ropes by making a proficiency throw to climb walls. If the thief falls while climbing, the player may make a second proficiency throw with a -4 penalty in order to catch himself and prevent any damage.
+
+**Ceremonial Magic:** The character has studied the ceremonies of a particular tradition of ceremonial magic (antiquarian, chthonic, sylvan, shamanic, or theurgical). The character must choose the tradition at the time he chooses the proficiency. This proficiency can be selected multiple times. The effect of this proficiency depends upon the class powers of the character selecting it.
+
+If the character is neither a spellcaster nor a ceremonialist, then he becomes a 1st level ceremonialist with a repertoire of one 1st level ceremony. He can perform ceremonies in the tradition and create and use trinkets and talismans in the tradition as a 1st level ceremonialist, and can identify trinkets or talismans created by a ceremonialist of the tradition with a proficiency throw of 11+ and of other traditions with an 18+.
+
+If the character is a spellcaster, but is not already a ceremonialist, he becomes a ceremonialist of his caster level upon taking this proficiency. He can perform any ceremonies in the tradition and create and use trinkets and talismans in the tradition as a ceremonialist of his caster level, and can identify trinkets or talismans created by a ceremonialist of the tradition with a proficiency throw of 11+ and of other traditions with an 18+.
+
+If the character is already a ceremonialist, he can either reduce the proficiency throw required to identify trinkets and talismans of a tradition he already knows by 4; learn another tradition; or add one ceremony (of any level he can cast) to his repertoire.
+
+See the rules for [Ceremonial Magic](Chapter05.md#ceremonial-magic) in the Magic section for more details.
 
 **Climbing**: The character can climb cliffs, branchless trees, walls, and other sheer surfaces, without climbing aids, as a thief of his class level.
 
@@ -134,7 +172,7 @@ For ease of reference, proficiencies that appear on the general list are marked 
 
 **Combat Reflexes**: True warriors never hesitate in combat. The character gains a +1 bonus to surprise rolls and initiative rolls. This bonus does not apply when casting spells.
 
-**Combat Trickery**: The character is a cunning and tricky fighter. Pick a special maneuver from any one of the following: Disarm, Force Back, Incapacitate, Knock Down, Overrun, Sunder, or Wrestle. When the character attempts this special maneuver in combat, the normal penalty for attempting the maneuver is reduced by 2 (e.g. from -4 to -2), and his opponent suffers a -2 penalty to his saving throw to resist the special maneuver. See [Special Maneuvers](Chapter06.md#special-maneuvers) in Chapter 6 for more details. A character may take Combat Trickery multiple times, selecting an additional special maneuver to learn each time.
+**Combat Trickery:** The character is a cunning and tricky fighter. Pick a special maneuver from any one of the following: Disarm, Force Back, Incapacitate, Knock Down, Overrun, Sunder, or Wrestle. When the character attempts this special maneuver in combat, the normal penalty for attempting the maneuver is reduced by 2 (e.g. from -4 to -2), and his opponent suffers a -2 penalty to his saving throw to resist the special maneuver. In addition, anytime the character lands a [critical hit](Chapter04.md#critical-hits), he may apply his special maneuver as an effect in lieu of the outcome he rolled if desired. A character may take Combat Trickery multiple times, selecting an additional special maneuver to learn each time.
 
 **Command**: The character has mastered the art of command. His authority inspires men to follow him into danger. The character's henchmen and mercenaries receive a +2 bonus to morale. Morale is explained in [Hirelings, Henchmen, Mercenaries, and Specialists](Chapter03.md#hirelings-henchmen-mercenaries-and-specialists).
 
@@ -142,17 +180,9 @@ For ease of reference, proficiencies that appear on the general list are marked 
 
 **Contortionism**: The character is extremely flexible, able to squeeze or fold his body in ways that seem humanly impossible, including squeezing between bars and escaping chains and restraints. He may make a proficiency throw of 18+ each round to escape from bonds or to slip between the bars of a portcullis.
 
-**Craft (G)**: The character has studied under a guild craftsman, such as an armorer, bowyer, jeweler, leatherworker, smith, shipwright, or weaponsmith. The character is considered an apprentice in his trade. He can manufacture 10gp per month of goods, and can identify masterwork items, rare materials, and famous artisans with a proficiency throw of 11+. The character must choose the craft at the time he chooses the proficiency. He can spend more proficiency selections to have several types of craft proficiencies. If a character selects the same craft twice, he is considered a journeyman in his trade. He can manufacture 20gp per month of goods, and supervise up to 3 apprentices, increasing their productivity by 50%. If he selects the same craft three times, he is considered a master craftsman. He can manufacture 40gp per month, and supervise up to 2 journeymen and 4 apprentices, increasing their productivity by 50%. He could work as a specialist in this craft (as described in the [Hiring Specialists](Chapter03.md#specialists) section). Note that dwarven craftpriests automatically begin play with this proficiency at the "journeyman" rank as part of their class.
+**Craft (G)**: See Art/Craft. 
 
-
-#### Craft Proficiency Progression
-
-| Title            | Rank (# of times taken) | Gp Earned/Month | Number of Workers Allowed
-| :--------------- | ----------------------: | --------------: | :--------------------------
-| Apprentice       | 1                       | 10gp            | N.A.
-| Journeyman       | 2                       | 20gp            | 3 Apprentices
-| Master Craftsman | 3                       | 40gp            | 2 Journeymen, 4 Apprentices
-
+**Destined:** The character gains two Fate Points. This proficiency does not appear on any class lists. The Judge should decide if this proficiency exists in his setting. If so, any character may select it as one of his class proficiencies.
 
 **Diplomacy (G)**: The character is smooth tongued and familiar with protocol. He receives a +2 bonus on all reaction rolls when he attempts to parley.
 
@@ -178,6 +208,8 @@ For ease of reference, proficiencies that appear on the general list are marked 
 
 **Familiar**: The character gains a familiar, a magical animal companion. The familiar will be a creature appropriate to the character's alignment and other powers (as determined by the Judge). The familiar always has a number of Hit Dice and maximum hit points equal to 1/2 its master's own; Intelligence equal to its master's Intelligence; and a number of general and class proficiencies equal to its masters, selected from its master's class list. The familiar can always understand any languages spoken by its master, and the character will be able to understand the familiar's speech, though no one else will without resorting to speak with animals. The familiar is utterly loyal to its master and will fight for him, perform services, and generally obey his commands. While the familiar is within 30', the character receives +1 on saving throws, but if the familiar is ever killed, the character must save versus Death or instantly take damage equal to the familiar's maximum total hit points. A character does not gain a new familiar if it is slain until he has gained a level of experience.
 
+**Farseeing:** The character can see the fates of mortals. He may determine how many Fate Points a character has after 10 minutes (1 turn) of casual interaction or observation. Once per week, the character may cast fate (as the spell) with a casting time of 10 minutes (1 turn).
+
 **Fighting Style**: The character chooses to become proficient in a particular fighting style, such as two weapon fighting or weapon and shield. Because of his familiarity with the fighting style, a proficient character may draw his weapon(s) and/or ready his shield without having to give up an opportunity to move or attack. In addition, each fighting style provides a special bonus when the character is fighting in that style. The fighting styles and their bonuses are listed below.
 
 
@@ -199,19 +231,9 @@ Bonuses are in addition to the standard bonuses for fighting in the given manner
 
 **Goblin-Slaying**: The character has been trained to ruthlessly cut down his race's humanoid foes. He receives +1 on attack throws against kobolds, goblins, orcs, gnolls, hobgoblins, bugbears, ogres, trolls, and giants. At level 7, this bonus increases to +2, and at level 13 it increases to +3.
 
-**Healing (G)**: The character is especially skilled at treating wounds and diagnosing illnesses among humans and demi-humans. A proficiency throw of 11+ enables the character to identify whether a disease is magical or mundane, and if mundane, diagnose it. A patient under treatment of Healing naturally heals an extra 1d3 hit points each day. If the character selects Healing twice, he can neutralize poison, cure disease, or cure light wounds with a proficiency throw of 18+, once per day per patient. If the character selects Healing three times, he can neutralize poison, cure disease, or cure serious wounds with a proficiency throw of 14+, once per day per patient. A character with Healing proficiency can use the healing herbs listed in the [Equipment](Chapter03.md#chapter-3-equipment) chapter (e.g. blackwort, comfrey, goldenrod, and woundwort) to heal additional damage or gain a bonus on his proficiency throws. In any one day, a character can supervise three different patients, plus an additional one each time Healing is selected.
+**Healing (G)**: See **Animal Husbandry/Healing**.
 
-
-#### Healing Proficiency Progression
-
-| Title     | Rank (# of times taken) | Gp Earned/Month | Patients/Day | Skills
-| :-------- | ----------------------: | --------------: | -----------: | :-------------------------------------------------------------
-| Healer    | 1                       | 25gp            | 3            | Identify 11+, extra 1d3 hit points per day
-| Physicker | 2                       | 50gp            | 4            | Identify 7+, neutralize poison, cure disease, cure light 18+
-| Chirugeon | 3                       | 100gp           | 5            | Identify 3+, neutralize poison, cure disease, cure serious 14+
-
-
-**Illusion Resistance**: The character is as hard to fool as the most cynical dwarf. The character receives +4 bonus on saving throws to disbelieve magical illusions.
+**Illusion Resistance:** This proficiency is replaced by Second Sight.
 
 **Intimidation (G)**: The character knows how to bully others to get what he wants. He receives a +2 bonus on all reaction rolls when implicitly or explicitly threatening violence or dire consequences. The targets must be 5 HD or less, or the character and his allies must outnumber or grossly outrank the targets.
 
@@ -223,7 +245,7 @@ Bonuses are in addition to the standard bonuses for fighting in the given manner
 
 **Language (G)**: This proficiency enables the character to learn to speak, read, and write an additional language (pick one). The character's level of literacy with the new language is determined by his Intelligence. Characters with an Intelligence of 8 or less are generally illiterate. However, this proficiency can be taken by a character with a low Intelligence (8 or less) in order to become literate in a language the character already speaks.
 
-**Laying on Hands**: The character can heal himself or another by laying on hands once per day. The character can restore 2 hit points per experience level. A character may take this proficiency multiple times. Each time it is taken, the character may lay on hands an additional time per day.
+**Laying on Hands:** The character can heal himself or another by laying on hands once per day. The character healed recovers hp as if he had rested for one day per two levels of the healer (rounded up).  A character may take this proficiency multiple times. Each time it is taken, the character may lay on hands an additional time per day.
 
 **Leadership (G)**: The character is an inspirational authority figure who earns great loyalty. The character may hire one more henchman than his Charisma would otherwise permit, and the base morale score of any domain he rules is increased by 1. Domain morale is explained in the [Campaigns](Chapter07.md#chapter-7-campaigns) chapter.
 
@@ -235,13 +257,15 @@ Bonuses are in addition to the standard bonuses for fighting in the given manner
 
 **Magical Engineering**: The character has specialized knowledge of magical items. He gains a +1 to magical research throws. He can recognize most common magical items after careful investigation with a proficiency throw of 11+, but is unable to recognize uncommon or unique magical items, to divine command words, to distinguish trapped or cursed items from safe ones, or to assess the specific bonus or number of charges remaining in an item. This proficiency can be selected multiple times, each time adding an additional +1 bonus to magical research throws and reducing the proficiency throw required to recognize common items by 4.
 
-**Magical Music**: The character can perform music that can serenade those who are potentially attracted to the character (as a charm person spell) or tame savage beasts (as a sleep spell). The character must succeed on an appropriate Performance proficiency throw to use Magical Music. If successful, the charm or sleep effect begins immediately and lasts until the character stops performing. If the character performs for a full turn (10 minutes), the effect has the duration of the spell. Magical music has no effect if used against creatures that are already in combat.
+**Magical Music:** If the character is not already a spellsinger, then he gains a limited ability to spellsing. The character gets two spell points and has one 1st level spell in his repertoire, which he casts as a 1st level spellsinger. A character already capable of spellsinging who selects this proficiency gains an additional two spell points and can add one additional spell (of any level he can cast) to his repertoire. The proficiency may be selected multiple times.
 
 **Manual of Arms (G)**: The character has the ability to train soldiers in military discipline, physical fitness, and weapon drill. If the character selects Manual of Arms once, he can earn 30gp per month training light infantry. It takes 1 month to turn raw recruits into light infantry. If the character also selects Riding, he can also train light cavalry (taking 3 months). If he also selects Weapon Focus (bows & crossbows), he can train crossbowmen (1 month), bowmen (2 months), or longbowmen (3 months). Manual of Arms combined with Riding and Weapon Focus (bows & crossbows) allows the character to train horse archers (6 months). If the character selects Manual of Arms twice, he earns 60gp per month and can train heavy infantry (1 month). Two ranks of Manual of Arms combined with Riding allow the character to train heavy cavalry (6 months). Two ranks of Manual of Arms combined with Riding and Weapon Focus (bows & crossbows) allows the character to train cataphract cavalry (12 months). The character can train up to 60 soldiers during each training period.
 
 **Mapping (G)**: The character can understand and make maps, even if he cannot read or write. With a proficiency throw of 11+, the character can interpret or draft complicated layouts or map an area by memory. This proficiency can be selected multiple times.
 
 **Martial Training**: As a crusader of the faith, the character has had training that supersedes the normal religious strictures of his order. Select one of the following types of weapons and add these to the list of weapons permitted to the character: (1) axes; (2) bows/crossbows; (3) flails/hammers/maces; (4) swords/daggers; (5) spears/pole arms; (6) bolas/nets/slings/saps/staffs.
+
+**<a name="mastery-of-charms-and-illusions"></a>Mastery of Charms and Illusions:** When the character casts enchantment spells (such as charm person) or illusion spells (such as phantasmal force), the spell effects are calculated as if he were two class levels higher than his actual level of experience. Targets of his enchantment spells suffer a -2 penalty to their saving throw, as do those who attempt to disbelieve his illusions. If the character has this proficiency and the mastery of domination and deception class power, the character can cast enchantments and illusions as if he were three (rather than two) caster levels higher than his actual caster level, and targets suffer a -3 penalty to their saving throws.
 
 **Military Strategy (G)**: The character has studied the art of war and the methods of the great captains. He can recognize famous historical battles, generals, and weapons with a proficiency throw of 11+. Forces under his command receive a +1 bonus to initiative rolls in mass combat. This proficiency may be selected multiple times, each time adding an additional +1 bonus to mass combat initiative, to a maximum of +3.
 
@@ -269,6 +293,10 @@ Bonuses are in addition to the standard bonuses for fighting in the given manner
 | Master Performer | 3                       | 40gp            | 2 Journeymen, 4 Apprentices
 
 
+**<a name="personal-talisman"></a>Personal Talisman:** A ceremonialist with the Personal Talisman proficiency has created a special magic item, his personal talisman, which he uses to aid him in performing ceremonies. When the proficiency is first taken, the character immediately gains a talisman of his own tradition which provides a +1 bonus to ceremony throws for ceremonies of one particular type. The character may choose from death & necromancy; detection; elemental air; elemental earth; elemental fire; elemental water; enchantment & illusion; healing; movement; protection; summoning; and transmogrification. Each time the proficiency is selected thereafter, the personal talisman can increase its bonus by +1 for one type of ceremony. A character may never have more than one personal talisman at a time, and a personal talisman may never be used by anyone other than the character.  
+
+If the character’s personal talisman is ever lost or destroyed, the character may make a new one. Making a new personal talisman costs 5,000gp less than normal per rank in the proficiency, with the equivalent reductions in time, special components, and workshop requirements. Any magic research throws to make the personal talisman are always successful.
+
 **Precise Shooting**: The character may conduct missile attacks against opponents engaged in melee at a -4 penalty to his attack throw. A character may take this proficiency multiple times. Each time the proficiency is taken, the penalty to attack opponents in melee is reduced by 2. Characters without this proficiency cannot attack opponents engaged in melee with missile attacks.
 
 **Prestidigitation**: The character can magically accomplish simple illusions and sleight of hand tricks suitable for impressing peasants, such as lighting a candle or shuffling cards, at will. The character must be able to perform the task physically, and be free to speak and gesture. He may use magical sleight-of-hand to pick pockets as a thief of one half his class level.
@@ -285,7 +313,7 @@ Bonuses are in addition to the standard bonuses for fighting in the given manner
 | Master of Profession  | 3                       | 100gp           | 2 Journeymen, 4 Apprentices
 
 
-**Prophecy**: The character is subject to premonitions and dreams of the past and future. The Judge will make these visions both cryptic and useful. Once per week, the character can commune (as the spell).
+**Prophecy:** The character is subject to premonitions and dreams of the past and future. The Judge will make these visions both cryptic and useful. Once per day, the character may cast divination (as the spell). The casting time is 10 minutes (1 turn).
 
 **Quiet Magic**: The character can cast spells with minimal words and gestures. A successful proficiency throw to hear noise is required to hear the character cast spells. Full gagging is necessary to prevent the character from working magic.
 
@@ -296,6 +324,8 @@ Bonuses are in addition to the standard bonuses for fighting in the given manner
 **Running**: The character's base movement speed is increased by 30' when wearing chainmail or lighter armor.
 
 **Seafaring (G)**: The character can crew large sailing ships or galleys. If a character selects this proficiency twice, he can serve as a captain on a seagoing vessel, as described in [Specialists](Chapter03.md#specialists). If he selects this proficiency three times, he is a master mariner. When tacking, a master mariner's ship has its movement rate reduced by only one category rather than by two (as described in the [Wilderness Adventures](Chapter06.md#wilderness-adventures) section), and his ship's chance to evade is increased by +5.
+
+**Second Sight:** The character has a connection to the hidden world, and can see innately or magically invisible creatures within 60’. Invisible creatures are aware that the character can see them, and may often take a particular interest in him as a result. Second sight does not provide the ability to see characters hiding in shadows, secret doors, traps, or other creatures or objects hidden through cover and concealment, but does provide a +4 bonus to saving throws to disbelieve illusions. This proficiency replaces Illusion Resistance in ACKS.
 
 **Seduction (G)**: The character is either naturally alluring or a practiced seducer. He always receives a +2 bonus on reaction rolls with others who are potentially attracted to the character.
 
@@ -313,7 +343,7 @@ Bonuses are in addition to the standard bonuses for fighting in the given manner
 
 **Sniping**: If otherwise eligible to ambush or backstab his opponent, the character may do so using ranged weapons at up to short range.
 
-**Soothsaying**: The character is subject to premonitions and dreams of the past and future. The Judge will make these visions both cryptic and useful. Once per week, the character can contact higher plane (as the spell).
+**Soothsaying:** The character has been trained to read the omens in everyday things – the throw of dice, the flight of birds, or the leaves of tea. Once every 8 hours, he can cast augury (as the spell). The casting time is 10 seconds (1 round).
 
 **Survival**: The character is an expert at hunting small game, gathering fruits and vegetables, and finding water and shelter. The character forages enough food to feed himself automatically, even when on the move, so long as he is in a fairly fertile area. If he is trying to supply more than one person, he must make a proficiency throw (as described in [Wilderness Adventures](Chapter06.md#wilderness-adventures)), but gains a +4 bonus on the roll.
 
@@ -335,7 +365,7 @@ Bonuses are in addition to the standard bonuses for fighting in the given manner
 
 **Weapon Finesse**: When attacking with one-handed melee weapons, the character may use his Dexterity modifier instead of his Strength modifier on his attack throw.
 
-**Weapon Focus**: When using a favored type of weapon, the character is capable of devastating strikes. On an attack throw scoring an unmodified 20 when using his favored weapon, the character inflicts double normal damage. A character may take this proficiency multiple times, selecting an additional Weapon Focus each time. The available Weapon Focuses are: axes; maces, flails and hammers; swords and daggers; bows and crossbows; slings and thrown weapons; spears and polearms. Weapon Focus does not allow a character to use weapons not available to his class.
+**Weapon Focus:** The character is an expert at delivering critical hits with a type of favored weapon. Any time the result of a successful attack throw with a favored weapon exceeds the target value by 7 or more (instead of the usual 10 or more), the attacker has dealt a critical hit to its target. A character may take this proficiency multiple times, selecting an additional Weapon Focus each time. The available Weapon Focuses are: axes; maces, flails and hammers; swords and daggers; bows and crossbows; slings and thrown weapons; spears and polearms. Weapon Focus does not allow a character to use weapons not available to his class.
 
 
 ## Proficiencies of Normal Humans and Demi-Humans
