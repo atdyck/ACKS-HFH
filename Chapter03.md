@@ -109,21 +109,24 @@ If equipment the adventurers desire to purchase is not available, they may commi
 | Banded Plate or Lamellar Armor | 50gp   | 5
 | Plate Armor                    | 60gp   | 6
 | Shield                         | 10gp   | +1
+| Helmet, Heavy                  | 20gp   | *
 | Leather Barding                | 40gp   | 1
 | Scale Barding                  | 75gp   | 2
 | Chain Barding                  | 150gp  | 3
 | Lamellar Barding               | 300gp  | 4
 | Plate Barding                  | 600gp  | 5
 
+\* +2 vs. Mortal Wounds
+
 
 
 | Weapons                            | Cost        | Damage*
 | :--------------------------------- | ----------: | :--------
-| *Axes*                             | -           | -
+| *Axes*                             |             |  
 |     Battle Axe                     | 7gp         | 1d6/1d8
 |     Great Axe (two-handed)         | 10gp        | 1d10
 |     Hand Axe                       | 4gp         | 1d6
-| *Bows and Crossbows*               | -           | -
+| *Bows and Crossbows*               |             |  
 |     Arbalest                       | 50gp        | 1d8
 |     Crossbow                       | 30gp        | 1d6
 |        Case with 20 Bolts          | 2gp         | -
@@ -132,31 +135,31 @@ If equipment the adventurers desire to purchase is not available, they may commi
 |     Shortbow                       | 3gp         | 1d6
 |        Quiver with 20 Arrows       | 1gp         | -
 |        1 Silver-Tipped Arrow       | 5gp         | -
-| *Catapults and Ballista*           | -           | -
+| *Catapults and Ballista*           |             |  
 |     Ballista (800lb)               | 80gp        | 3d6
 |        Ballista Shot               | 4gp         | -
 |     Heavy Catapult (1,800lb)       | 200gp       | 4d6
 |     Light Catapult (1,200lb)       | 100gp       | 3d6
 |        Catapult Shot (25lb)        | 5gp         | -
 |        Catapult Shot, Pitch (25lb) | 25gp        | -
-| *Flails, Hammers, and Maces*       | -           | -
+| *Flails, Hammers, and Maces*       |             |  
 |     Club                           | 1gp         | 1d4
 |     Flail                          | 5gp         | 1d6/1d8
 |     Mace                           | 5gp         | 1d6/1d8
 |     Morning Star (two-handed)      | 10gp        | 1d10
 |     War Hammer                     | 5gp         | 1d6/1d8
-| *Spears and Pole Arms*             | -           | -
+| *Spears and Pole Arms*             |             |  
 |     Lance (mounted)                | 1gp         | 1d10
 |     Javelin                        | 1gp         | 1d6
 |     Pole Arm (two-handed)          | 7gp         | 1d10
 |     Spear                          | 3gp         | 1d6/1d8
-| *Swords and Daggers*               | -           | -
+| *Swords and Daggers*               |             |  
 |     Dagger                         | 3gp         | 1d4
 |     Silver Dagger                  | 30gp        | 1d4
 |     Short Sword                    | 7gp         | 1d6
 |     Sword                          | 10gp        | 1d6/1d8
 |     Two-Handed Sword               | 15gp        | 1d10
-| *Other Weapons*                    | -           | -
+| *Other Weapons*                    |             |  
 |     Bola                           | 5gp         | 1d2
 |     Darts (5)                      | 2gp         | 1d4
 |     Net                            | 1gp         | -
@@ -172,18 +175,13 @@ If equipment the adventurers desire to purchase is not available, they may commi
 | :-------------------------------- | --------:
 | Backpack (holds 4 stone)          | 2gp
 | Barrel (20 gallon)                | 3sp
-| Belladonna (1lb)                  | 10gp
 | Blanket (wool, thick)             | 2gp
-| Birthwort (1lb)                   | 10gp
 | Candle (tallow, 1lb)              | 2sp
 | Candle (wax, 1lb)                 | 6sp
 | Chest (ironbound, holds 20 stone) | 22gp
-| Comfrey (1lb)                     | 10gp
 | Crowbar                           | 1gp
 | Flask of Oil (common, 1 pint)     | 3sp
 | Flask of Oil (military, 1 pint)   | 2gp
-| Garlic (1lb)                      | 5gp
-| Goldenrod (1lb)                   | 10gp
 | Grappling Hook                    | 25gp
 | Hammer (small)                    | 2gp
 | Holy Symbol                       | 25gp
@@ -192,6 +190,7 @@ If equipment the adventurers desire to purchase is not available, they may commi
 | Iron Spikes (12)                  | 1gp
 | Lantern                           | 10gp
 | Lock                              | 20gp
+| Metamphora                        |	5gp / 60gp value
 | Mirror (hand-sized, steel)        | 5gp
 | Musical instrument                | 25-100gp
 | Pouch/Purse (holds 1/2 stone)     | 5sp
@@ -201,15 +200,32 @@ If equipment the adventurers desire to purchase is not available, they may commi
 | Rope (50' length)                 | 1gp
 | Sack (small, holds 2 stone)       | 3sp
 | Sack (large, holds 6 stone)       | 8sp
+| Special Components, Miscellaneous |	1gp
 | Spell Book (blank)                | 20gp
 | Stakes (4) and Mallet             | 3gp
 | Tent                              | 20gp
 | Thieves' Tools                    | 25gp
 | Tinder Box (flint & steel)        | 8sp
+| Traditional Implements            |	varies
 | Torches (6)                       | 1sp
 | Water/Wine Skin                   | 6sp
-| Wolfsbane (1lb)                   | 10gp
-| Woundwart (1lb)                   | 10gp
+
+| Herbs and Powders |	Cost
+| :--- | :---
+| Aloe              |	10gp
+| Belladonna (1lb)  | 10gp
+| Birthwort (1lb)   | 10gp
+| Bitterwood        |	10gp
+| Black Lotus       |	200gp
+| Blessed Thistle   | 10gp
+| Comfrey (1lb)     | 10gp
+| Garlic (1lb)      | 5gp
+| Goldenrod (1lb)   | 10gp
+| Horsetail         |	15gp
+| Lungwort          |	5gp
+| Willow-bark       |	5gp
+| Wolfsbane (1lb)   | 10gp
+| Woundwart (1lb)   | 10gp
 
 
 | Clothing                                      | Cost
@@ -324,6 +340,8 @@ If equipment the adventurers desire to purchase is not available, they may commi
 
 ## Equipment Descriptions
 
+**Aloe:** Aloe, also known as burn plant, is a healing herb used to treat burns. A character with Healing proficiency can use a liniment of aloe to treat a patient with acid, cold, electrical, or fire damage. The patient is healed one-half his base healing rate, or up to the amount of acid, cold, electrical or fire damage suffered, whichever is less. A patient cannot be treated with a liniment of aloe more than once per day. Applying the liniment takes 1 turn (10 minutes). Cost: 10gp
+
 **Arbalest**: An arbalest is a heavy crossbow, pulled with the mechanical assistance of a rack and pinion or windlass. Historical examples include the late medieval arbalest and the Three Kingdoms era Chinese heavy crossbow.
 
 **Axe, Battle**: This is a single- or double-bitted axe with a 24" to 48" haft, designed for battle and useable with one or two hands. Historical examples include the Scythian sagaris, Viking bearded and skeg axe, Celtic war axe, medieval battle axe, and Persian tabarzin.
@@ -343,6 +361,12 @@ If equipment the adventurers desire to purchase is not available, they may commi
 **Belladonna**: Belladonna, also known as deadly nightshade, is a poisonous flower. A character who eats a pound of belladonna within one hour of being infected with lycanthropy may make a saving throw versus Poison to shake off the affliction. If the character fails the saving throw, however, he dies from the poison after one turn. Even if the poison is then neutralized or the character is raised from the dead, he will still be afflicted with lycanthropy, and further doses of belladonna will be of no use.
 
 **Birthwort**: Birthwort, also known as snakeroot, is a healing herb used as a remedy for snake bites and other poisons. Birthwort can be applied as a poultice to a poisoned wound by an adventurer with the Healing proficiency. Used in this manner, it provides a +2 bonus on the Healing proficiency throw to neutralize poison.
+
+**Bitterwood:** Bitterwood, also known as quassia, is an healing herb used to induce vomiting. A character with Healing proficiency can treat a patient who has ingested poison within 1 turn (10 minutes) with an emetic of bitterwood.  Upon consuming the emetic, the patient must make a saving throw v. Poison. If the save succeeds, the patient spends the next 1d3 turns purging himself of the poison, neutralizing it. If the save fails, the character still loses 1d3 turns purging himself, but it does not neutralize the poison. Administering the emetic takes 1 round (10 seconds). Cost: 10gp
+
+**Black Lotus:** Block lotus is an eldritch herb prized by sorcerers and occultists. When powdered and burned in a brazier, black lotus releases a wispy smoke in a 2.5’ radius for 1 turn (10 minutes). Those who inhale the smoke may fall into a death-like sleep characterized by monstrous dreams. If a character begins his initiative in the smoke, or enters the smoke, he may make a saving throw versus Poison. If the saving throw fails, or the character chooses not to save, he falls into a deep slumber for 1d3 hours. If the character is a spellcaster or ceremonialist, the number of hours is extended by one-half the highest level spell or ceremony he knows (rounded down). During this time, the character is completely helpless and cannot be awakened by any means short of dealing damage. If the character is allowed to slumber and awaken naturally, he will wake up empowered with  magic. An eldritch spellcaster will gain access to all of his expended spells, exactly as if he had benefited from a day’s rest and study. An eldritch ceremonialist will purify himself of all accumulated stigma. Other characters will temporarily gain a repertoire of one random 1st level black magic ceremony  for use in the next 24 hours (stigma threshold 1). The benefits of black lotus come at a price, however; the nightmares it brings cause the character to accumulate 1 corruption point per hour of drugged sleep. Cost: 200gp.
+
+**Blessed Thistle:** Blessed thistle, also known as spotted thistle, is an healing herb that helps wounds heal more quickly. A character with the Healing proficiency can use a poultice of blessed thistle to treat a wounded patient at any time. If the patient rests, his base healing rate for the day is increased by one row on the BHR table for purposes of natural healing. If the patient does not rest, he recovers one-half the hit points he would have recovered if he had rested. Applying the poultice takes 1 round (10 seconds). Cost: 10gp
 
 **Boat, River**: This boat is 20' to 30' long, has a "beam" (width) of 10' to 15', and has a "draft," or surface depth, of between 2-3' when in the water. Riverboats are rowed, or poles are used to push it along. A river boat requires at least 1 rower as crew (see the [Hirelings, Henchmen, Mercenaries, and Specialists](Chapter03.md#hirelings-henchmen-mercenaries-and-specialists) section, later in this chapter). The cost of the boat increases by 1,000gp if it has a roof. A riverboat can carry 600 stone (6,000lb) plus crew.
 
@@ -410,6 +434,8 @@ If equipment the adventurers desire to purchase is not available, they may commi
 
 **Hat**: A hat is a cap, fez, turban, or other headgear for protecting the head from the elements.
 
+**Helmet, Heavy:** This is a metal close-faced or visored helmet that completely covers the face, head, and neck. A heavy helmet must be purchased separately from a suit of armor. Wearing a heavy helm imposes a -1 penalty to surprise rolls and -4 penalty to proficiency throws to hear noise, but offers a +2 bonus on d20 rolls made on the Mortal Wounds table. Historical examples of heavy helmets include the classical Corinthian helmet, Roman gladiatorial helmets, and the medieval armet, barbute, close helm, great helm, and hounskull. Cost: 20gp
+
 **Holy Symbol**: A cleric is required to own a holy symbol. These symbols will be different for each religion, but they are often worn as a necklace.
 
 **Holy Water**: Holy water is water that has been blessed by a cleric of 7th level or higher. It is used in some church rituals, and is a formidable weapon against the undead, inflicting 1d8 points of damage for 2 rounds. Holy water cannot retain its holy power if it is stored in any other container than the special vials it is placed in when blessed.
@@ -419,6 +445,8 @@ If equipment the adventurers desire to purchase is not available, they may commi
 **Horse, Light**: A light horse can carry its normal load of 20 stone and move at 240' per turn. A light horse can carry its maximum load of 40 stone and move at 120' per turn. Light horses are trained for riding or war. Historical examples include the medieval palfrey and jennet (riding horse), medieval rouncey (warhorse), and Mongolian and Turkoman horse.
 
 **Horse, Medium**: A medium horse can carry its normal load of 30 stone and move at 180' per turn. A medium horse can carry its maximum load of 60 stone and move at up to 90' per turn. Medium horses are trained for draft, riding, or war. Historical examples include the medieval hackney (draft or riding horse), medieval courser (warhorse), and Sarmatian medium horse.
+
+**Horsetail:** Horsetail, also known as snake grass, is an healing herb that slows bleeding and promotes clotting. A character with Healing proficiency can use a poultice of horsetail to treat the wounds of an unconscious and possibly mortally wounded patient (with 0 hit points or fewer). Used in this manner, it provides an additional +2 bonus to the patient’s 1d20 roll on the Mortal Wounds table. A character with two ranks of Healing proficiency can use a poultice of horsetail to delay death with a proficiency throw of 18+ (one attempt per patient). A character with three ranks of Healing proficiency can use a poultice of horsetail to delay death with a proficiency throw of 14+. Applying the poultice takes 1 round (10 seconds). Cost: 15gp
 
 **Hut**: A hut is a 10' square building with an earthen floor and thatched roof. Serfs, unskilled laborers, and other working poor generally live in such homely dwellings.
 
@@ -444,9 +472,13 @@ If equipment the adventurers desire to purchase is not available, they may commi
 
 **Longship**: The longship is a graceful, light ship with a single square-sailed mast, a 60' to 80' length, 10' to 15' beam, and 2' to 3' draft. Longships can operate equally well on oceans, coasts, or rivers, making them ideal raiding vessels. The standard crew is a captain and 75 sailors, of which 60 may row when the wind is low. Longship sailors are generally also marines (fighters). In addition to crew, longships are capable of holding a weight of 2,000 stone (20,000lb). A historical example is the Viking drakkar.
 
+**Lungwort:** Lungwort is an healing herb used to treat diseased and damaged lungs. A character with Healing proficiency can brew a tincture of lungwort to relieve a patient of the wilderness movement penalty and rest requirements from permanent wounds (“lungs and heart damaged”). Brewing the tincture takes 1 turn (10 minutes) and the relief lasts for 4 hours. Cost: 5gp
+
 **Mace**: A mace is a bludgeoning weapon consisting of a 2' to 3' wood or metal shaft and a heavy stone or metal head, useable with one or two hands. Historical examples include the Egyptian bronze-headed mace, medieval flanged mace, Persian horseman's mace, Russian pernach, and Slavic bulawa.
 
 **Manacles**: These are used to bind hands or feet. Characters bound with manacles can escape if they have the Contortionist proficiency (as [described](Chapter04.md#proficiency-descriptions) in Chapter 4), or by making a proficiency throw to Open Locks.
+
+**Metamphora:** Designed to store special components, metamphora are ceramic jars inscribed with alchemical sigils and stoppered with copper seals. Metamphora come in an array of different sizes and shapes, as more valuable special components require sturdier, stronger metamphora to prevent leakage. Metamphora cost 5gp and weigh 1 stone for every 60gp of value they store
 
 **Morning Star**: This is any type of large mace-liked weapon with a spiked metal head. Historical examples include the medieval morning star, German chain-morning star, English holy water sprinkler, Flemish goedendag, and Japanese tetsubo. Any flails and maces too large to be used one-handed can also be treated as morning stars. Morning stars impose a -1 penalty on initiative rolls.
 
@@ -504,6 +536,8 @@ If equipment the adventurers desire to purchase is not available, they may commi
 
 **Spear**: Wooden shafts, 6' to 8' in length, with metal heads designed for thrusting, spears are the main weapon of the common soldier. Spears can be used one- or two-handed. Historical examples include the Hoplite doru, the medieval winged spear, and the Japanese yari. Characters armed with spears can attack from the second rank in melee and inflict double damage when used in or against a charge.
 
+**Special Components, Miscellaneous:**   When a living thing dies, a residue of its soul will linger in some its component parts, such as organs and cellular fluids. These parts are known as special components and can be tapped by casters and ceremonialists to power their magic items. While the best results are gained from rare components that are unique to the spells or ceremonies imbued into the item, an equal value of miscellaneous special components such as spider webs, plant roots, crushed bones, and so on can be used instead if desired. The caster or ceremonialist suffers a -1 penalty on his throw per level of the spell or ceremony when using miscellaneous special components in magical research.
+
 **Spell Book (Blank)**: A spell book has 100 pages of parchment, and each spell takes up one page per spell level (one page each for 1st level spells). These books are used by arcane spellcasters to record the spells in their repertoire.
 
 **Staff**: A staff is a common weapon made from a stick of hardwood 4' to 6' long, and used two-handed. (If used one-handed, treat as a club.) Historical examples include the English quarterstaff, Japanese bo stick, and Chinese gun.
@@ -524,6 +558,18 @@ If equipment the adventurers desire to purchase is not available, they may commi
 
 **Townhouse**: A townhouse is a 30' square two-story building with a wooden floor and stairs and thatched roof. Wealthy yeomen, master craftsmen, merchants, and other professionals might live in such a dwelling.
 
+**<a name="traditional-implements"></a>Traditional Implements:** These are the various paraphernalia, fetishes, and accoutrements that a ceremonialist relies upon in his ceremonies. Traditional implements are rated in levels, and a ceremonialist must have implements of a level equal to or exceeding the level of the ceremony he is performing. Each type of ceremonial tradition has its own implements; the Traditional Implement table provides a list of items associated with the implements of various traditions. A ceremonialist cannot use implements of a tradition he does not know. All types of traditional implements have an encumbrance of 1 stone. Cost: 1st level, 25gp; 2nd level 100gp; 3rd level 225gp; 4th level 625gp; 5th level 1,225gp; 6th level 2,500gp.
+
+| Tradition | Implements
+| :-------- | :---------
+| Antiquarian|	athame, altar bell, bowl, candle set, herb bundle,  incense sticks, ritual chalice, small cauldron,  various crystals and stones, wand
+| Chthonic |	altar cloth, book, candle set, censer, chain, dagger, perfume casket, pitcher, quill and ink, ritual chalice, scourge, scrolls, unholy symbol, unholy water or oil
+| Liturgical |	altar cloth, book, candelabra, censer, holy water, holy symbol, font, ritual chalice, rosary, scented oil, serving plate, vestments
+| Runic |	rune set, rune-carving knife, various black and colored inks and pigments, various pieces of wood, stone, and precious metal
+| Sylvan |	animal clippings and parts, candle set, herb bundle, small cauldron,  various crystals and stones, wand
+| Shamanic |	animal clippings and parts, bell, drum, drum stick, doll, medicine bag, pipe, rattle, various ribbons,  various crystals and stones
+| Theurgical |	altar cloth, book, candle set, censer, ceremonial sword, crown, holy water, holy symbol, lamp, pitcher, quill and ink, ritual chalice
+
 **Troop Transport, Large**: This is a large sailing ship reinforced for war and modified to carry additional troops. It can carry 50 marines in addition to its normal complement of 20 sailors.
 
 **Troop Transport, Small**: This is a small sailing ship reinforced for war and modified to carry additional troops. It can carry 25 marines in addition to its normal complement of 12 sailors.
@@ -535,6 +581,8 @@ If equipment the adventurers desire to purchase is not available, they may commi
 **Waterskin/Wineskin**: This container, made of hide or preserved animal bladder, will hold 2 pints (1 quart) of fluid.
 
 **Whip**: This is a long, single-tailed whip of the sort used to herd cattle. Used as a weapon, it provides a +2 bonus to attack throws made to disarm or knock down opponents (as described in [Special Maneuvers](Chapter06.md#special-maneuvers) in Chapter 6).
+
+**Willow-Bark:** Willow-bark is an healing herb that relieves aches, pain, and rheumatism. A character with Healing proficiency can brew a tincture of willow-bark to relieve a patient of the initiative penalty from permanent wounds (e.g. “stiff and scarred wounds” and “lasting wounds that ache in bad weather”), from inability to force march due to permanent wounds (“damage to hips and lower back” “damage to knee,” “lungs and heart damaged”), or from the attack throw and damage roll penalty from force marching. Brewing the tincture takes 1 turn (10 minutes) and the relief lasts for 4 hours. Cost: 5gp
 
 **Wolfsbane**: Wolfsbane (dried aconite flowers) may drive off werewolves and other lycanthropes if a character strikes the monster in hand-to-hand combat with the sprig. If the lycanthrope fails a saving throw versus Poison, it must flee as if turned. A character who eats wolfsbane must make a saving throw versus Poison or die after one turn.
 
