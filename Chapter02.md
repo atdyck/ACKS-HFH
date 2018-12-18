@@ -929,7 +929,7 @@ When there are only a small number of players, the Judge may allow them to each 
 | 11-12 | Mercenary | Combat Reflexes, Bargaining | Weathered spear, well-oiled sword, 2 javelins, round wooden shield, slightly battered mail hauberk \[chain mail], armiger’s tunic and pants, low boots, backpack, tent, wool blanket, waterskin, 2 weeks' iron rations, 5gp  
 | 13-14 | Housecarl | Weapon Focus (axes), Endurance | Long bearded axe, francisca, 2 javelins, mail hauberk \[chain mail], armiger's tunic and pants, low boots, medium riding horse, riding saddle and tack, saddlebags, 1 week's iron rations
 | 15-16 | Wealthy freeholder | Manual of Arms, Riding | Spear, short sword, 5 javelins, shield, polished leather armor, armiger's tunic and pants, high boots, light riding horse, riding saddle and tack, saddlebags, 1 week iron rations, 10gp  
-| 17-18 | Unlanded Thegn | Command, Military Strategy | Spear, polished sword, colorful wooden shield, lamellar armor, armiger’s tunic, high boots, light riding horse, riding saddle and tack, saddlebags, 1 week’s iron rations
+| 17-18 | Unlanded Thegn | Command, Riding | Lance, polished sword, decorated wooden shield, lamellar armor, heavy helmet, armiger’s tunic, high boots, medium riding horse, riding saddle and tack, saddlebags, 1 week’s iron rations, 10gp
 
 Fighter Notes: The long bearded axe is a type of great axe. The francisca is a type of hand axe. A chain byrnie is equivalent to ring mail and a chain hauberk is equivalent to chain mail.
 
