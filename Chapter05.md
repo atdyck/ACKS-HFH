@@ -363,6 +363,17 @@ Characters with the Sensing Power proficiency will sense the spell signature of 
 
 ## Spell Index
 
+#### Angelic Choir
+
+| Range:    | 30'
+| :-------- | :------------
+| Divine    | 1
+| Duration: | 6 turns
+
+This spell creates an auditory illusion of choir music. The **angelic choir** can produce a volume of sound ranging from a soloist to an entire chorus of 64 singers of a variety of vocal types. The music can originate from any place in range. The melody, harmony, and volume of the **angelic choir** are controlled by the caster. Any lyrics will be impossible to precisely decipher, regardless of what language they are sung in. The **angelic choir** can continue for up to 1 hour (6 turns), but ceases immediately if the caster attacks or is attacked.
+**Angelic choir** is primarily used by priestesses to impress their congregants during benedictions and holy rites, but some adventurers hire priestesses to cast it from the rear ranks to ensure their epic adventures are accompanied by appropriately epic music.
+
+
 #### Animate Dead
 
 | Range:    | touch
@@ -393,6 +404,16 @@ This spell creates a personal barrier about the caster that stops any spell or s
 This spell removes the burden of unwilling evil acts or misdeeds from the subject. The creature seeking atonement must be truly repentant and desirous of setting right its misdeeds. Atonement may be cast to reverse magical alignment change. This complex spell takes 1 turn to cast.
 
 
+#### Auditory Illusion		
+
+| Range:    | 60’
+| :-------- | :---
+| Eldritch  | 1 (Grey)
+| Duration: | 1 turn
+
+This spell creates a false sound. The sound can be centered anywhere within range, and within that range the sound can fluctuate and move, imitating approaching or receding footsteps, laughter, voices, and other possibilities. The sound produced can be as loud as the noise produced by thirty man-sized creatures. The auditory illusion does not have to be human-like, but could be animal or monster sounds. The Judge should determine how much sound and how many individuals it might represent. For instance, the sounds of thirty humans might be approximately that of sixty children, or eight ogres. Creatures who hear the sound are allowed a saving throw versus Spells to realize that the effect is illusory, but only if they actively attempt to disbelieve.
+
+
 #### Augury
 
 | Range:    | self
@@ -402,6 +423,15 @@ This spell removes the burden of unwilling evil acts or misdeeds from the subjec
 
 An augury can tell the caster whether a particular action will bring good or bad results in the immediate future. The base chance for receiving a true reply is 70% + 1% per caster level; this roll is made secretly by the Judge. The augury can see into the future only 3 turns, so anything that might happen after that does not affect the result. Thus, the result will not take into account the long-term consequences of a contemplated action.
 
+
+#### Bane-rune
+
+| Range:    | touch
+| :-------- | :------------
+| Eldritch  | 1 (White)
+| Duration: | 1 turn
+
+By magically inscribing a baleful glyph onto the striking head of a weapon, this spell temporarily enhances it to the equivalent of a **magic weapon +2** against a particular type of creature or being, choosing from animals, beastmen, enchanted creatures, dragons, fantastic creatures (excluding dragons), giants, oozes, undead, and vermin. The caster must specify the type of creature affected. Weapons that are already enchanted gain an additional +2 against the type of creature while the spell is in effect. A single casting will effect 20 arrows, 2 one-handed weapons, or 1 two-handed weapon.
 
 #### Bless*
 
@@ -415,6 +445,45 @@ When cast before battle, bless gives the caster and his allies (within a 50' rad
 Divine spellcasters of 7th level or higher may also use bless to create holy water. One casting of bless will transform 1 pint of ordinary water into holy water. Casting bless in this manner demands a sacrifice to the caster's deity worth at least 10gp. Once created, holy water will retain its potency indefinitely so long as it is kept in the vial it was blessed in. See the [Equipment Descriptions](Chapter03.md#equipment-descriptions) in Chapter 3 for information on holy water.
 
 The reverse of bless is called bane. It fills the caster's enemies (within a 50' radius) with fear and doubt, causing each affected character or monster to suffer a -1 penalty on attack throws, damage rolls, morale rolls, and saving throws against magical fear. Bane may also be used by chaotic divine casters of 7th level or higher, in conjunction with a sacrifice of at least 10gp, to create a vial of unholy water. Unholy water has beneficial effects when used in the animation of the dead. See Animate Dead, above.
+
+
+#### Blinding Flash
+
+| Range: | 60’
+|:-------- | :---
+| Eldritch| 1 (Grey)
+| Duration: | 1 round per level
+
+When this spell is cast, a bright flash of light dazzles everything and everyone within a 10’ radius area. Creatures within the area of effect must make a saving throw versus Blast or be blinded for the duration of the spell.
+
+
+#### Call of the Wolf
+| Range: |	Special
+| :-------- | :---
+| Eldritch| 1 (White)
+| Duration:|	1 day
+
+This spell calls a wolf to the caster to serve as a companion (see the Monsters chapter of Adventurer Conqueror King System for details). When called, the wolf will travel to the caster’s destination at its wilderness movement rate. If the spell is cast in a wilderness hex of a wolf’s native terrain (woods, hills, or mountains), the wolf will take 1d6 turns to arrive. If the spell is cast in any other type of hex, the time to arrive is increased by 90 minutes (9 turns) per 6-mile hex between the caster’s hex and the nearest wilderness hex of native terrain. The time to arrival may be much shorter if the Judge has determined that a wolf den is nearby. If called while the caster is unreachable (deep in a dungeon, for example), the wolf will travel as close as it can to the caster and then wait in that vicinity. For the duration of the spell, the wolf will understand the spellcaster’s speech and serve as his loyal friend and companion. The spell persists until the wolf is slain, the spell is dispelled, or one day passes (at which time the wolf departs). If the spell is cast again when the wolf is about to depart, it will remain for another day.
+
+
+#### Call of the Wolf Pack
+|Range:|	Special
+| :-------- | :---
+| Eldritch| 2 (White)
+| Duration:|	1 day
+
+This spell calls a pack of wolves to the caster to serve as companions (see the Monsters chapter of Adventurer Conqueror King System for details). One wolf will respond to the call plus one additional wolf for every two levels of experience the caster possesses, rounded down. When called, the wolves will travel to the caster’s destination at their wilderness movement rate. If called in a wilderness hex of their native terrain (woods, hills, or mountains), the wolves will take 1d6 turns to arrive. If the spell is cast in any other type of hex, the time to arrive is increased by 90 minutes (9 turns) per 6-mile hex between the caster’s hex and the nearest wilderness hex of native terrain.  The time to arrival may be much shorter if the Judge has determined that a wolf den is nearby. If called while the caster is unreachable (deep in a dungeon, for example), the wolves will travel as close as it can to the caster and then wait in that vicinity. For the duration of the spell, the wolves will understand the spellcaster’s speech and serve as his loyal friends and companions. The spell persists until all the wolves are slain, the spell is dispelled, or one day passes (at which time the wolf departs). If the spell is cast again when the wolves are about to depart, they will remain for another day.
+
+
+#### Chameleon
+
+| Range:    | touch
+| :-------- | :------------
+| Arcane    | 1
+| Divine    | 2
+| Duration: | 1 turn per level
+
+This spell allows the character touched to blend into his surroundings to the point of becoming nearly invisible. The character gains a +8 bonus to any proficiency throws to hide in shadows. Characters affected by a **chameleon** spell can always hide in shadows with a throw of at least 12+. This spell is used to create **elven cloaks**.
 
 
 #### Charm Animal
@@ -447,6 +516,18 @@ This spell functions like charm person, except that the effect is not restricted
 This spell makes a humanoid creature regard the caster as its trusted friend and ally. Humanoid creatures include bugbears, dryads, dwarves, elves, gnolls, gnomes, goblins, hobgoblins, kobolds, lizardmen, men, mermen, morlocks, neanderthal, naiads, ogres, pixies, sprites, and troglodytes, and other man-like creatures no larger than an ogre and possessing 4 or fewer Hit Dice. Humans and demi-humans may be affected regardless of character level. A save versus Spells will negate the effect. If the target of the spell is currently being threatened or attacked by the caster or his or her allies, it receives a +5 bonus on its saving throw. The spell does not enable the caster to control the charmed creature as if it were an automaton; rather, it perceives his words and actions in the most favorable way. The caster can try to give the subject orders, but it will not do anything it wouldn't ordinarily do, and further may receive an additional saving throw to overcome the magic (at the Judge's discretion). The caster must speak the charmed creature's language to communicate any commands, or else be good at pantomiming; of course, if the caster is attacked, the charmed creature will act to protect its "friend" (though that could mean attacking the caster's enemies, or attempting to carry off the caster to a "safe" place). The charmed creature receives a new saving throw each day if it is has an Intelligence of 13 or greater, every week if its Intelligence is 9-12, or every month it its Intelligence is 8 or less. A charm may be removed by a dispel magic spell.
 
 
+#### Choking Grip		
+
+|Range:| 30’
+| :-------- | :---
+|Eldritch| 1 (Black)
+|Duration: |special
+
+This spell creates an invisible grip around the throat of the target creature. The target must make a saving throw versus Death. If the target’s saving throw succeeds, it resists the spell. If the target’s saving throw fails, it begins choking. A choking creature suffers 1d6 points of damage and cannot attack, cast spells, move, speak, or take any other action (although it can still defend itself).
+
+When the caster’s next initiative number comes up, if the caster maintains concentration on the spell, then the choking target must make another saving throw. On a successful save, the spell ends. On a failed save, the target continues choking. It suffers another 1d6 points of damage and still cannot take any action.  The choking grip lasts until dispelled, the caster stops concentrating upon it, or the target makes a successful saving throw and ends the spell.
+
+
 #### Clairvoyance
 
 | Range:    | 60'
@@ -465,6 +546,29 @@ This spell enables the caster to see into another area through the eyes of a liv
 | Duration: | 6 turns
 
 This spell creates a cloud of poison gas 30' in diameter that spreads out from the caster's fingertips. The cloud moves at a rate of 20' per round away from the caster. The poison gas is heavier than air and will sink down holes or slide downhill; it is broken up by trees or thick vegetation. Each round they are within the cloud, creatures of fewer than 5 Hit Dice or levels must save versus Poison or die, taking 1 point of damage even if the save is successful. Creatures having 5 or more Hit Dice or levels take 1 point of damage each round they are within the cloud. The cloud persists for the entire duration even if the caster ceases to concentrate upon it.
+
+
+#### Conjure Cacodemon Spawm
+|Range: |	240'
+| :-------- | :---
+|Eldritch| 1 (Black)
+| Duration: |	special (1 day)
+
+A portal to the Outer Darkness is opened, allowing the spellcaster to conjure a cacodemon spawn with 2 HD and two special abilities. Only one cacodemon spawn may be conjured by the caster in a given day. Once the cacodemon spawn appears, it serves the caster for up to one full day, provided that the caster concentrates on nothing but controlling the creature. Spell casting, combat, or movement over half the normal rate results in loss of concentration. The caster, while in control of the cacodemon spawn, can dismiss it to its native sphere at will (doing so on his Initiative if in combat). If the caster loses concentration, control of the conjured cacodemon spawn is lost and cannot be regained. The creature then seeks to attack the caster and all others in its path. Only dispel magic or dispel evil will banish the cacodemon spawn once control has been lost. An uncontrolled cacodemon spawn may, of course, choose to return to its home sphere on its own; such creatures will never choose to remain away from their sphere of existence for long.
+
+Cacodemons are highly variable in form and abilities. The first time this spell is cast, the caster should choose the form of the cacodemon spawn conjured, while the Judge should roll or choose its special abilities. The cacodemon spawn should then be assigned a name for later reference. Thereafter, the caster can choose to conjure any named spawn he has previously conjured and safely dispelled, or conjure a new spawn with a different form and special abilities. See the Cacodemon entry in the Heroic Monsters chapter for statistics for more information.
+
+>EXAMPLE: The first time Ra-Ramses conjures a cacodemon spawn, he selects the monadine form. The Judge determines it has the special abilities of swallow attack and grab and assigns it the name Ixubix the Enveloping Horror. Ra-Ramses uses Ixubix to envelop and dissolve a rival for power in the local temple, then dismisses it. Because he safely dismissed Ixubix, he can conjure it again in the future. The second time Ra-Ramses conjures a spawn, he can conjure either Ixubix or a new spawn. He chooses to conjure Ixubix. Unfortunately, on this casting Ixubix is slain in combat. Because Ixubix was slain rather than safely dispelled, Ra-Ramses cannot conjure it again.
+
+
+#### Counterspell		
+
+|Range:| 120’
+| :-------- | :---
+|Eldritch| 1 (White)
+|Duration:| instantaneous
+
+The caster can use counterspell to dispel a single ongoing spell that has been cast on a creature or object within range. If counterspell is used on a hostile creature, or on an object held by a hostile creature, the creature can ignore the counterspell with a successful saving throw versus Spells. Otherwise, one spell or effect cast by a character of equal or lower level than the counterspell caster's level is ended automatically. (If the creature or object is affected by multiple spells or effects, roll randomly to determine which one is cancelled.) Spells or effects created by higher level casters might not be canceled; there is a 5% chance the counterspell will fail for each level the spell or effect exceeds the caster level. For example, a 10th level caster counterspelling magic created by a 14th level caster has a 20% chance of failure. Some spells cannot be ended by counterspell; this specifically includes any magical disease, geas, quest, petrification from a flesh to stone spell, and any curse, including those created by bestow curse (the reverse of remove curse) as well as by cursed items.
 
 
 #### Command Word
@@ -619,6 +723,24 @@ This spell summons forth an enchanted spring from the ground or wall that will p
 With this spell the caster can cure a creature suffering blindness (whether caused by injury or by magic, including light or continual light). Blindness caused by a curse cannot be cured by this spell.
 
 
+#### Cure Critical Wounds*
+
+|Range:| touch
+| :-------- | :---
+|Eldritch| 5 (White)
+|Duration:| instantaneous
+
+The caster heals the creature touched. The creature instantly regains hit points as if it had rested for five days. The spell may also be used to cure paralysis, but does not then cure any points of damage. The spell will never increase a creature’s hit points beyond the normal amount.
+
+>EXAMPLE: Marcus has 42 hp. According to the Base Healing Rate table, he will recover 2d6 hp per day of rest.  He has recently been mauled by an ogre, and has taken 37 points of damage, reducing him to 5 hp. Balbus, a 14th level caster, casts cure critical wounds on Marcus. Marcus recovers as if he had rested for five days. Marcus rolls 5 x 2d6 or 10d6, and recovers 38 hp. That’s more than the damage he suffered, so he is restored to his full 42 hp.
+
+The reverse, cause critical wounds, damages the creature touched. The creature instantly loses a number of hit points equal to the amount it might have gained for an equivalent amount of healing, e.g. five days rest. The reversed spell can decrease  a creature’s hit points below zero.
+
+>EXAMPLE: Ra-Ramses, a 9th level caster, casts cause critical wounds on Marcus. He succeeds on the required attack throw to touch Marcus. Marcus immediately loses hit points equal in number to the amount he might have recovered had he rested for five days. Since Marcus’s Base Healing Rate is 2d6, Ra-Ramses rolls 5 x 2d6 or 10d6, and the result of the dice is 47. Marcus loses 47 hp, reducing him to -5. A critical wound indeed!
+
+Undead are affected by this spell and its reverse in opposite fashion; they are injured by cure critical wounds and healed by cause critical wounds.
+
+
 #### Cure Disease*
 
 | Range:    | touch
@@ -633,26 +755,47 @@ The reverse of this spell, cause disease, infects the target with a horrific was
 
 #### Cure Light Wounds*
 
-| Range:    | touch
-| :-------- | :------------
-| Divine    | 1
-| Duration: | instantaneous
+|Range:|	touch
+|:-------- | :---
+|Eldritch| 1
+|Duration:| instantaneous
 
-With this spell the caster heals 1d6+1 points of damage by laying his hand upon the injured creature. This spell may also be used to cure paralysis, but does not then cure any points of damage. The spell will never increase a creature's hit points beyond the normal amount.
+This spell works exactly like cure critical wounds, save that the creature touched regains hit points equal to its Base Healing Rate, as if it had rested for one day. The reverse, cause light wounds, also works exactly like cause critical wounds, except that the creature touched loses hit points equal to its Base Healing Rate, the amount it would have gained had it rested for one day.
 
-The reverse form of this spell, cause light wounds, causes 1d6+1 damage to the creature affected by it. A successful attack throw is required in this case.
+>EXAMPLE: Had Balbus cast cure light wounds, Marcus would have recovered 2d6 hp.
 
-Undead are affected by this spell and its reverse in opposite fashion; they are injured by cure light wounds and healed by cause light wounds.
+
+#### Cure Major Wounds*
+|Range:| touch
+|:-------- | :---
+|Eldritch| 3 (White)		
+|Duration: |instantaneous
+
+This spell works exactly like cure critical wounds, save that the creature touched regains hit points as if it had rested for three days. The reverse, cause major wounds, also works exactly like cause critical wounds, except that the creature touched loses hit points equal to the amount it would have gained had it rested for three days.
+
+>EXAMPLE: Had Balbus cast cure major wounds, Marcus would have recovered 6d6 hp.
+
+
+#### Cure Moderate Wounds*
+|Range:| touch
+|:-------- | :---
+|Eldritch| 2 (White)		
+|Duration:| instantaneous
+
+This spell works exactly like cure critical wounds, save that the creature touched regains hit points equal to twice its Base Healing Rate, as if it had rested for two days. The reverse, cause moderate wounds, also works exactly like cause critical wounds, except that the creature touched loses hit points equal to twice its Base Healing Rate, the amount it would have gained had it rested for two days.
+
+>EXAMPLE: Had Balbus cast cure moderate wounds, Marcus would have recovered 4d6 hp.
 
 
 #### Cure Serious Wounds*
+|Range:	|touch
+|:-------- | :---
+|Divine| 4	(White)		
+|Duration: |instantaneous
 
-| Range:    | touch
-| :-------- | :------------
-| Divine    | 4
-| Duration: | instantaneous
+This spell works exactly like cure critical wounds, save that the creature touched regains hit points as if it had rested for four days. The reverse, cause serious wounds, also works exactly like cause critical wounds, except that the creature touched loses hit points equal to the amount it would have gained had it rested for four days
 
-This spell works exactly like cure light wounds, save that it heals 2d6 points of damage, plus 1 point per caster level. The reverse, cause serious wounds, also works exactly like cause light wounds, except that it inflicts 2d6 + caster level in damage.
+>EXAMPLE: Had Balbus cast cure serious wounds, Marcus would have recovered 8d6 hp.
 
 
 #### Death Spell
@@ -665,6 +808,17 @@ This spell works exactly like cure light wounds, save that it heals 2d6 points o
 This spell will kill a total of 4d8 Hit Dice of creatures in a 30' radius sphere centered wherever the caster wishes (within the range limit). If there are more Hit Dice of creatures present than the spell can kill, the death spell will slay the weakest creatures first. Hit dice that are not sufficient to affect a creature are wasted. Each creature affected is allowed a saving throw versus Death; those that fail the save die immediately. Creatures of 8 or more Hit Dice or levels are immune to the spell, as are undead monsters, golems, and any other creature that is not truly alive.
 
 
+#### Delay Disease
+
+| Range:    | touch
+| :-------- | :------------
+| Divine    | 1
+| Duration: | 24 hours
+
+This spell temporarily staves off the ravages of most types of disease. It will affect acute illnesses such as flu; chronic diseases such as consumption or leprosy; the infection caused by giant rats; the necrosis caused by green slime and rot grubs; the lycanthropy caused by werecreatures; and even the rotting disease caused by a dragon’s fetid breath. The spell will temporarily halt the incubation of a disease that has not yet become symptomatic, and ameliorate the symptoms of an existing disease, but it will not reverse any damage already caused by the disease. For example, it would allow a character bedridden by a giant rat’s infection to move and fight normally, and would prevent further loss of ability scores to a dragon’s fetid breath for a day, but it would not undo ability score loss already suffered, or restore a finger destroyed by leprosy. Unless the disease is cured, its progress will resume as soon as the spell’s duration ends.
+
+
+
 #### Delay Poison
 
 | Range:    | touch
@@ -673,6 +827,15 @@ This spell will kill a total of 4d8 Hit Dice of creatures in a 30' radius sphere
 | Duration: | 1 turn per level
 
 The subject becomes temporarily immune to poison. Any poison in its system or any poison to which it is exposed during the spell's duration does not affect the subject until the spell's duration has expired. Unless cured, saving throws and damage as appropriate are rolled once the spell ends. Delay poison does not cure any damage that poison may have already done. However, if the spell is cast on a subject who has recently died from poison, within 1 turn per caster level, life is restored until the spell duration ends. A revived character will have 1 hp for the duration of the spell, but if the spell ends prior to the poison being cured, the subject dies again.
+
+
+#### Destroy Dead
+|Range:| 150’
+| :-------- | :---
+|Eldritch| 1 (Black)
+|Duration:| Instantaneous
+
+This spell can destroy the bones or body of a single undead skeleton or zombie of 8 Hit Dice or less within range. If the target fails a saving throw versus Death, it immediately crumbles to dust. If cast on an unanimated skeleton or cadaver, the skeleton or cadaver crumbles to dust without a saving throw. The spell has no effect on living creatures or on undead other than skeletons and zombies.
 
 
 #### Detect Evil*
@@ -756,6 +919,15 @@ If dispel magic is targeted at a creature, all spells and spell-like effects (in
 Some spells cannot be ended by dispel magic; this specifically includes any magical disease, geas, quest, petrification from a flesh to stone spell, and any curse, including those created by bestow curse (the reverse of remove curse) as well as by cursed items.
 
 
+#### Display of Power
+|Range:|	self
+|:-------- | :---
+|Eldritch| 1 (Grey)
+|Duration:|	6 turns
+
+The caster summons forth his magical power in a display that leaves none in doubt as to his magical capacity. The exact effect will depend on the caster’s spell signature. For the duration of the spell, the caster gains a +2 bonus to reaction rolls with creatures he encounters. (This bonus stacks with any bonuses provided by the caster’s ability scores, class, and proficiencies.) If this bonus results in a total of 12 or more, the subjects act as if charmed while in his presence.
+
+
 #### Divination
 
 | Range:    | self
@@ -776,6 +948,15 @@ Similar to augury but more powerful, a divination spell can provide the caster w
 This spell permits the caster to detect the surface thoughts of one or more targets within range. The caster must designate a direction, and then concentrate for a turn in order to "hear" the thoughts. Each turn the caster may choose to "listen" in a different direction. The caster may stop listening, then resume again later, so long as the duration has not expired. A creature's thoughts are understood regardless of the language. The target creature is not normally aware of being spied upon in this way. If it is aware, it may make a saving throw versus Spells to clear its thoughts and avoid detection.
 
 Rock more than 2 inches thick or a thin coating of lead or gold will block the spell. All undead creatures are immune to this effect, as are mindless creatures such as golems.
+
+
+#### Ensorcellement		
+|Range:| 30’
+|:-------- | :---
+|Eldritch| 1 (Grey)
+|Duration:| 12 rounds
+
+By means of this spell, the caster can mesmerize a humanoid creature of up to 4+1 HD. The target creature must make a saving throw versus Spells. If the save succeeds, the spell has no effect. If the save fails, the target creature is mesmerized. A mesmerized creature cannot attack, cast spells, move, or speak, and gains no benefit to its AC from its DEX or shield (if any). It can be ambushed or backstabbed by creatures capable of doing so. All attack throws against mesmerized creatures gain a +2 bonus, or a +4 bonus if the attacker ambushes or backstabs the mesmerized creature. The mesmerized creature is dealt the attack’s ordinary damage, or the attack’s ordinary damage multiplied by two or more from ambush or backstab. The ensorcellement ends only when the creature is slain, the effect is dispelled, or the duration expires.
 
 
 #### Faerie Fire
@@ -883,6 +1064,15 @@ The disc floats level to the ground, at about the height of the caster's waist. 
 | Duration: | 1 turn per level
 
 The subject of this spell can fly in any direction at a speed of up to 120' per round (360' per turn). Flying under the effect of this spell requires only as much concentration as walking, so the subject can attack or cast spells normally. The subject of a fly spell cannot carry aloft more weight than his maximum load. If a fly spell is dispelled, the subject will plummet from the air.
+
+
+#### Frighten Beasts
+|Range:| 60’
+| :-------- | :---
+|Eldritch| 1 (Black)
+|Duration:| 30 rounds
+
+This spell can frighten one or more animals (including giant animals) within range. Up to 6 HD of animals can be affected. Animals with the fewest HD are affected first. Affected animals become frightened. A frightened animal cannot attack, cast spells, or speak (except to bay, howl, or yip in fear). A frightened animal will run from the source of its fear at its full movement rate for the duration of the spell. If a frightened animal cannot flee, its cower in terror. An engaged animal that is frightened will cower in terror until it is able to disengage with defensive movement. It suffers a -2 penalty to AC and cannot attack, cast spells, move, or take any other actions until the condition ends. Intelligent animals may make a saving throw versus Spells to resist the spell.
 
 
 #### Geas*
@@ -1017,6 +1207,78 @@ This spell magically holds shut a door, gate, window, or shutter of wood, metal,
 This spell is intoned continuously, bringing about supernatural intervention centered on the divine spellcaster and affecting any party members within a 30' radius of the caster. All attack throws, damage rolls, and saving throws are made with a +1 bonus. Likewise, all of the rolls attempted by enemies suffer a -1 penalty. This effect continues so long as the caster does not move and focuses only on chanting. However, if he is successfully attacked and dealt damage, or otherwise physically distracted, the spell ends. The spell silence 15' radius also negates the spell.
 
 
+#### Hypnotism
+|Range:| 15’
+|:-------- | :---
+|Eldritch |1 (Grey)
+|		Duration:| 1 round per level
+
+By means of mesmerizing gestures and droning incantations, the caster can hypnotize 1d4 living creatures in range. Creatures with fewest HD are affected first. Affected creatures may resist the spell with a saving throw versus Spells. Hypnotized creatures can be given a one sentence suggestion, which they will carry out to the best of their ability. The suggestion must be worded in such a manner as to make the activity sound reasonable. Asking the creature to do some obviously harmful act automatically negates the effect of the spell. However, a target may be led to believe that an action is not harmful; for instance, a creature might be told to drink a poisonous potion by suggesting the potion is actually beneficial. Each hypnotized creature will continue carrying out the suggestion until the activity is complete or the duration expires, whichever comes first. Note that the caster must be able to speak the language of the creatures or otherwise communicate effectively in order to issue suggestions.
+
+
+#### Ice Floe
+|Range:| touch
+|:-------- | :---
+|Eldritch |1 (Grey)
+|Duration:| 8 hours
+
+This spell instantly freezes a portion of a body of water that the caster touches, creating a flat pack of ice that floats on the remaining water. The ice floe created by the spell may be up to 10’ long and 10’ wide and up to 1’ thick, for a total volume of up to 100 cubic feet. The ice floe’s length, width, and thickness cannot exceed the length, width, and depth of the body of water from which it is created. It cannot be evoked so that it appears where objects or creatures already are. The water inside a living creature cannot be turned into an ice floe, no matter how large the creature is.
+
+As ice is less dense than water, the top of the ice floe will be about 10% higher than the surface of the water. A typical 1’ thick ice floe will stick up about 1.25” above the water. The ice floe can support up to 5lbs of creatures or objects per cubic foot while remaining afloat, but any additional weight will cause the ice floe to sink below the surface of the water. If the caster concentrates while touching the ice floe, he can magically move it across the water at an encounter movement rate of 20’ per turn.
+
+The ice floe is only as resilient as any other large block of frozen water. It counts as a structure with AC 2 and 5 shp. Man-sized creatures, large creatures, and light ballista cannot deal damage to the ice floe. Huge creatures, non-magical fire, and magic can deal 1/5th damage. Artillery, gigantic creatures, and magical fire can deal full damage.
+
+When an ice floe is created in above-freezing temperatures, it will melt after 8 hours. Dispel magic will instantly melt an ice floe in above-freezing temperatures. Otherwise when the spell expires or is dispelled, the caster loses the ability to magically move the ice floe, but it does not melt until temperatures rise. (That is to say, the ice doesn’t magically heat up!)
+
+
+#### Illumination*
+|	Range:|	120'
+|:-------- | :---
+|Eldritch| 1
+|Duration:|	6 turns plus 1 turn per level
+
+This spell creates a spherical region of light around the target location or object. The illumination extends out to 30’ with the luminosity of torchlight, and sheds dim light for an additional 30’ beyond that. The effect is immobile if cast into an area, but it can be cast on a movable object.
+
+Reversed, illumination becomes tenebrosity, creating a tenebrous area of darkness. The tenebrosity is as dark as a moonless night out to 30’ and as dark as a moonlit night for an additional 30’ beyond that. The tenebrosity also blocks out infravision and negates mundane light sources out to 30’.
+
+Sometimes the effects of illumination and tenebrosity may come into conflict. For instance, an illuminated object might be carried into a tenebrous area, or a tenebrosity spell might be cast in an illuminated area. In either case, the level of the respective spellcasters determines the result. If the caster of illumination is 3 or more caster levels higher than the caster of tenebrosity, then the tenebrosity is extinguished. If the caster of tenebrosity is 3 or more caster levels higher than the caster of illumination, then the illumination is extinguished. In any other case, both spells are extinguished, restoring the existing ambient light level.  
+
+#### Illumination, Continual*
+|	Range:|	360'
+|:-------- | :---
+|Eldritch |2
+|	Duration:|	special
+
+This spell creates a spherical region of bright light around a target location or object. The continual illumination extends out to 30' with the luminosity of full daylight, an additional 30’ more with the luminosity of torchlight, and sheds dim light for an additional 30’ beyond that.. The effect is immobile if cast into an area, but it can be cast on a movable object.
+
+Reversed, continual illumination becomes continual tenebrosity, creating a tenebrous area of pitch darkness.  The continual tenebrosity is pitch dark out to 30’, as dark as a moonless night for another 30’, and as dark as a moonlit night for an additional 30’ beyond that. The darkness blocks out infravision and negates mundane light sources out to 60’.
+
+If an illuminated object enters the area of effect of continual tenebrosity, or a tenebrous object enters the area of effect of continual illumination, the lesser spell is immediately extinguished.
+
+Sometimes the effects of continual illumination and continual tenebrosity may come into conflict. If so, the level of the respective spellcasters determines the result. If the caster of continual illumination is 3 or more caster levels higher than the caster of continual tenebrosity, then the continual tenebrosity is suppressed within the tenebrous area. If the caster of continual tenebrosity is 3 or more caster levels higher, then the continual illumination is suppressed within the illuminated area. In any other case, both spells are suppressed, restoring the existing ambient light level.  
+
+Continual illumination and continual tenebrosity are not permanent effects, but are instead effects that are indefinitely sustained by the caster without need for concentration. A caster may indefinitely sustain one continual illumination or continual tenebrosity spell per level of experience. A truly permanent effect requires a permanency ritual or magic item.
+
+
+#### Incite Madness		
+|Range:| 60’
+|:-------- | :---
+|Eldritch| 1 (Black)
+|Duration:| permanent
+
+This spell can afflict a living creature in range with a terrible madness. The target creature must make a saving throw versus Spells. If the save succeeds, the spell has no effect. If the save fails, the target becomes insane.  The insane creature rolls 2d6 on the following table on its initiative number each round to determine its actions:
+
+|2d6|	Behavior
+|:-------- | :---
+|2–5|	Attack the caster or allies with melee or ranged weapons (or move closer if attack is not possible).
+|6–8|	Do nothing but babble incoherently.
+|9–12|	Attack the creature’s own party, if any.
+
+Attackers are not at any special advantage when attacking the insane creature. Any insane creature who is attacked automatically retaliates on its next initiative, as long as it is still confused when its initiative comes. An insane creature which is restrained, imprisoned, alone, or otherwise can’t carry out the indicated action does nothing but babble incoherently.
+
+Insanity is permanent until the effects are extinguished with dispel, cure disease, or remove curse.
+
+
 #### Infravision
 
 | Range:    | touch
@@ -1025,6 +1287,17 @@ This spell is intoned continuously, bringing about supernatural intervention cen
 | Duration: | 1 day
 
 The subject is able to see in the dark to a distance of 60' for the duration of the spell.
+
+
+#### Infuriate Person		
+|Range:| 60’
+|:-------- | :---
+|Eldritch| 1 (Black)
+|Duration:| 12  rounds
+
+This spell can enrage a humanoid creature within range. Humanoid creatures include bugbears, dryads, dwarves, elves, gnolls, gnomes, goblins, hobgoblins, kobolds, lizardmen, men, mermen, morlocks, neanderthals, naiads, ogres, pixies, sprites, and troglodytes, and other man-like creatures no larger than an ogre and possessing 4+1 or fewer Hit Dice. Humans and demi-humans may be affected regardless of character level. The target creature must make a saving throw versus Spells. If the save succeeds, the creature resists the spell. If the save fails, the creature become infuriated.
+ 
+Each round, an infuriated creature will attack any creatures it can detect. It will prioritize attacking whichever creature has most recently damaged it, but otherwise will attack the closest target. If the creature has no eligible targets, it will wait motionless in seething fury until a target presents itself. An infuriated creature gains a +2 bonus to its attack throws but suffers a -2 penalty to its AC due to its mindless rage. It cannot talk, retreat, or use spells or spell-like magic items. It is immune to fear and ignores morale. The creature remains infuriated until the spell ends or the effect is dispelled. However, if an infuriated creature ever finds itself about to attack its own spouse or child, the creature may immediately make an additional saving throw at +5, with a successful save ending the effect.
 
 
 #### Insect Plague
@@ -1071,6 +1344,27 @@ Those affected by this spell can see each other and themselves as if unaffected 
 | Duration: | special
 
 The caster summons an [invisible stalker](Chapter08.md#invisible-stalker) to do his bidding (see the Monsters chapter for details), which appears anywhere within range. The spell persists until dispel evil is cast on the creature, it is slain, or the task is fulfilled. The Judge is advised to review the monster entry for the invisible stalker when this spell is used, as they may not always be reliable servants.
+
+
+#### Jump
+
+| Range:    | touch
+| :-------- | :------------
+| Arcane    | 1
+| Duration: | 3 turns
+
+The recipient of this spell gains the ability to leap in great bounds. The recipient may leap 10' vertically and 30' horizontally from a standing start. This prodigious jumping ability grants the recipient a +10 bonus on Acrobatics throws. Because of his light step, the recipient needs no rest if engaged in ordinary movement. This spell is used to create **boots of traveling and springing**.
+
+
+#### Kindle Flame*
+|Range:| 15’
+|:-------- | :---
+|Eldritch |1 (Grey)
+|Duration:| instantaneous
+
+By means of this spell, the caster can cause one or more readily flammable objects within range to burst into flame, even if the object or objects are wet. Readily flammable objects include bits of kindling, sticks of wood, clothing, hair, and cloth, but not flesh. All of the affected objects must be within a single 5’ diameter sphere. The caster can select which objects within the spell’s area of effect are ignited. In most cases this spell is used to light campfires in adverse weather, etc. If the spell is used to attack (to set a foe’s clothes on fire, for example), the target receives a saving throw versus Blast to avoid the effect. If it fails, the target suffers 1d8 points of damage each round until the flames go out. It takes one full round of rolling on the ground or being immersed in water to extinguish the flames. Unless the object ignited is quite large, the flames burn out naturally in 1d4+1 rounds.
+
+The reverse of this spell, Quench Flame, instantly extinguishes the fire on one or more objects within range. All of the affected objects must be within a single 5’ diameter sphere.
 
 
 #### Knock
@@ -1122,6 +1416,19 @@ Either version of this spell may be used to blind an opponent by means of castin
 The caster releases a powerful stroke of electrical energy that is 60' long. The lightning bolt passes through an area 5' wide, arcing and jumping, so that, while it is not actually 5' wide, for game purposes treat it as if it is so. It deals 1d6 points of electricity damage per caster level to each creature within its area. Any creature caught in the area of effect receives a saving throw versus Blast. A successful save reduces damage by half.
 
 The lightning bolt sets fire to combustibles and damages objects in its path. It can melt metals with a low melting point, such as lead, gold, copper, silver, or bronze. If the damage caused to an interposing barrier shatters or breaks through it, the bolt may continue beyond the barrier if the spell's range permits; otherwise, it may reflect from the barrier back toward the caster, or in a random direction at the Judge's option. Creatures already affected by the lightning bolt do not take additional damage if struck by the reflection of the same bolt.
+
+
+#### Locate Animal or Plant
+
+| Range:    | 120'
+| :-------- | :------------
+| Divine    | 1
+| Duration: | 6 turns
+
+This spell reveals the direction to the closest specimen of a particular type of animal or plant within range. The spellcaster must name the specific type of animal or plant he wishes to locate. If no specimens of the desired type of animal or plant are within range, the caster will learn that instead. 
+
+If a specimen comes into range later in the duration of the spell, either because the caster moved or the specimen did, the caster will learn the direction at that time. The spell will locate normal or giant-sized animals, but not intelligent creatures, fantastic creatures such as owlbears or wyverns, or plant-like monsters. The animal or plant gets no saving throw. This spell is most often used to find special rare plants; a character using this spell receives a +4 bonus on Naturalism proficiency throws to locate poisonous plants.
+
 
 
 #### Locate Object
@@ -1241,6 +1548,16 @@ This spell detoxifies any sort of venom in the creature or object touched. A poi
 Reversed, this spell becomes poison. The caster must make a successful attack throw; if the attack is a success, the target must save versus Poison or die. The caster's touch remains poisonous for 1 round per level of ability, or until discharged (i.e. only one creature can be affected by the reversed spell).
 
 
+#### Pass Without Trace
+
+| Range:    | touch
+| :-------- | :------------
+| Divine    | 1
+| Duration: | 1 turn per level
+
+The recipient of this spell may move without leaving any trace of his passage. The affected creature could, for example, walk across fresh snow without leaving prints, or pass through brush without breaking twigs. However, **detect magic** or **true seeing** cast within three turns will reveal the recipient’s passage.
+
+
 #### Passwall
 
 | Range:    | 30'
@@ -1299,6 +1616,16 @@ The caster can remain transformed for the full duration of the spell, or may cho
 | Duration: | 1 round per level
 
 By means of a prayer spell, the divine spellcaster brings great favor upon himself and his party, and causes harm to his enemies. Once the prayer spell is cast, all attack throws, damage rolls, and saving throws made by those in range who are friendly to the caster are at +1, while those of the cleric's enemies are at -1. The prayer spell does not require the caster to concentrate once cast.
+
+
+#### Predict Weather
+
+| Range:    | 1 mile per level
+| :-------- | :------------
+| Divine    | 1
+| Duration: | 12 hours
+
+Using this spell, the caster can accurately predict the weather within range of the spell over the period of the next 12 hours. The spell provides no ability to control the weather, merely foreknowledge of what is coming.
 
 
 #### Projected Image
@@ -1487,6 +1814,16 @@ This abjuration grants a creature temporary immunity to cold. Minor cold (such a
 This abjuration grants a creature temporary immunity to fire and heat. Minor heat or fire (such as exposure to normal flames) is ignored by the subject creature. Against more significant heat or fire (such as a fireball), the subject creature gains a bonus of +2 on saving throws, and all damage from such attacks is reduced by -1 point per die of damage rolled. Any fire attacks will still inflict at least 1 point of damage per die rolled, however.
 
 
+#### Salving Rest
+
+| Range:    | touch
+| :-------- | :------------
+| Divine    | 1
+| Duration: | special
+
+This spell allows its subject to enjoy soothing, peaceful sleep, free of pain and sorrow, whenever he slumbers. As a result of this **salving rest**, the subject of the spell will heals an extra 1d3 hit points during each day of complete rest. The spell ends when the subject stops completely resting or if he takes any damage.
+
+
 #### Sanctuary
 
 | Range:    | touch
@@ -1495,6 +1832,27 @@ This abjuration grants a creature temporary immunity to fire and heat. Minor hea
 | Duration: | 2 rounds plus 1 round per level
 
 Any opponent attempting to strike or otherwise directly attack the warded creature must attempt a saving throw versus Spells. If the save succeeds, the opponent can attack normally and is unaffected by that casting of the spell. If the save fails, the opponent will not attack the warded creature and will attack another creature instead. However, area effects (e.g. fireball) may still affect the warded creature. The warder creature may not make offensive actions while this spell is in effect, but he may cast non-offensive spells to help companions.
+
+
+#### Sharpness
+
+| Range:    | touch
+| :-------- | :------------
+| Arcane    | 1
+| Duration: | 3 turns
+
+When cast on the blade of an edged or pointed weapon, this spell temporarily enhances it to the equivalent of a **magic weapon +1**. Weapons that are already enchanted gain an additional +1 while the spell is in effect. A single casting will affect 20 arrows, 2 one-handed weapons, or one two-handed weapon. This spell is used to create **oil of sharpness**.
+
+
+#### Shatter Blade
+|	Range:| 30’
+|:-------- | :---
+|Eldritch| 1 (Grey)
+|		Duration:| instantaneous
+
+By means of this spell, the caster destroys a single weapon, causing its blade to shatter or melt away into smoke. If the weapon is held by a creature, the wielder may make a saving throw versus Death to resist the effect, adding the weapon’s magic bonus (if any) to the die roll. In any case, the spell causes no harm to the creature holding the weapon (except for depriving him of it).
+
+A caster of 6th level or higher may shatter two weapons, while a caster of 11th level of higher may shatter three weapons. The weapons may be held by the same creature or by different creatures within range. Each weapon saves separately in any case.
 
 
 #### Shield
@@ -1516,7 +1874,7 @@ Shield creates an invisible, shield-like mobile disk of force that hovers in fro
 
 This spell surrounds the bladedancer with a shimmering aura. The aura provides a bonus of +2 to all saving throws. Attack throws against the bladedancer are at -2.
 
-Silence 15' Radius
+#### Silence 15' Radius
 
 | Range:    | 180'
 | :-------- | :------------
@@ -1524,6 +1882,18 @@ Silence 15' Radius
 | Duration: | 12 turns
 
 Upon the casting of this spell, complete silence prevails within a 15' radius around the target. All sound is stopped: Conversation is impossible, spells cannot be cast, and no noise whatsoever issues from, enters, or passes through the area. The spell can be cast on a point in space, making the effect stationary, or it may be cast on a mobile object. The spell can be centered on a creature, and the effect then radiates from the creature and moves as it moves. An unwilling creature receives a save versus Spells to negate the spell. If an item in another creature's possession is targeted, that creature also receives a save versus Spells to negate. This spell provides a defense against sonic or language-based attacks or spells.
+
+
+#### Silent Step
+
+| Range:    | touch
+| :-------- | :------------
+| Arcane    | 1
+| Divine    | 2
+| Duration: | 1 turn per level
+
+This spell allows the character touched to move almost noiselessly. The character gains a +8 bonus to any proficiency throws to move silently. Characters affected by a **silent step** spell can always move silently with a throw of at least 12+. This spell is used to create **elven boots**.
+
 
 
 #### Sleep
@@ -1536,6 +1906,62 @@ Upon the casting of this spell, complete silence prevails within a 15' radius ar
 With a sleep spell, the caster may attempt to put creatures into a magical slumber. All creatures to be affected must be visible and within range of the spell. The caster may choose to target 1 specific creature of 4+1 HD or less, or a group of up to 2d8 HD of creatures of 4 HD or less. Calculate monsters with less than 1 HD as having 1 HD, and monsters with a bonus to HD as having the flat amount. For example, a 3+2 HD monster would be calculated as having 3 HD. Hit Die that are not sufficient to affect a creature are wasted. Creatures with the fewest HD are affected first. Creatures with more than 4+1 HD cannot be affected at all.
 
 Sleeping creatures are helpless and can be killed in one round by unengaged opponents. Slapping or wounding awakens an affected creature, but normal noise does not. Sleep does not affect creatures that are already unconscious or undead, constructs, oozes, and other creatures that do not rest.
+
+
+#### Slicing Blow
+|Range:|	30’
+|:-------- | :---
+|Eldritch| 1 (Black)
+|Duration:|	instantaneous
+
+This spell allows the caster to necromantically inflict a vicious cut on a target creature within range. The spellcaster must make a successful attack throw against the creature. If he hits, the slicing blow deals 1d10 points of damage with no saving throw.
+
+At 3rd level, and every two levels thereafter (5th, 7th, 9th, 11th, and 13th level), the caster gains the ability to inflict an additional slicing blow. The caster’s slicing blows can all strike at one target or can strike at different targets, as desired; roll a separate attack throw for each slicing blow.
+
+
+
+#### Sling Stone
+|Range:| 180’
+|:-------- | :---
+|Eldritch| 1 (Grey)
+|Duration:| instantaneous
+
+By means of this spell, the caster magically slings one or more small objects at targets within range. The caster can sling up to one object per level of experience. The objects scan be slung at one target or distributed across several targets, as desired. The spellcaster must make a successful attack throw with each object. Each object that successfully hits deals 1d4 points of damage to its target.
+
+To be slung by this spell, an object must be either in the caster’s hands or lying on the ground within 5’; must be made of clay, stone, or metal; and must weigh no more than 8 ounces. Most casters will carry a pouch of sling stones or bullets for use with this spell, but if necessary, a caster may resort to slinging objects that are littering the ground nearby. The Judge may randomly determine how many eligible objects are nearby based on the caster’s environment by rolling on the adjoining table.
+
+| Environment |	No. of Objects
+|:-------- | :---
+| Room, Rubbled	| 2d10
+| Room, Cluttered	| 1d10
+| Room, Sparse	| 1d6
+| Room, Empty	| 1d6-3
+| Barren/Desert/Mountains	| 1d10
+| Hills/Jungle/Scrub/Woods	| 1d6
+| Clear/Grass/Swamp	| 1d3
+
+
+#### Slipperiness
+
+| Range:    | touch
+| :-------- | :------------
+| Arcane    | 1
+| Duration: | 3 turns
+
+This spell can be cast on characters, objects, or floors. When cast on a character, the recipient cannot be restrained or grabbed, wrapped in the grip of constrictor snakes, or otherwise be subject to any other grasping attacks, including binding ropes, chains, or cuffs, magical or otherwise. Simply put, nothing can get a grip on a character affected by **slipperiness**. The spell can also be cast on objects. A single casting is sufficient to affect 20 arrows, 2 one-handed weapons, 1 two-handed weapon, or one 10' x 10' patch of floor. Any object subject to the spell is virtually impossible to grasp, and characters must make an attack throw versus Armor Class 10 each round to grab or maintain their grip on such objects. Any individual moving or even standing on an affected area of floor must make a proficiency throw of 20+ each round or fall down. This spell is used to create **oil of slipperiness**.
+
+
+#### Slumber
+|Range:| 60'
+|:-------- | :---
+|Eldritch| 1 (Grey)
+|Duration:| 4d4 turns
+
+With a slumber spell, the caster may attempt to put living creatures into a magical sleep. The caster may target up to 1d4 living creatures of up to 4 HD each. Creatures with 4+1 HD or more cannot be affected at all. All creatures to be affected must be visible and within range of the spell. All targets receive a saving throw v. Paralysis to avoid the effect.
+ 
+Slumbering creatures are helpless, and cannot attack, cast spells, move, see, hear, or speak. A slumbering creature gains no benefit to its AC from its DEX or shield (if any). A slumbering creature can be ambushed or backstabbed by creatures capable of doing so. All attack throws against slumbering creatures gain a +2 bonus, or a +4 bonus if the attacker ambushes or backstabs it. The slumbering creature is dealt the attack’s ordinary damage, or the attack’s ordinary damage multiplied by two or more from ambush or backstab. Melee attack throws against slumbering creatures automatically hit if the If the attacker is of the same or larger size category than the slumbering creature. If the attacker is not engaged, and his attack is capable of damaging the slumbering creature, then the slumbering creature may be automatically slain. The attacker may not cleave thereafter, however. Otherwise, the slumbering creature may be dealt the attack’s ordinary damage.
+
+Attacking, damaging, or moving a slumbering creature awakens it, but normal noise does not. Slumber does not affect creatures that are already unconscious or undead, constructs, oozes, and other creatures that do not rest.
 
 
 #### Smite Undead*
@@ -1598,6 +2024,16 @@ This spell does not let the caster actually speak to the creature's soul. It ins
 This spell does not affect a corpse that has been turned into an undead creature.
 
 
+#### Spider Climb
+
+| Range:    | touch
+| :-------- | :------------
+| Arcane    | 1
+| Duration: | 3 turns
+
+The recipient of this spell gains the ability to climb unimpeded across vertical surfaces and hang upside from ceilings. The recipient climbs at a combat movement rate of 20'. The affected creature must have at least three limbs (hands and feet) free to **spider climb**, but needs no climbing gear or handholds. The recipient can attack with a one-handed weapon, cast spells, and defend itself normally, but cannot charge or run while climbing.
+
+
 #### Spiritual Weapon
 
 | Range:    | 30'
@@ -1636,6 +2072,15 @@ This spell gives a bonus of +4 to saving throws versus Death, Staffs, Wands, Par
 | Duration: | 3 turns
 
 This spell bestows upon one weapon within range the ability to deal 1d6 points of additional damage. This extra damage is applied on each successful attack for the duration of the spell. It provides no bonus to attack throws, but if cast on a normal weapon, the spell allows monsters only hit by magical weapons to be affected; only the 1d6 points of magical damage applies to such a monster, however.
+
+
+#### Summon Manes
+| Range:|	30’
+|:-------- | :---
+|Eldritch| 1 (Black)
+|		Duration:|	1 day
+
+The caster summons one manes per level of experience from the Outer Darkness to serve him (see [Manes](Chapter06.md#manes) in the Heroic Monsters chapter for details). The manes appear anywhere within range. The wretched demons will slavishly respond to the caster’s will. The manes vanish when destroyed or dispelled, or when the spell expires. Because of the soul-blasting nature of this spell, it cannot be cast more than once per day.
 
 
 #### Sword of Fire
@@ -1681,6 +2126,15 @@ A "very familiar" place is one the caster has been very often, such as his home 
 A creature arriving "On Target" appears in the desired location. A creature arriving "Off Target" appears 1d10x10 feet away from the target in a random direction. Should this location already be occupied by solid matter, the creature is instantly killed; if this location is above the ground, the creature will take falling damage as it plummets to earth. A creature arriving "Lost" simply does not reappear at all. Whether such creatures are disintegrated, trapped forever in some unknown plane of existence, or transported to some distant time and place is a matter of debate among the wise. Note that the caster cannot intentionally teleport himself or another creature into thin air, off target, or into solid matter.
 
 
+#### Thunderclap
+|Range:|	60’
+|:-------- | :---
+|Eldritch| 1 (Grey)
+|	Duration:|	instantaneous
+
+A deafening peal of thunder resounds at a point of the caster’s choice. The thunderclap is so loud that it can be heard as a low rumble by creatures up to 10 miles away. Each creature within 5’ of the thunderclap must make saving throw versus Blast. If the save fails, the creature suffers 1d6 points of damage and is deafened. If the save succeeds, the creature suffers half damage but is not deafened (though its ears may ache and ring). A deafened creature suffers a -2 penalty to surprise rolls and a -4 penalty on ceremony throws and spellsinging throws, and has a 2 in 6 chance of failing any attempt to cast a spell, read a scroll, or utter a command word. A deafened creature can make another saving throw at the end of its initiative each round. If the save succeeds, it is no longer deafened.
+
+
 #### Tongues*
 
 | Range:    | 60'
@@ -1691,6 +2145,16 @@ A creature arriving "On Target" appears in the desired location. A creature arri
 This spell grants the divine spellcaster the ability to speak and understand the language of any intelligent creature within a 60' radius around the caster.
 
 The reverse, garble, can be cast on any intelligent creature within 60' of the caster. No saving throw is permitted. If the target is the beneficiary of a tongues spell, garble will negate the tongues spell; otherwise, garble will render the target unable to speak and understand the languages of other intelligent creatures. While unable to communicate with others, the target may still think clearly and understand his own words, so garble does not prevent the target from casting spells. Indeed, the target may not immediately realize he is under the effects of a garble - he may think something is wrong with the creatures around him who can't understand what he's saying.
+
+
+#### Trance
+
+| Range:    | 120'
+| :-------- | :------------
+| Divine    | 1
+| Duration: | 1 round per level
+
+This spell places the caster into a deep trance. For the duration of the spell, the caster cannot move, speak, or take any action. Each round while in the **trance**, the caster can detect the presence and location of one the following, if within range: curses, incorporeal undead, permanent magical effects, sinkholes of evil, or summoned creatures.
 
 
 #### Transmute Rock to Mud*
@@ -1719,6 +2183,28 @@ Mud created by this spell remains such until the duration expires or the reverse
 This spell confers on the subject the ability to see all things as they actually are. The subject sees through normal and magical darkness, notices secret doors, sees the exact locations of displaced creatures or objects, sees through normal or magical disguises, sees invisible creatures or objects normally, sees through illusions, and sees the true form of polymorphed, changed, or transmuted things. The range of true seeing conferred is 120'.
 
 True seeing, however, does not penetrate solid objects. It in no way confers X-ray vision or its equivalent. It does not negate concealment, including that caused by fog and the like. In addition, the spell's effects cannot be further enhanced with known magic, so one cannot use true seeing through a crystal ball or in conjunction with clairvoyance.
+
+
+#### Unliving Puppet
+|Range:| 60’
+|:-------- | :---
+|Eldritch| 1 (Black)
+|Duration:| concentration
+
+This spell raises the bones or body of a single dead creature within range as an undead skeleton or zombie under the caster's mental control. An animated skeleton can be created only from a mostly intact skeleton; a zombie can be created only from a mostly intact corpse.
+
+Skeletons will have Hit Dice equal to the number the monster had in life; for skeletons of humans or demi-humans, this means one Hit Die, regardless of the character level of the deceased. Zombies will have one more Hit Die than the monster had in life. Unlike animate dead, the HD of the skeleton or zombie created are not limited by the caster’s level. However, only creatures of less than 8 HD can be raised by this spell. An unliving puppet remains animated until destroyed or dispelled, or until the caster relinquishes concentration. The creature’s remains crumble to dust when the spell ends.
+
+
+#### Unseen Servant
+
+| Range:    | 30'
+| :-------- | :------------
+| Arcane    | 1
+| Divine    | 2
+| Duration: | 6 turns plus 1 turn per level
+
+An unseen servant is an invisible, mindless, shapeless force used as a valet or assistant by mages. It can fetch items, open doors, hold chairs, clean, and perform other simple tasks. The servant can perform only one activity at a time but will perform this task unceasingly until ordered otherwise or the spell expires. The servant has a combat movement rate of 20' per round. It can carry a maximum of 2 stone (20lb) or pull 4 stone (40lb) across a smooth surface. The servant can be used to trigger traps, but since it can only exert 20 pounds of force it cannot active certain pressure plates. The unseen servant cannot fight, nor can it be harmed by normal attacks. It can be **dispelled** or it can be dissipated by receiving 6 points of damage from area attacks. If the caster attempts to send it outside the spell’s range, the servant dissipates instantly.
 
 
 #### Ventriloquism
@@ -1795,6 +2281,17 @@ The caster can create a wall of stone in almost any shape he desires. The wall c
 | Duration: | 1 day
 
 This spell allows the affected creature to breathe underwater, at any depth. It does not prevent the creature from breathing air, nor does it provide any special ability to move underwater.
+
+
+#### Weave Smoke
+|	Range:|	120'
+|:-------- | :---
+|Eldritch |1 (Grey)
+|	Duration:|	1 turn
+
+This spell allows the caster to manipulate an existing volume of fog and smoke, up to a maximum of 1,000 cubic feet, into a different shape. The spell does not create the smoke itself, so it must be cast on morning mist, banks of fog, smoke from a fire, etc. The smoke may not be woven so that it appears where objects or creatures already are, nor can it be woven into creatures. The smoke may not be woven to be less than 1” thick.
+
+Subject to those limitations, the caster can weave the smoke into almost any shape he desires. The resulting shape need not be vertical, nor rest upon any firm foundation. If woven to at least 6” thickness, woven smoke will block vision, and if woven to 1’ thickness, it will block both vision and light. Smoke never presents an obstacle to movement or magical effects (except for those requiring a line of sight to target, of course). Once woven, the smoke can still be affected by water or strong winds like an ordinary cloud of smoke, though other attacks will have correspondingly little effect on it. A disintegrate or dispel magic spell will disperse the woven smoke instantly; it will otherwise dissipate in 1 turn.
 
 
 #### Web
